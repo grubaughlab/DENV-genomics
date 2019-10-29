@@ -3,7 +3,7 @@ Curated dengue virus (serotypes 1-4) coding-complete genomes and metadata from G
 
 ## Sequences
 
-The `.fasta` files are alignments of complete or near-complete DENV genomes (with trimmed UTRs). Viruses belonging to each serotype are split into individual files. Sequences are referenced with accession numbers.
+The `.fasta` files are alignments of complete or near-complete DENV genomes (with trimmed UTRs). Viruses belonging to each serotype are split into individual files. Sequences are referenced with NCBI accession numbers (if previously published).
 
 ## Metadata
 
@@ -24,6 +24,4 @@ The `.csv` files contain metadata retrieved from public databases and/or obtaine
 
 ---
 
-**Grubaugh Lab**
-Yale School of Public Health (YSPH)
-[https://grubaughlab.com/](https://grubaughlab.com/)
+**Grubaugh Lab** | Yale School of Public Health (YSPH) | [https://grubaughlab.com/](https://grubaughlab.com/)
