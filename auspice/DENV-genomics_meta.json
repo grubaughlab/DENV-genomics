@@ -1,0 +1,426 @@
+{
+  "annotations": {
+    "DV1_gp1": {
+      "end": 10270,
+      "start": 7573,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 10735,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "BRA",
+          "#FFDC43"
+        ],
+        [
+          "HTI",
+          "#62A69C"
+        ],
+        [
+          "VEN",
+          "#76A0EC"
+        ],
+        [
+          "ARG",
+          "#B7D3DE"
+        ],
+        [
+          "ECU",
+          "#771911"
+        ],
+        [
+          "JAM",
+          "#62A69C"
+        ],
+        [
+          "PRI",
+          "#62A69C"
+        ],
+        [
+          "SLV",
+          "#C6A2F9"
+        ],
+        [
+          "NIC",
+          "#C6A2F9"
+        ],
+        [
+          "MEX",
+          "#A18362"
+        ],
+        [
+          "COL",
+          "#771911"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "color_map": [
+        [
+          "Paraiba",
+          "#E7B98A"
+        ],
+        [
+          "Alagoas",
+          "#E7B98A"
+        ],
+        [
+          "SaoPaulo",
+          "#CE9EFF"
+        ],
+        [
+          "Haiti",
+          "#62A69C"
+        ],
+        [
+          "Carabobo",
+          "#76A0EC"
+        ],
+        [
+          "Buenos-Aries",
+          "#B7D3DE"
+        ],
+        [
+          "Esmeraldas",
+          "#771911"
+        ],
+        [
+          "Distrito-Federal",
+          "#DB8E8C"
+        ],
+        [
+          "MatoGrosso",
+          "#DB8E8C"
+        ],
+        [
+          "Para",
+          "#C1E5BB"
+        ],
+        [
+          "Amapa",
+          "#C1E5BB"
+        ],
+        [
+          "Tocantins",
+          "#C1E5BB"
+        ],
+        [
+          "Roraima",
+          "#C1E5BB"
+        ],
+        [
+          "Acre",
+          "#C1E5BB"
+        ],
+        [
+          "Northern",
+          "#C1E5BB"
+        ],
+        [
+          "Pernambuco",
+          "#E7B98A"
+        ],
+        [
+          "Maranhao",
+          "#E7B98A"
+        ],
+        [
+          "Piaui",
+          "#E7B98A"
+        ],
+        [
+          "Ceara",
+          "#E7B98A"
+        ],
+        [
+          "Northeast",
+          "#E7B98A"
+        ],
+        [
+          "Rio-de-Janeiro",
+          "#C6A2F9"
+        ],
+        [
+          "Espirito-Santo",
+          "#C6A2F9"
+        ],
+        [
+          "Jamaica",
+          "#62A69C"
+        ],
+        [
+          "Puerto-Rico",
+          "#62A69C"
+        ],
+        [
+          "El-Salvador",
+          "#C6A2F9"
+        ],
+        [
+          "Managua",
+          "#C6A2F9"
+        ],
+        [
+          "Hidalgo",
+          "#A18362"
+        ],
+        [
+          "Yucatan",
+          "#A18362"
+        ],
+        [
+          "Isla-Margarita",
+          "#76A0EC"
+        ],
+        [
+          "Aragua",
+          "#76A0EC"
+        ],
+        [
+          "Merida",
+          "#76A0EC"
+        ],
+        [
+          "Santander",
+          "#771911"
+        ],
+        [
+          "Norte-de-Santander",
+          "#771911"
+        ],
+        [
+          "Machala",
+          "#771911"
+        ]
+      ],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "contry",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "ARG": {
+        "latitude": -35.234136,
+        "longitude": -65.064224
+      },
+      "BRA": {
+        "latitude": -12.861014,
+        "longitude": -50.511145
+      },
+      "COL": {
+        "latitude": 3.505551,
+        "longitude": -73.095503
+      },
+      "ECU": {
+        "latitude": -1.495612,
+        "longitude": -78.429985
+      },
+      "HTI": {
+        "latitude": 19.2170812,
+        "longitude": -71.9231572
+      },
+      "JAM": {
+        "latitude": 17.97521495,
+        "longitude": -76.81757279
+      },
+      "MEX": {
+        "latitude": 19.4839446,
+        "longitude": -99.6899716
+      },
+      "NIC": {
+        "latitude": 12.901172,
+        "longitude": -85.039467
+      },
+      "PRI": {
+        "latitude": 18.220667,
+        "longitude": -66.589806
+      },
+      "SLV": {
+        "latitude": 13.794016,
+        "longitude": -88.897046
+      },
+      "VEN": {
+        "latitude": 7.082453,
+        "longitude": -66.139951
+      }
+    },
+    "state": {
+      "Acre": {
+        "latitude": -9.0478679,
+        "longitude": -70.5264976
+      },
+      "Alagoas": {
+        "latitude": -9.6611661,
+        "longitude": -36.6502426
+      },
+      "Amapa": {
+        "latitude": 1.3545442,
+        "longitude": -51.9161977
+      },
+      "Aragua": {
+        "latitude": 10.0,
+        "longitude": -67.166667
+      },
+      "Buenos-Aries": {
+        "latitude": -34.603672,
+        "longitude": -58.381574
+      },
+      "Carabobo": {
+        "latitude": 10.166667,
+        "longitude": -68.083333
+      },
+      "Ceara": {
+        "latitude": -5.3264703,
+        "longitude": -39.7156073
+      },
+      "Distrito-Federal": {
+        "latitude": -15.7754462,
+        "longitude": -47.7970891
+      },
+      "El-Salvador": {
+        "latitude": 13.8000382,
+        "longitude": -88.9140683
+      },
+      "Esmeraldas": {
+        "latitude": 0.7343619,
+        "longitude": -79.3858867
+      },
+      "Espirito-Santo": {
+        "latitude": -19.5687682,
+        "longitude": -40.1721991
+      },
+      "Haiti": {
+        "latitude": 19.2170812,
+        "longitude": -71.9231572
+      },
+      "Hidalgo": {
+        "latitude": 20.5,
+        "longitude": -99.0
+      },
+      "Isla-Margarita": {
+        "latitude": 11.02059625,
+        "longitude": -63.9073429
+      },
+      "Jamaica": {
+        "latitude": 18.1152958,
+        "longitude": -77.15984546
+      },
+      "Machala": {
+        "latitude": -3.2587494,
+        "longitude": -79.9595133
+      },
+      "Managua": {
+        "latitude": 12.1461244,
+        "longitude": -86.273717
+      },
+      "Maranhao": {
+        "latitude": -5.2085503,
+        "longitude": -45.3930262
+      },
+      "MatoGrosso": {
+        "latitude": -12.899044,
+        "longitude": -55.730973
+      },
+      "Merida": {
+        "latitude": 8.5875788,
+        "longitude": -71.1572352
+      },
+      "Norte-de-Santander": {
+        "latitude": 8.4417924,
+        "longitude": -73.0492505
+      },
+      "Northeast": {
+        "latitude": -9.57166435,
+        "longitude": -40.96105177
+      },
+      "Northern": {
+        "latitude": -4.2112672,
+        "longitude": -58.65071683
+      },
+      "Para": {
+        "latitude": -4.7493933,
+        "longitude": -52.8973006
+      },
+      "Paraiba": {
+        "latitude": -7.1219366,
+        "longitude": -36.7246845
+      },
+      "Pernambuco": {
+        "latitude": -8.4116316,
+        "longitude": -37.5919699
+      },
+      "Piaui": {
+        "latitude": -7.6992782,
+        "longitude": -42.5043787
+      },
+      "Puerto-Rico": {
+        "latitude": 18.22141715,
+        "longitude": -66.41328185
+      },
+      "Rio-de-Janeiro": {
+        "latitude": -22.9110137,
+        "longitude": -43.2093727
+      },
+      "Roraima": {
+        "latitude": 2.135138,
+        "longitude": -61.3631922
+      },
+      "Santander": {
+        "latitude": 7.0000085,
+        "longitude": -73.2500086
+      },
+      "SaoPaulo": {
+        "latitude": -23.02801515,
+        "longitude": -45.55652081
+      },
+      "Tocantins": {
+        "latitude": -10.8855129,
+        "longitude": -48.3716912
+      },
+      "Yucatan": {
+        "latitude": 20.6845957,
+        "longitude": -88.8755669
+      }
+    }
+  },
+  "maintainer": [
+    "Grubaugh Lab",
+    "http://grubaughlab.com/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Dengue 1 outbreak in Brazil, 2018-2019",
+  "updated": "11 Dec 2019",
+  "virus_count": 124
+}
