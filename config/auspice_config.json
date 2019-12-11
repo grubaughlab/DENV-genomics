@@ -2,10 +2,12 @@
   "title": "Dengue 1 outbreak in Brazil, 2018-2019",
   "color_options": {
     "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "region": {"legendTitle":"Region", "type":"discrete"},
     "country": {"legendTitle":"Country", "type":"discrete"},
     "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"}
   },
   "geo": [
+    "region",
     "country",
     "state"
   ],
@@ -14,6 +16,7 @@
     "http://grubaughlab.com/"
   ],
   "filters": [
+    "region",
     "country",
     "state"
   ],

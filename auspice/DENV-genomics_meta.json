@@ -71,7 +71,11 @@
         ],
         [
           "HTI",
-          "#62A69C"
+          "#3A635D"
+        ],
+        [
+          "VGB",
+          "#4E847C"
         ],
         [
           "JAM",
@@ -79,11 +83,11 @@
         ],
         [
           "PRI",
-          "#62A69C"
+          "#81B7AF"
         ],
         [
           "SLV",
-          "#C9E569"
+          "#8CA049"
         ],
         [
           "NIC",
@@ -91,7 +95,7 @@
         ],
         [
           "BRA",
-          "#FFDC43"
+          "#E7AD00"
         ],
         [
           "VEN",
@@ -103,7 +107,7 @@
         ],
         [
           "ECU",
-          "#771911"
+          "#924740"
         ],
         [
           "ARG",
@@ -121,6 +125,54 @@
       "menuItem": "date",
       "type": "continuous"
     },
+    "region": {
+      "color_map": [
+        [
+          "Mexico",
+          "#A18362"
+        ],
+        [
+          "Caribbean",
+          "#62A69C"
+        ],
+        [
+          "Central-America",
+          "#C9E569"
+        ],
+        [
+          "Northern-South-America",
+          "#76A0EC"
+        ],
+        [
+          "Western-South-America",
+          "#771911"
+        ],
+        [
+          "Brazil-CenterWest",
+          "#DB8E8C"
+        ],
+        [
+          "Brazil-North",
+          "#C1E5BB"
+        ],
+        [
+          "Brazil-Northeast",
+          "#E7B98A"
+        ],
+        [
+          "Brazil-Southeast",
+          "#C6A2F9"
+        ],
+        [
+          "Southern-South-America",
+          "#B7D3DE"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "Region",
+      "menuItem": "region",
+      "type": "discrete"
+    },
     "state": {
       "color_map": [
         [
@@ -133,7 +185,11 @@
         ],
         [
           "HTI/Haiti",
-          "#62A69C"
+          "#3A635D"
+        ],
+        [
+          "VGB/Tortola",
+          "#4E847C"
         ],
         [
           "JAM/Jamaica",
@@ -141,11 +197,11 @@
         ],
         [
           "PRI/Puerto-Rico",
-          "#62A69C"
+          "#81B7AF"
         ],
         [
           "SLV/El-Salvador",
-          "#C9E569"
+          "#8CA049"
         ],
         [
           "NIC/Managua",
@@ -177,11 +233,11 @@
         ],
         [
           "ECU/Esmeraldas",
-          "#771911"
+          "#924740"
         ],
         [
           "ECU/Machala",
-          "#771911"
+          "#924740"
         ],
         [
           "BRA/Para",
@@ -272,6 +328,7 @@
     "mapTriplicate": false
   },
   "filters": [
+    "region",
     "country",
     "state"
   ],
@@ -320,6 +377,52 @@
       "VEN": {
         "latitude": 7.082453,
         "longitude": -66.139951
+      },
+      "VGB": {
+        "latitude": 18.42105685,
+        "longitude": -64.63883251
+      }
+    },
+    "region": {
+      "Brazil-CenterWest": {
+        "latitude": -18.039469,
+        "longitude": -53.07199
+      },
+      "Brazil-North": {
+        "latitude": -4.58985,
+        "longitude": -57.391623
+      },
+      "Brazil-Northeast": {
+        "latitude": -8.717633,
+        "longitude": -41.342772
+      },
+      "Brazil-Southeast": {
+        "latitude": -22.406285,
+        "longitude": -44.809388
+      },
+      "Caribbean": {
+        "latitude": 18.410007,
+        "longitude": -75.011349
+      },
+      "Central-America": {
+        "latitude": 13.967612,
+        "longitude": -85.753343
+      },
+      "Mexico": {
+        "latitude": 23.906714,
+        "longitude": -102.536304
+      },
+      "Northern-South-America": {
+        "latitude": 6.754184,
+        "longitude": -60.722217
+      },
+      "Southern-South-America": {
+        "latitude": -35.187007,
+        "longitude": -65.149401
+      },
+      "Western-South-America": {
+        "latitude": -0.117288,
+        "longitude": -75.257339
       }
     },
     "state": {
@@ -458,6 +561,10 @@
       "VEN/Merida": {
         "latitude": 8.5875788,
         "longitude": -71.1572352
+      },
+      "VGB/Tortola": {
+        "latitude": 18.42105685,
+        "longitude": -64.63883251
       }
     }
   },
@@ -472,5 +579,5 @@
   ],
   "title": "Dengue 1 outbreak in Brazil, 2018-2019",
   "updated": "11 Dec 2019",
-  "virus_count": 124
+  "virus_count": 126
 }
