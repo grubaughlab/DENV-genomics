@@ -1,5 +1,5 @@
 # DENV-genomics
-Curated dengue virus (serotypes 1-4) coding-complete genomes and metadata from GenBank.
+Curated dengue virus (serotypes 1-4) coding-complete genomes and metadata pulled from GenBank on 2019.03.14.
 
 ## Sequences
 
