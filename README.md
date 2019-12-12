@@ -1,5 +1,5 @@
 # DENV-genomics
-In this repository one can find curated dengue virus (serotypes 1-4) coding complete genomes, as well as metadata pulled from GenBank on 2019.03.14. This repository also stores results of analyses performed using [nextstrain](nextstrain.org) (see `auspice` directory).
+In this repository one can find curated dengue virus (serotypes 1-4) coding complete genomes, as well as metadata pulled from GenBank on 2019.03.14. This repository also stores results of analyses performed using [nextstrain](www.nextstrain.org) (see `auspice` directory).
 
 ## Sequences
 
