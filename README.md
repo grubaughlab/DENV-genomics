@@ -1,13 +1,13 @@
 # DENV-genomics
-Curated dengue virus (serotypes 1-4) coding-complete genomes and metadata pulled from GenBank on 2019.03.14.
+In this repository one can find curated dengue virus (serotypes 1-4) coding complete genomes, as well as metadata pulled from GenBank on 2019.03.14. This repository also stores results of analyses performed using [nextstrain](nextstrain.org) (see `auspice` directory).
 
 ## Sequences
 
-The `.fasta` files are alignments of complete or near-complete DENV genomes (with trimmed UTRs). Viruses belonging to each serotype are split into individual files. Sequences are referenced with NCBI accession numbers (if previously published).
+Inside the directory `genomes` one can find alignments (`.fasta` files) of complete or near-complete DENV genomes (with trimmed UTRs). Viruses belonging to each serotype are split into individual files. Sequences are referenced with NCBI accession numbers (if previously published).
 
 ## Metadata
 
-The `.csv` files contain metadata retrieved from public databases and/or obtained via personal communication. In these files one can find the following data about the genomes:
+Also in the folder `genomes`, `.csv` files can be found, including metadata retrieved from public databases and/or obtained via personal communication. In these files one can find the following data about the genomes:
 
 * accession number
 * serotype
