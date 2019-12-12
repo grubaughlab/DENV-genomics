@@ -22,6 +22,12 @@ Also in the folder `genomes`, `.csv` files can be found, including metadata retr
 * longitude
 * isolation-date
 
+## Nextstrain
+
+Some of our analyses were performed using the nextstrain (`augur`) pipeline. These results can be visualized using `auspice`, accessing the link below:
+
+* [Dengue 1 outbreak in Brazil, 2018-2019](https://nextstrain.org/community/grubaughlab/DENV-genomics/DENV1-Brazil)
+
 ---
 
 **Grubaugh Lab** | Yale School of Public Health (YSPH) | [https://grubaughlab.com/](https://grubaughlab.com/)
