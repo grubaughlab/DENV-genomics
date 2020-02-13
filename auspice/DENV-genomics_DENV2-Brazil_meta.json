@@ -1,0 +1,658 @@
+{
+  "annotations": {
+    "C": {
+      "end": 438,
+      "start": 96,
+      "strand": 1
+    },
+    "E": {
+      "end": 2421,
+      "start": 936,
+      "strand": 1
+    },
+    "NS1": {
+      "end": 3477,
+      "start": 2421,
+      "strand": 1
+    },
+    "NS2A": {
+      "end": 4131,
+      "start": 3477,
+      "strand": 1
+    },
+    "NS2B": {
+      "end": 4518,
+      "start": 4131,
+      "strand": 1
+    },
+    "NS3": {
+      "end": 6375,
+      "start": 4518,
+      "strand": 1
+    },
+    "NS4A": {
+      "end": 6825,
+      "start": 6375,
+      "strand": 1
+    },
+    "NS4B": {
+      "end": 7569,
+      "start": 6825,
+      "strand": 1
+    },
+    "NS5": {
+      "end": 10269,
+      "start": 7569,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 10723,
+      "start": 0,
+      "strand": 1
+    },
+    "prM": {
+      "end": 936,
+      "start": 438,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "MEX",
+          "#A18362"
+        ],
+        [
+          "NIC",
+          "#C9E569"
+        ],
+        [
+          "HTI",
+          "#81B7AF"
+        ],
+        [
+          "DOM",
+          "#81B7AF"
+        ],
+        [
+          "PRI",
+          "#81B7AF"
+        ],
+        [
+          "VIR",
+          "#81B7AF"
+        ],
+        [
+          "CUB",
+          "#81B7AF"
+        ],
+        [
+          "JAM",
+          "#81B7AF"
+        ],
+        [
+          "GLP",
+          "#81B7AF"
+        ],
+        [
+          "MTQ",
+          "#81B7AF"
+        ],
+        [
+          "VEN",
+          "#76A0EC"
+        ],
+        [
+          "SUR",
+          "#76A0EC"
+        ],
+        [
+          "GUF",
+          "#76A0EC"
+        ],
+        [
+          "COL",
+          "#771911"
+        ],
+        [
+          "ECU",
+          "#924740"
+        ],
+        [
+          "PER",
+          "#924740"
+        ],
+        [
+          "BRA",
+          "#E7AD00"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "Mexico",
+          "#A18362"
+        ],
+        [
+          "Caribbean",
+          "#62A69C"
+        ],
+        [
+          "Central-America",
+          "#C9E569"
+        ],
+        [
+          "Northern-South-America",
+          "#76A0EC"
+        ],
+        [
+          "Western-South-America",
+          "#771911"
+        ],
+        [
+          "Brazil-CenterWest",
+          "#DB8E8C"
+        ],
+        [
+          "Brazil-North",
+          "#C1E5BB"
+        ],
+        [
+          "Brazil-Northeast",
+          "#E7B98A"
+        ],
+        [
+          "Brazil-Southeast",
+          "#C6A2F9"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "Region",
+      "menuItem": "region",
+      "type": "discrete"
+    },
+    "state": {
+      "color_map": [
+        [
+          "BRA/Acre",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Amapa",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Amazonas",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Rondonia",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Tocantins",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Roraima",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Para",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Northern",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Maranhao",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Piaui",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Ceara",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Rio-grande-do-norte",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Pernambuco",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Mato-grosso-do-sul",
+          "#DB8E8C"
+        ],
+        [
+          "BRA/Minas-gerais",
+          "#C6A2F9"
+        ],
+        [
+          "BRA/Rio-de-Janeiro",
+          "#C6A2F9"
+        ],
+        [
+          "BRA/SaoPaulo",
+          "#C6A2F9"
+        ],
+        [
+          "BRA/EspiritoSanto",
+          "#C6A2F9"
+        ],
+        [
+          "CUB/Cuba",
+          "#81B7AF"
+        ],
+        [
+          "DOM/Dominican-Republic",
+          "#81B7AF"
+        ],
+        [
+          "GLP/Guadeloupe",
+          "#81B7AF"
+        ],
+        [
+          "HTI/Haiti",
+          "#81B7AF"
+        ],
+        [
+          "JAM/Jamaica",
+          "#81B7AF"
+        ],
+        [
+          "MTQ/Martinique",
+          "#81B7AF"
+        ],
+        [
+          "PRI/Puerto-Rico",
+          "#81B7AF"
+        ],
+        [
+          "VIR/VirginIslands",
+          "#81B7AF"
+        ],
+        [
+          "NIC/Carazo",
+          "#C9E569"
+        ],
+        [
+          "NIC/Leon",
+          "#C9E569"
+        ],
+        [
+          "NIC/Managua",
+          "#C9E569"
+        ],
+        [
+          "MEX/Oaxaca",
+          "#A18362"
+        ],
+        [
+          "MEX/Yucatan",
+          "#A18362"
+        ],
+        [
+          "GUF/French-Guiana",
+          "#76A0EC"
+        ],
+        [
+          "SUR/Suriname",
+          "#76A0EC"
+        ],
+        [
+          "VEN/Aragua",
+          "#76A0EC"
+        ],
+        [
+          "VEN/Carabobo",
+          "#76A0EC"
+        ],
+        [
+          "VEN/NA",
+          "#76A0EC"
+        ],
+        [
+          "COL/Guaviare",
+          "#771911"
+        ],
+        [
+          "COL/Santander",
+          "#771911"
+        ],
+        [
+          "ECU/Machala",
+          "#771911"
+        ],
+        [
+          "PER/Iquitos",
+          "#771911"
+        ],
+        [
+          "PER/Puerto-Maldonado",
+          "#771911"
+        ]
+      ],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "region",
+    "geoResolution": "region",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "region",
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "BRA": {
+        "latitude": -12.861014,
+        "longitude": -50.511145
+      },
+      "COL": {
+        "latitude": 3.505551,
+        "longitude": -73.095503
+      },
+      "CUB": {
+        "latitude": 21.860144,
+        "longitude": -78.760113
+      },
+      "DOM": {
+        "latitude": 18.935626,
+        "longitude": -70.474906
+      },
+      "ECU": {
+        "latitude": -1.495612,
+        "longitude": -78.429985
+      },
+      "GLP": {
+        "latitude": 16.260882,
+        "longitude": -61.567339
+      },
+      "GUF": {
+        "latitude": 3.823025,
+        "longitude": -53.179497
+      },
+      "HTI": {
+        "latitude": 19.2170812,
+        "longitude": -71.9231572
+      },
+      "JAM": {
+        "latitude": 17.97521495,
+        "longitude": -76.81757279
+      },
+      "MEX": {
+        "latitude": 19.4839446,
+        "longitude": -99.6899716
+      },
+      "MTQ": {
+        "latitude": 14.625322,
+        "longitude": -60.989974
+      },
+      "NIC": {
+        "latitude": 12.901172,
+        "longitude": -85.039467
+      },
+      "PER": {
+        "latitude": -10.256895,
+        "longitude": -74.696232
+      },
+      "PRI": {
+        "latitude": 18.220667,
+        "longitude": -66.589806
+      },
+      "SUR": {
+        "latitude": 3.958493,
+        "longitude": -55.844874
+      },
+      "VEN": {
+        "latitude": 7.082453,
+        "longitude": -66.139951
+      },
+      "VIR": {
+        "latitude": 17.733443,
+        "longitude": -64.76928
+      }
+    },
+    "region": {
+      "Brazil-CenterWest": {
+        "latitude": -18.039469,
+        "longitude": -53.07199
+      },
+      "Brazil-North": {
+        "latitude": -4.58985,
+        "longitude": -57.391623
+      },
+      "Brazil-Northeast": {
+        "latitude": -8.717633,
+        "longitude": -41.342772
+      },
+      "Brazil-Southeast": {
+        "latitude": -22.406285,
+        "longitude": -44.809388
+      },
+      "Caribbean": {
+        "latitude": 18.410007,
+        "longitude": -75.011349
+      },
+      "Central-America": {
+        "latitude": 13.967612,
+        "longitude": -85.753343
+      },
+      "Mexico": {
+        "latitude": 23.906714,
+        "longitude": -102.536304
+      },
+      "Northern-South-America": {
+        "latitude": 6.754184,
+        "longitude": -60.722217
+      },
+      "Western-South-America": {
+        "latitude": -0.117288,
+        "longitude": -75.257339
+      }
+    },
+    "state": {
+      "BRA/Acre": {
+        "latitude": -9.0478679,
+        "longitude": -70.5264976
+      },
+      "BRA/Amapa": {
+        "latitude": 1.3545442,
+        "longitude": -51.9161977
+      },
+      "BRA/Amazonas": {
+        "latitude": -4.241162,
+        "longitude": -64.215128
+      },
+      "BRA/Ceara": {
+        "latitude": -5.3264703,
+        "longitude": -39.7156073
+      },
+      "BRA/EspiritoSanto": {
+        "latitude": -19.769043,
+        "longitude": -40.567772
+      },
+      "BRA/Maranhao": {
+        "latitude": -5.2085503,
+        "longitude": -45.3930262
+      },
+      "BRA/Mato-grosso-do-sul": {
+        "latitude": -20.55349,
+        "longitude": -54.668001
+      },
+      "BRA/Minas-gerais": {
+        "latitude": -18.73294,
+        "longitude": -44.408789
+      },
+      "BRA/Northern": {
+        "latitude": -4.2112672,
+        "longitude": -58.65071683
+      },
+      "BRA/Para": {
+        "latitude": -4.7493933,
+        "longitude": -52.8973006
+      },
+      "BRA/Pernambuco": {
+        "latitude": -8.4116316,
+        "longitude": -37.5919699
+      },
+      "BRA/Piaui": {
+        "latitude": -7.6992782,
+        "longitude": -42.5043787
+      },
+      "BRA/Rio-de-Janeiro": {
+        "latitude": -22.9110137,
+        "longitude": -43.2093727
+      },
+      "BRA/Rio-grande-do-norte": {
+        "latitude": -5.802822,
+        "longitude": -36.490305
+      },
+      "BRA/Rondonia": {
+        "latitude": -11.052465,
+        "longitude": -62.846448
+      },
+      "BRA/Roraima": {
+        "latitude": 2.135138,
+        "longitude": -61.3631922
+      },
+      "BRA/SaoPaulo": {
+        "latitude": -22.302461,
+        "longitude": -48.575879
+      },
+      "BRA/Tocantins": {
+        "latitude": -10.8855129,
+        "longitude": -48.3716912
+      },
+      "COL/Guaviare": {
+        "latitude": 1.901516,
+        "longitude": -72.196346
+      },
+      "COL/Santander": {
+        "latitude": 7.0000085,
+        "longitude": -73.2500086
+      },
+      "CUB/Cuba": {
+        "latitude": 21.860144,
+        "longitude": -78.760113
+      },
+      "DOM/Dominican-Republic": {
+        "latitude": 18.935626,
+        "longitude": -70.474906
+      },
+      "ECU/Machala": {
+        "latitude": -3.2587494,
+        "longitude": -79.9595133
+      },
+      "GLP/Guadeloupe": {
+        "latitude": 16.260882,
+        "longitude": -61.567339
+      },
+      "GUF/French-Guiana": {
+        "latitude": 3.823025,
+        "longitude": -53.179497
+      },
+      "HTI/Haiti": {
+        "latitude": 19.2170812,
+        "longitude": -71.9231572
+      },
+      "JAM/Jamaica": {
+        "latitude": 18.160451,
+        "longitude": -77.31791
+      },
+      "MEX/Oaxaca": {
+        "latitude": 16.888416,
+        "longitude": -96.377633
+      },
+      "MEX/Yucatan": {
+        "latitude": 20.6845957,
+        "longitude": -88.8755669
+      },
+      "MTQ/Martinique": {
+        "latitude": 14.625322,
+        "longitude": -60.989974
+      },
+      "NIC/Carazo": {
+        "latitude": 11.748328,
+        "longitude": -86.249123
+      },
+      "NIC/Leon": {
+        "latitude": 12.600087,
+        "longitude": -86.595727
+      },
+      "NIC/Managua": {
+        "latitude": 12.1461244,
+        "longitude": -86.273717
+      },
+      "PER/Iquitos": {
+        "latitude": -3.767118,
+        "longitude": -73.371991
+      },
+      "PER/Puerto-Maldonado": {
+        "latitude": -12.357158,
+        "longitude": -69.477618
+      },
+      "PRI/Puerto-Rico": {
+        "latitude": 18.21167,
+        "longitude": -66.479559
+      },
+      "SUR/Suriname": {
+        "latitude": 3.958493,
+        "longitude": -55.844874
+      },
+      "VEN/Aragua": {
+        "latitude": 10.0,
+        "longitude": -67.166667
+      },
+      "VEN/Carabobo": {
+        "latitude": 10.166667,
+        "longitude": -68.083333
+      },
+      "VEN/NA": {
+        "latitude": 6.575253,
+        "longitude": -65.722698
+      },
+      "VIR/VirginIslands": {
+        "latitude": 17.733443,
+        "longitude": -64.76928
+      }
+    }
+  },
+  "maintainer": [
+    "Anderson Brito",
+    "Add your github link repository here"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Dengue 2 in Brazil (2018-2019)",
+  "updated": "12 Feb 2020",
+  "virus_count": 185
+}
