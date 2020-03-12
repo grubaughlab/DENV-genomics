@@ -70,20 +70,12 @@
           "#A18362"
         ],
         [
-          "HTI",
-          "#3A635D"
-        ],
-        [
-          "VGB",
-          "#4E847C"
-        ],
-        [
-          "JAM",
+          "PRI",
           "#62A69C"
         ],
         [
-          "PRI",
-          "#81B7AF"
+          "BLM",
+          "#66CCBC"
         ],
         [
           "SLV",
@@ -92,10 +84,6 @@
         [
           "NIC",
           "#C9E569"
-        ],
-        [
-          "BRA",
-          "#E7AD00"
         ],
         [
           "VEN",
@@ -107,7 +95,11 @@
         ],
         [
           "ECU",
-          "#924740"
+          "#B26C66"
+        ],
+        [
+          "BRA",
+          "#E7AD00"
         ],
         [
           "ARG",
@@ -148,16 +140,16 @@
           "#771911"
         ],
         [
-          "Brazil-CenterWest",
-          "#DB8E8C"
-        ],
-        [
           "Brazil-North",
           "#C1E5BB"
         ],
         [
           "Brazil-Northeast",
           "#E7B98A"
+        ],
+        [
+          "Brazil-CenterWest",
+          "#DB8E8C"
         ],
         [
           "Brazil-Southeast",
@@ -176,31 +168,23 @@
     "state": {
       "color_map": [
         [
-          "MEX/Hidalgo",
-          "#A18362"
-        ],
-        [
           "MEX/Yucatan",
           "#A18362"
         ],
         [
-          "HTI/Haiti",
-          "#3A635D"
+          "MEX/Campeche",
+          "#A18362"
         ],
         [
-          "VGB/Tortola",
-          "#4E847C"
-        ],
-        [
-          "JAM/Jamaica",
+          "PRI/NA",
           "#62A69C"
         ],
         [
-          "PRI/Puerto-Rico",
-          "#81B7AF"
+          "BLM/NA",
+          "#66CCBC"
         ],
         [
-          "SLV/El-Salvador",
+          "SLV/NA",
           "#8CA049"
         ],
         [
@@ -208,11 +192,15 @@
           "#C9E569"
         ],
         [
-          "VEN/Carabobo",
+          "VEN/Isla-Margarita",
           "#76A0EC"
         ],
         [
-          "VEN/Isla-Margarita",
+          "VEN/Caracas",
+          "#76A0EC"
+        ],
+        [
+          "VEN/Carabobo",
           "#76A0EC"
         ],
         [
@@ -232,15 +220,7 @@
           "#771911"
         ],
         [
-          "ECU/Esmeraldas",
-          "#924740"
-        ],
-        [
-          "ECU/Machala",
-          "#924740"
-        ],
-        [
-          "BRA/Para",
+          "BRA/Roraima",
           "#C1E5BB"
         ],
         [
@@ -248,39 +228,23 @@
           "#C1E5BB"
         ],
         [
-          "BRA/Tocantins",
-          "#C1E5BB"
+          "ECU/Esmeraldas",
+          "#B26C66"
         ],
         [
-          "BRA/Roraima",
-          "#C1E5BB"
-        ],
-        [
-          "BRA/Acre",
-          "#C1E5BB"
+          "ECU/Machala",
+          "#B26C66"
         ],
         [
           "BRA/Northern",
           "#C1E5BB"
         ],
         [
-          "BRA/Paraiba",
-          "#E7B98A"
-        ],
-        [
-          "BRA/Alagoas",
-          "#E7B98A"
-        ],
-        [
-          "BRA/Pernambuco",
-          "#E7B98A"
+          "BRA/Para",
+          "#C1E5BB"
         ],
         [
           "BRA/Maranhao",
-          "#E7B98A"
-        ],
-        [
-          "BRA/Piaui",
           "#E7B98A"
         ],
         [
@@ -288,16 +252,44 @@
           "#E7B98A"
         ],
         [
+          "BRA/Paraiba",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Piaui",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Pernambuco",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Acre",
+          "#C1E5BB"
+        ],
+        [
           "BRA/Northeast",
           "#E7B98A"
+        ],
+        [
+          "BRA/Alagoas",
+          "#E7B98A"
+        ],
+        [
+          "BRA/Tocantins",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/MatoGrosso",
+          "#DB8E8C"
         ],
         [
           "BRA/Distrito-Federal",
           "#DB8E8C"
         ],
         [
-          "BRA/MatoGrosso",
-          "#DB8E8C"
+          "BRA/Espirito-Santo",
+          "#C6A2F9"
         ],
         [
           "BRA/SaoPaulo",
@@ -308,11 +300,7 @@
           "#C6A2F9"
         ],
         [
-          "BRA/Espirito-Santo",
-          "#C6A2F9"
-        ],
-        [
-          "ARG/Buenos-Aries",
+          "ARG/Buenos-Aires",
           "#B7D3DE"
         ]
       ],
@@ -323,7 +311,7 @@
     }
   },
   "defaults": {
-    "colorBy": "state",
+    "colorBy": "region",
     "geoResolution": "state",
     "mapTriplicate": false
   },
@@ -338,6 +326,10 @@
         "latitude": -35.234136,
         "longitude": -65.064224
       },
+      "BLM": {
+        "latitude": 17.89604,
+        "longitude": -62.828123
+      },
       "BRA": {
         "latitude": -12.861014,
         "longitude": -50.511145
@@ -349,14 +341,6 @@
       "ECU": {
         "latitude": -1.495612,
         "longitude": -78.429985
-      },
-      "HTI": {
-        "latitude": 19.2170812,
-        "longitude": -71.9231572
-      },
-      "JAM": {
-        "latitude": 17.97521495,
-        "longitude": -76.81757279
       },
       "MEX": {
         "latitude": 19.4839446,
@@ -377,10 +361,6 @@
       "VEN": {
         "latitude": 7.082453,
         "longitude": -66.139951
-      },
-      "VGB": {
-        "latitude": 18.42105685,
-        "longitude": -64.63883251
       }
     },
     "region": {
@@ -426,9 +406,13 @@
       }
     },
     "state": {
-      "ARG/Buenos-Aries": {
+      "ARG/Buenos-Aires": {
         "latitude": -34.603672,
         "longitude": -58.381574
+      },
+      "BLM/NA": {
+        "latitude": 17.89604,
+        "longitude": -62.828123
       },
       "BRA/Acre": {
         "latitude": -9.0478679,
@@ -467,8 +451,8 @@
         "longitude": -40.96105177
       },
       "BRA/Northern": {
-        "latitude": -4.2112672,
-        "longitude": -58.65071683
+        "latitude": -4.576574,
+        "longitude": -57.384807
       },
       "BRA/Para": {
         "latitude": -4.7493933,
@@ -495,8 +479,8 @@
         "longitude": -61.3631922
       },
       "BRA/SaoPaulo": {
-        "latitude": -23.02801515,
-        "longitude": -45.55652081
+        "latitude": -22.302461,
+        "longitude": -48.575879
       },
       "BRA/Tocantins": {
         "latitude": -10.8855129,
@@ -518,17 +502,9 @@
         "latitude": -3.2587494,
         "longitude": -79.9595133
       },
-      "HTI/Haiti": {
-        "latitude": 19.2170812,
-        "longitude": -71.9231572
-      },
-      "JAM/Jamaica": {
-        "latitude": 18.1152958,
-        "longitude": -77.15984546
-      },
-      "MEX/Hidalgo": {
-        "latitude": 20.5,
-        "longitude": -99.0
+      "MEX/Campeche": {
+        "latitude": 19.833684,
+        "longitude": -90.516769
       },
       "MEX/Yucatan": {
         "latitude": 20.6845957,
@@ -538,11 +514,11 @@
         "latitude": 12.1461244,
         "longitude": -86.273717
       },
-      "PRI/Puerto-Rico": {
+      "PRI/NA": {
         "latitude": 18.22141715,
         "longitude": -66.41328185
       },
-      "SLV/El-Salvador": {
+      "SLV/NA": {
         "latitude": 13.8000382,
         "longitude": -88.9140683
       },
@@ -554,6 +530,10 @@
         "latitude": 10.166667,
         "longitude": -68.083333
       },
+      "VEN/Caracas": {
+        "latitude": 10.478489,
+        "longitude": -66.90102
+      },
       "VEN/Isla-Margarita": {
         "latitude": 11.02059625,
         "longitude": -63.9073429
@@ -561,16 +541,12 @@
       "VEN/Merida": {
         "latitude": 8.5875788,
         "longitude": -71.1572352
-      },
-      "VGB/Tortola": {
-        "latitude": 18.42105685,
-        "longitude": -64.63883251
       }
     }
   },
   "maintainer": [
-    "Grubaugh Lab",
-    "http://grubaughlab.com/"
+    "Anderson Brito (Grubaugh Lab)",
+    "https://github.com/grubaughlab"
   ],
   "panels": [
     "tree",
@@ -578,6 +554,6 @@
     "entropy"
   ],
   "title": "Dengue 1 outbreak in Brazil, 2018-2019",
-  "updated": "11 Dec 2019",
-  "virus_count": 126
+  "updated": "09 Mar 2020",
+  "virus_count": 201
 }
