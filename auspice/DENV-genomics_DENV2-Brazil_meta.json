@@ -61,44 +61,60 @@
     "country": {
       "color_map": [
         [
+          "CUB",
+          "#00332B"
+        ],
+        [
+          "HTI",
+          "#14473F"
+        ],
+        [
+          "DOM",
+          "#285B53"
+        ],
+        [
+          "PRI",
+          "#3D7068"
+        ],
+        [
+          "JAM",
+          "#51847C"
+        ],
+        [
+          "VIR",
+          "#669991"
+        ],
+        [
+          "KNA",
+          "#7AADA5"
+        ],
+        [
+          "BLZ",
+          "#8EC1B9"
+        ],
+        [
+          "GLP",
+          "#A3D6CE"
+        ],
+        [
+          "MTQ",
+          "#CCFFF7"
+        ],
+        [
           "MEX",
           "#A18362"
         ],
         [
+          "GTM",
+          "#B7EAE2"
+        ],
+        [
           "NIC",
-          "#C9E569"
+          "#9DCC00"
         ],
         [
-          "HTI",
-          "#81B7AF"
-        ],
-        [
-          "DOM",
-          "#81B7AF"
-        ],
-        [
-          "PRI",
-          "#81B7AF"
-        ],
-        [
-          "VIR",
-          "#81B7AF"
-        ],
-        [
-          "CUB",
-          "#81B7AF"
-        ],
-        [
-          "JAM",
-          "#81B7AF"
-        ],
-        [
-          "GLP",
-          "#81B7AF"
-        ],
-        [
-          "MTQ",
-          "#81B7AF"
+          "PAN",
+          "#BCE533"
         ],
         [
           "VEN",
@@ -118,11 +134,11 @@
         ],
         [
           "ECU",
-          "#924740"
+          "#B26C66"
         ],
         [
           "PER",
-          "#924740"
+          "#771911"
         ],
         [
           "BRA",
@@ -163,16 +179,16 @@
           "#771911"
         ],
         [
-          "Brazil-CenterWest",
-          "#DB8E8C"
-        ],
-        [
           "Brazil-North",
           "#C1E5BB"
         ],
         [
           "Brazil-Northeast",
           "#E7B98A"
+        ],
+        [
+          "Brazil-CenterWest",
+          "#DB8E8C"
         ],
         [
           "Brazil-Southeast",
@@ -187,7 +203,147 @@
     "state": {
       "color_map": [
         [
-          "BRA/Acre",
+          "CUB/NA",
+          "#00332B"
+        ],
+        [
+          "HTI/NA",
+          "#14473F"
+        ],
+        [
+          "DOM/NA",
+          "#285B53"
+        ],
+        [
+          "PRI/NA",
+          "#3D7068"
+        ],
+        [
+          "JAM/NA",
+          "#51847C"
+        ],
+        [
+          "VIR/NA",
+          "#669991"
+        ],
+        [
+          "KNA/NA",
+          "#7AADA5"
+        ],
+        [
+          "BLZ/NA",
+          "#8EC1B9"
+        ],
+        [
+          "GLP/NA",
+          "#A3D6CE"
+        ],
+        [
+          "MTQ/NA",
+          "#CCFFF7"
+        ],
+        [
+          "MEX/Durango",
+          "#A18362"
+        ],
+        [
+          "MEX/Nayarit",
+          "#A18362"
+        ],
+        [
+          "MEX/NA",
+          "#A18362"
+        ],
+        [
+          "MEX/Yucatan",
+          "#A18362"
+        ],
+        [
+          "MEX/Hidalgo",
+          "#A18362"
+        ],
+        [
+          "MEX/Oaxaca",
+          "#A18362"
+        ],
+        [
+          "MEX/Chiapas",
+          "#A18362"
+        ],
+        [
+          "GTM/NA",
+          "#B7EAE2"
+        ],
+        [
+          "NIC/Leon",
+          "#9DCC00"
+        ],
+        [
+          "NIC/Managua",
+          "#9DCC00"
+        ],
+        [
+          "PAN/NA",
+          "#BCE533"
+        ],
+        [
+          "VEN/Carabobo",
+          "#76A0EC"
+        ],
+        [
+          "VEN/Aragua",
+          "#76A0EC"
+        ],
+        [
+          "VEN/Maracay",
+          "#76A0EC"
+        ],
+        [
+          "VEN/NA",
+          "#76A0EC"
+        ],
+        [
+          "SUR/NA",
+          "#76A0EC"
+        ],
+        [
+          "GUF/NA",
+          "#76A0EC"
+        ],
+        [
+          "COL/Norte-de-santander",
+          "#771911"
+        ],
+        [
+          "COL/Santander",
+          "#771911"
+        ],
+        [
+          "COL/Antioquia",
+          "#771911"
+        ],
+        [
+          "COL/Guaviare",
+          "#771911"
+        ],
+        [
+          "ECU/Machala",
+          "#B26C66"
+        ],
+        [
+          "PER/Iquitos",
+          "#771911"
+        ],
+        [
+          "PER/Yurimaguas",
+          "#771911"
+        ],
+        [
+          "PER/Puerto-Maldonado",
+          "#771911"
+        ],
+        [
+          "BRA/Roraima",
           "#C1E5BB"
         ],
         [
@@ -195,19 +351,11 @@
           "#C1E5BB"
         ],
         [
+          "BRA/Northern",
+          "#C1E5BB"
+        ],
+        [
           "BRA/Amazonas",
-          "#C1E5BB"
-        ],
-        [
-          "BRA/Rondonia",
-          "#C1E5BB"
-        ],
-        [
-          "BRA/Tocantins",
-          "#C1E5BB"
-        ],
-        [
-          "BRA/Roraima",
           "#C1E5BB"
         ],
         [
@@ -215,15 +363,7 @@
           "#C1E5BB"
         ],
         [
-          "BRA/Northern",
-          "#C1E5BB"
-        ],
-        [
           "BRA/Maranhao",
-          "#E7B98A"
-        ],
-        [
-          "BRA/Piaui",
           "#E7B98A"
         ],
         [
@@ -235,23 +375,27 @@
           "#E7B98A"
         ],
         [
+          "BRA/Piaui",
+          "#E7B98A"
+        ],
+        [
           "BRA/Pernambuco",
           "#E7B98A"
         ],
         [
-          "BRA/Mato-grosso-do-sul",
-          "#DB8E8C"
+          "BRA/Acre",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Tocantins",
+          "#C1E5BB"
+        ],
+        [
+          "BRA/Rondonia",
+          "#C1E5BB"
         ],
         [
           "BRA/Minas-gerais",
-          "#C6A2F9"
-        ],
-        [
-          "BRA/Rio-de-Janeiro",
-          "#C6A2F9"
-        ],
-        [
-          "BRA/SaoPaulo",
           "#C6A2F9"
         ],
         [
@@ -259,96 +403,16 @@
           "#C6A2F9"
         ],
         [
-          "CUB/Cuba",
-          "#81B7AF"
+          "BRA/Mato-grosso-do-sul",
+          "#DB8E8C"
         ],
         [
-          "DOM/Dominican-Republic",
-          "#81B7AF"
+          "BRA/SaoPaulo",
+          "#C6A2F9"
         ],
         [
-          "GLP/Guadeloupe",
-          "#81B7AF"
-        ],
-        [
-          "HTI/Haiti",
-          "#81B7AF"
-        ],
-        [
-          "JAM/Jamaica",
-          "#81B7AF"
-        ],
-        [
-          "MTQ/Martinique",
-          "#81B7AF"
-        ],
-        [
-          "PRI/Puerto-Rico",
-          "#81B7AF"
-        ],
-        [
-          "VIR/VirginIslands",
-          "#81B7AF"
-        ],
-        [
-          "NIC/Carazo",
-          "#C9E569"
-        ],
-        [
-          "NIC/Leon",
-          "#C9E569"
-        ],
-        [
-          "NIC/Managua",
-          "#C9E569"
-        ],
-        [
-          "MEX/Oaxaca",
-          "#A18362"
-        ],
-        [
-          "MEX/Yucatan",
-          "#A18362"
-        ],
-        [
-          "GUF/French-Guiana",
-          "#76A0EC"
-        ],
-        [
-          "SUR/Suriname",
-          "#76A0EC"
-        ],
-        [
-          "VEN/Aragua",
-          "#76A0EC"
-        ],
-        [
-          "VEN/Carabobo",
-          "#76A0EC"
-        ],
-        [
-          "VEN/NA",
-          "#76A0EC"
-        ],
-        [
-          "COL/Guaviare",
-          "#771911"
-        ],
-        [
-          "COL/Santander",
-          "#771911"
-        ],
-        [
-          "ECU/Machala",
-          "#771911"
-        ],
-        [
-          "PER/Iquitos",
-          "#771911"
-        ],
-        [
-          "PER/Puerto-Maldonado",
-          "#771911"
+          "BRA/Rio-de-Janeiro",
+          "#C6A2F9"
         ]
       ],
       "key": "state",
@@ -369,6 +433,10 @@
   ],
   "geo": {
     "country": {
+      "BLZ": {
+        "latitude": 17.082561,
+        "longitude": -88.674101
+      },
       "BRA": {
         "latitude": -12.861014,
         "longitude": -50.511145
@@ -393,6 +461,10 @@
         "latitude": 16.260882,
         "longitude": -61.567339
       },
+      "GTM": {
+        "latitude": 15.457347,
+        "longitude": -90.260093
+      },
       "GUF": {
         "latitude": 3.823025,
         "longitude": -53.179497
@@ -405,6 +477,10 @@
         "latitude": 17.97521495,
         "longitude": -76.81757279
       },
+      "KNA": {
+        "latitude": 17.212538,
+        "longitude": -62.622071
+      },
       "MEX": {
         "latitude": 19.4839446,
         "longitude": -99.6899716
@@ -416,6 +492,10 @@
       "NIC": {
         "latitude": 12.901172,
         "longitude": -85.039467
+      },
+      "PAN": {
+        "latitude": 8.840277,
+        "longitude": -80.167058
       },
       "PER": {
         "latitude": -10.256895,
@@ -477,6 +557,10 @@
       }
     },
     "state": {
+      "BLZ/NA": {
+        "latitude": 17.082561,
+        "longitude": -88.674101
+      },
       "BRA/Acre": {
         "latitude": -9.0478679,
         "longitude": -70.5264976
@@ -549,19 +633,27 @@
         "latitude": -10.8855129,
         "longitude": -48.3716912
       },
+      "COL/Antioquia": {
+        "latitude": 6.709693,
+        "longitude": -75.507231
+      },
       "COL/Guaviare": {
         "latitude": 1.901516,
         "longitude": -72.196346
+      },
+      "COL/Norte-de-santander": {
+        "latitude": 7.993227,
+        "longitude": -72.839992
       },
       "COL/Santander": {
         "latitude": 7.0000085,
         "longitude": -73.2500086
       },
-      "CUB/Cuba": {
+      "CUB/NA": {
         "latitude": 21.860144,
         "longitude": -78.760113
       },
-      "DOM/Dominican-Republic": {
+      "DOM/NA": {
         "latitude": 18.935626,
         "longitude": -70.474906
       },
@@ -569,21 +661,49 @@
         "latitude": -3.2587494,
         "longitude": -79.9595133
       },
-      "GLP/Guadeloupe": {
+      "GLP/NA": {
         "latitude": 16.260882,
         "longitude": -61.567339
       },
-      "GUF/French-Guiana": {
+      "GTM/NA": {
+        "latitude": 15.457347,
+        "longitude": -90.260093
+      },
+      "GUF/NA": {
         "latitude": 3.823025,
         "longitude": -53.179497
       },
-      "HTI/Haiti": {
+      "HTI/NA": {
         "latitude": 19.2170812,
         "longitude": -71.9231572
       },
-      "JAM/Jamaica": {
+      "JAM/NA": {
         "latitude": 18.160451,
         "longitude": -77.31791
+      },
+      "KNA/NA": {
+        "latitude": 17.212538,
+        "longitude": -62.622071
+      },
+      "MEX/Chiapas": {
+        "latitude": 16.449999,
+        "longitude": -92.539435
+      },
+      "MEX/Durango": {
+        "latitude": 24.747995,
+        "longitude": -104.778484
+      },
+      "MEX/Hidalgo": {
+        "latitude": 20.396727,
+        "longitude": -98.884525
+      },
+      "MEX/NA": {
+        "latitude": 21.748646,
+        "longitude": -101.123492
+      },
+      "MEX/Nayarit": {
+        "latitude": 21.778854,
+        "longitude": -104.760098
       },
       "MEX/Oaxaca": {
         "latitude": 16.888416,
@@ -593,13 +713,9 @@
         "latitude": 20.6845957,
         "longitude": -88.8755669
       },
-      "MTQ/Martinique": {
+      "MTQ/NA": {
         "latitude": 14.625322,
         "longitude": -60.989974
-      },
-      "NIC/Carazo": {
-        "latitude": 11.748328,
-        "longitude": -86.249123
       },
       "NIC/Leon": {
         "latitude": 12.600087,
@@ -609,6 +725,10 @@
         "latitude": 12.1461244,
         "longitude": -86.273717
       },
+      "PAN/NA": {
+        "latitude": 8.840277,
+        "longitude": -80.167058
+      },
       "PER/Iquitos": {
         "latitude": -3.767118,
         "longitude": -73.371991
@@ -617,11 +737,15 @@
         "latitude": -12.357158,
         "longitude": -69.477618
       },
-      "PRI/Puerto-Rico": {
+      "PER/Yurimaguas": {
+        "latitude": -4.123067,
+        "longitude": -74.378961
+      },
+      "PRI/NA": {
         "latitude": 18.21167,
         "longitude": -66.479559
       },
-      "SUR/Suriname": {
+      "SUR/NA": {
         "latitude": 3.958493,
         "longitude": -55.844874
       },
@@ -633,11 +757,15 @@
         "latitude": 10.166667,
         "longitude": -68.083333
       },
+      "VEN/Maracay": {
+        "latitude": 10.0,
+        "longitude": -67.166667
+      },
       "VEN/NA": {
         "latitude": 6.575253,
         "longitude": -65.722698
       },
-      "VIR/VirginIslands": {
+      "VIR/NA": {
         "latitude": 17.733443,
         "longitude": -64.76928
       }
@@ -652,7 +780,7 @@
     "map",
     "entropy"
   ],
-  "title": "Dengue 2 outbreak in Brazil (2019)",
-  "updated": "12 Feb 2020",
-  "virus_count": 185
+  "title": "Dengue 2 in Brazil (2018-2019)",
+  "updated": "09 Mar 2020",
+  "virus_count": 221
 }
