@@ -1,0 +1,1333 @@
+strain	virus	genbank_accession	date	region	iso	country	division	location	segment	length	host	lab
+JQ922544	Dengue virus 1	JQ922544	1963-XX-XX	Southern Asia	IND	India			complete			
+AF425613	Dengue virus 1	AF425613	1982-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1485.0	Homo sapiens	
+AY732474	Dengue virus 1	AY732474	1980-XX-XX	Southeastern Asia	THA	Thailand	THA/Bangkok		complete	10735.0		
+KX768372	Dengue virus 1	KX768372	2016-02-01	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768393	Dengue virus 1	KX768393	2016-02-01	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768365	Dengue virus 1	KX768365	2016-02-04	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768377	Dengue virus 1	KX768377	2016-02-04	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768367	Dengue virus 1	KX768367	2016-02-05	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768370	Dengue virus 1	KX768370	2016-02-10	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768373	Dengue virus 1	KX768373	2016-02-10	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768395	Dengue virus 1	KX768395	2016-02-10	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768406	Dengue virus 1	KX768406	2016-02-10	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768366	Dengue virus 1	KX768366	2016-02-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768382	Dengue virus 1	KX768382	2016-02-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768380	Dengue virus 1	KX768380	2016-02-05	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768385	Dengue virus 1	KX768385	2016-02-26	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692495	Dengue virus 1	KC692495	2009-02-03	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768386	Dengue virus 1	KX768386	2016-02-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768359	Dengue virus 1	KX768359	2016-02-01	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768362	Dengue virus 1	KX768362	2016-02-29	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768381	Dengue virus 1	KX768381	2016-02-29	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768397	Dengue virus 1	KX768397	2016-02-29	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768338	Dengue virus 1	KX768338	2016-02-01	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768401	Dengue virus 1	KX768401	2016-02-29	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768371	Dengue virus 1	KX768371	2016-01-28	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768369	Dengue virus 1	KX768369	2016-01-27	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692511	Dengue virus 1	KC692511	2010-02-10	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768388	Dengue virus 1	KX768388	2016-02-22	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768349	Dengue virus 1	KX768349	2016-01-25	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768374	Dengue virus 1	KX768374	2016-01-22	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768387	Dengue virus 1	KX768387	2016-01-21	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768361	Dengue virus 1	KX768361	2016-02-01	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768409	Dengue virus 1	KX768409	2016-02-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768413	Dengue virus 1	KX768413	2016-02-12	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768340	Dengue virus 1	KX768340	2016-01-21	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768416	Dengue virus 1	KX768416	2016-02-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768407	Dengue virus 1	KX768407	2016-02-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768375	Dengue virus 1	KX768375	2016-02-23	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768389	Dengue virus 1	KX768389	2016-02-23	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768414	Dengue virus 1	KX768414	2016-02-23	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768353	Dengue virus 1	KX768353	2016-02-24	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768391	Dengue virus 1	KX768391	2016-02-24	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768411	Dengue virus 1	KX768411	2016-02-24	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768344	Dengue virus 1	KX768344	2016-02-25	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768405	Dengue virus 1	KX768405	2016-02-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768354	Dengue virus 1	KX768354	2016-02-25	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768404	Dengue virus 1	KX768404	2016-02-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768342	Dengue virus 1	KX768342	2016-02-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768341	Dengue virus 1	KX768341	2016-02-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768376	Dengue virus 1	KX768376	2016-02-12	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768417	Dengue virus 1	KX768417	2016-02-18	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768360	Dengue virus 1	KX768360	2016-02-25	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768384	Dengue virus 1	KX768384	2016-02-26	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768383	Dengue virus 1	KX768383	2016-02-18	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768346	Dengue virus 1	KX768346	2016-02-18	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768402	Dengue virus 1	KX768402	2016-02-17	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768357	Dengue virus 1	KX768357	2016-02-16	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768356	Dengue virus 1	KX768356	2016-02-16	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768348	Dengue virus 1	KX768348	2016-02-16	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768419	Dengue virus 1	KX768419	2016-02-15	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768418	Dengue virus 1	KX768418	2016-02-15	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768415	Dengue virus 1	KX768415	2016-02-15	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768412	Dengue virus 1	KX768412	2016-02-15	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768400	Dengue virus 1	KX768400	2016-02-15	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768347	Dengue virus 1	KX768347	2016-02-15	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768399	Dengue virus 1	KX768399	2016-02-18	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768398	Dengue virus 1	KX768398	2016-01-19	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692512	Dengue virus 1	KC692512	2010-02-17	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768410	Dengue virus 1	KX768410	2016-01-14	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768403	Dengue virus 1	KX768403	2016-03-07	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768378	Dengue virus 1	KX768378	2016-03-08	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692508	Dengue virus 1	KC692508	2009-04-24	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692507	Dengue virus 1	KC692507	2009-04-23	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692506	Dengue virus 1	KC692506	2009-04-22	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692505	Dengue virus 1	KC692505	2009-04-16	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692504	Dengue virus 1	KC692504	2009-04-16	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692503	Dengue virus 1	KC692503	2009-04-14	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692502	Dengue virus 1	KC692502	2009-04-09	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692501	Dengue virus 1	KC692501	2009-04-06	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768350	Dengue virus 1	KX768350	2016-01-18	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692499	Dengue virus 1	KC692499	2009-03-31	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692498	Dengue virus 1	KC692498	2009-03-03	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692497	Dengue virus 1	KC692497	2009-03-02	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768363	Dengue virus 1	KX768363	2016-03-10	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768364	Dengue virus 1	KX768364	2016-03-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768368	Dengue virus 1	KX768368	2016-03-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768379	Dengue virus 1	KX768379	2016-03-11	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768345	Dengue virus 1	KX768345	2016-04-13	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692496	Dengue virus 1	KC692496	2009-02-19	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692517	Dengue virus 1	KC692517	2010-12-29	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768390	Dengue virus 1	KX768390	2016-03-07	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768355	Dengue virus 1	KX768355	2016-03-07	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692500	Dengue virus 1	KC692500	2009-04-01	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768343	Dengue virus 1	KX768343	2016-03-07	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692513	Dengue virus 1	KC692513	2010-04-26	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768358	Dengue virus 1	KX768358	2016-01-14	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692514	Dengue virus 1	KC692514	2010-05-03	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KX768408	Dengue virus 1	KX768408	2016-02-29	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KY283853	Dengue virus 1	KY283853	2016-XX-XX	Southern South America	ARG	Argentina	ARG/Misiones		partial	1485.0	Homo sapiens	
+KY283852	Dengue virus 1	KY283852	2016-XX-XX	Southern South America	ARG	Argentina	ARG/Tucuman		partial	1485.0	Homo sapiens	
+KC692509	Dengue virus 1	KC692509	2009-05-05	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KC692515	Dengue virus 1	KC692515	2010-05-14	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KY283851	Dengue virus 1	KY283851	2016-XX-XX	Southern South America	ARG	Argentina	ARG/Buenos Aires		partial	1485.0	Homo sapiens	
+KC692516	Dengue virus 1	KC692516	2010-05-18	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+KY283850	Dengue virus 1	KY283850	2016-XX-XX	Southern South America	ARG	Argentina	ARG/Buenos Aires		partial	1485.0	Homo sapiens	
+KY283849	Dengue virus 1	KY283849	2016-XX-XX	Southern South America	ARG	Argentina	ARG/Entre Rios		partial	1485.0	Homo sapiens	
+KX768352	Dengue virus 1	KX768352	2016-02-23	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768392	Dengue virus 1	KX768392	2016-03-02	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KY283848	Dengue virus 1	KY283848	2016-XX-XX	Southern South America	ARG	Argentina	ARG/Formosa		partial	1485.0	Homo sapiens	
+KX768394	Dengue virus 1	KX768394	2016-03-03	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768351	Dengue virus 1	KX768351	2016-03-01	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768339	Dengue virus 1	KX768339	2016-03-03	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KX768396	Dengue virus 1	KX768396	2016-03-02	Southern South America	ARG	Argentina			partial	1485.0	Homo sapiens	
+KC692510	Dengue virus 1	KC692510	2009-05-28	Southern South America	ARG	Argentina	ARG/Buenos Aires		complete	10735.0	Homo sapiens	
+JN379473	Dengue virus 1	JN379473	2004-XX-XX	Caribbean	ABW	Aruba			partial	1485.0	Homo sapiens	
+JN379475	Dengue virus 1	JN379475	1977-XX-XX	Caribbean	BHS	Bahamas			partial	1485.0	Homo sapiens	
+JN379470	Dengue virus 1	JN379470	2001-XX-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+JN379471	Dengue virus 1	JN379471	2001-XX-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+JN379472	Dengue virus 1	JN379472	2003-XX-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+MT269038	Dengue virus 	MT269038	2013-10-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+JN379486	Dengue virus 1	JN379486	1995-XX-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+KT825054	Dengue virus 1	KT825054	2013-XX-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+JN379487	Dengue virus 1	JN379487	1999-XX-XX	Caribbean	BRB	Barbados			partial	1485.0	Homo sapiens	
+JN379474	Dengue virus 1	JN379474	2005-XX-XX	Central America	BLZ	Belize			partial	1485.0	Homo sapiens	
+KU728183	Dengue virus 1	KU728183	2005-XX-XX	Central America	BLZ	Belize			partial	1485.0	Homo sapiens	
+KU728184	Dengue virus 1	KU728184	2005-XX-XX	Central America	BLZ	Belize			partial	1485.0	Homo sapiens	
+KU728185	Dengue virus 1	KU728185	2010-XX-XX	Central America	BLZ	Belize			partial	1485.0	Homo sapiens	
+KF672789	Dengue virus 1	KF672789	2001-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	2325.0	Homo sapiens	
+MH401999	Dengue virus 1	MH401999	2016-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	1485.0	Homo sapiens	
+JX669474	Dengue virus 	JX669474	2001-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10720.0	Homo sapiens	
+HM450099	Dengue virus 1	HM450099	2005-XX-XX	Brazil-North	BRA	Brazil	BRA/Amapa		partial	2326.0	Homo sapiens	
+MH401996	Dengue virus 1	MH401996	2016-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+KJ651912	Dengue virus 	KJ651912	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1485.0	Homo sapiens	
+KF672788	Dengue virus 1	KF672788	2001-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+MH401995	Dengue virus 1	MH401995	2016-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401994	Dengue virus 1	MH401994	2016-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401973	Dengue virus 1	MH401973	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401992	Dengue virus 1	MH401992	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401974	Dengue virus 1	MH401974	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401998	Dengue virus 1	MH401998	2016-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	1485.0	Homo sapiens	
+MH401972	Dengue virus 1	MH401972	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+KP858115	Dengue virus 	KP858115	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+HQ026761	Dengue virus 1	HQ026761	2009-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+KP858118	Dengue virus 	KP858118	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+JX669473	Dengue virus 	JX669473	2001-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+MH401991	Dengue virus 1	MH401991	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+HM450088	Dengue virus 1	HM450088	2001-XX-XX	Brazil-North	BRA	Brazil	BRA/Amapa		partial	2326.0	Homo sapiens	
+HM450089	Dengue virus 1	HM450089	2001-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	2326.0	Homo sapiens	
+HM450098	Dengue virus 1	HM450098	2001-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Rio Grande do Norte		partial	2326.0	Homo sapiens	
+MH401971	Dengue virus 1	MH401971	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+HQ603917	Dengue virus 1	HQ603917	2001-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0		
+KP858119	Dengue virus 	KP858119	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KP858117	Dengue virus 	KP858117	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+HM043710	Dengue virus 	HM043710	2009-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+KP858116	Dengue virus 	KP858116	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+HM043709	Dengue virus 	HM043709	2009-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+FJ850073	Dengue virus 	FJ850073	2001-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Northeast		complete	10692.0	Homo sapiens	
+AB519681	Dengue virus 	AB519681	2001-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Distrito Federal	Brasilia	partial	10735.0		
+MH401990	Dengue virus 1	MH401990	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+KP188543	Dengue virus 1	KP188543	2012-02-13	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10917.0	Homo sapiens	
+KP903780	Dengue virus 	KP903780	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KP858108	Dengue virus 	KP858108	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+FJ850081	Dengue virus 	FJ850081	2004-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10688.0	Homo sapiens	
+FJ850093	Dengue virus 	FJ850093	2008-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10690.0	Homo sapiens	
+KP903778	Dengue virus 	KP903778	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KY818242	Dengue virus 	KY818242	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818239	Dengue virus 	KY818239	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+HM450097	Dengue virus 1	HM450097	2004-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Homo sapiens	
+KY818238	Dengue virus 	KY818238	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818236	Dengue virus 	KY818236	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818230	Dengue virus 	KY818230	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818231	Dengue virus 	KY818231	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+MH401978	Dengue virus 1	MH401978	2014-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401979	Dengue virus 1	MH401979	2014-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401980	Dengue virus 1	MH401980	2014-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Sergipe		partial	1485.0	Homo sapiens	
+MH401987	Dengue virus 1	MH401987	2014-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	1485.0	Homo sapiens	
+KP903777	Dengue virus 	KP903777	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KP903776	Dengue virus 	KP903776	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KP903775	Dengue virus 	KP903775	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KP903774	Dengue virus 	KP903774	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+HM450100	Dengue virus 1	HM450100	2006-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Homo sapiens	
+MH401977	Dengue virus 1	MH401977	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+KP188545	Dengue virus 1	KP188545	2013-10-25	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10621.0	Homo sapiens	
+KP858109	Dengue virus 	KP858109	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KY818289	Dengue virus 	KY818289	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KP903771	Dengue virus 	KP903771	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KP903772	Dengue virus 	KP903772	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+MH401988	Dengue virus 1	MH401988	2014-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	1485.0	Homo sapiens	
+MH401997	Dengue virus 	MH401997	2015-XX-XX	Brazil-North	BRA	Brazil	BRA/Amapa	Oiapoque	partial	1485.0	Homo sapiens	
+MH401986	Dengue virus 1	MH401986	2015-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Sergipe		partial	1485.0	Homo sapiens	
+MH401985	Dengue virus 1	MH401985	2015-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401984	Dengue virus 1	MH401984	2015-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401983	Dengue virus 1	MH401983	2015-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401982	Dengue virus 1	MH401982	2015-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401981	Dengue virus 1	MH401981	2015-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+KP903773	Dengue virus 	KP903773	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+MH401993	Dengue virus 1	MH401993	2015-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+MH401989	Dengue virus 1	MH401989	2014-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	1485.0	Homo sapiens	
+FJ850077	Dengue virus 	FJ850077	2003-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10684.0	Homo sapiens	
+KY818235	Dengue virus 	KY818235	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+JX669475	Dengue virus 	JX669475	2002-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10737.0	Homo sapiens	
+KY818233	Dengue virus 	KY818233	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KF672783	Dengue virus 1	KF672783	2002-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	2325.0	Homo sapiens	
+FJ850087	Dengue virus 	FJ850087	2006-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10690.0	Homo sapiens	
+KY818237	Dengue virus 	KY818237	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818240	Dengue virus 	KY818240	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818241	Dengue virus 	KY818241	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KY818232	Dengue virus 	KY818232	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KP858110	Dengue virus 	KP858110	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+GU131863	Dengue virus 	GU131863	2008-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo		complete	10532.0	Homo sapiens	
+KP858111	Dengue virus 	KP858111	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KP858112	Dengue virus 	KP858112	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KY818288	Dengue virus 	KY818288	2012-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+KP858113	Dengue virus 	KP858113	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KP858114	Dengue virus 	KP858114	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KP903779	Dengue virus 	KP903779	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+KP858107	Dengue virus 	KP858107	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+KP903781	Dengue virus 	KP903781	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+HM450090	Dengue virus 1	HM450090	2002-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Mato Grosso		partial	2326.0	Homo sapiens	
+HM450092	Dengue virus 1	HM450092	2002-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Piaui		partial	2326.0	Homo sapiens	
+KY818234	Dengue virus 	KY818234	2013-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1983.0	Homo sapiens	
+HM450096	Dengue virus 1	HM450096	2003-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Maranhao		partial	2326.0	Homo sapiens	
+JF804014	Dengue virus 1	JF804014	2003-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1480.0	Homo sapiens	
+KF444780	Dengue virus 1	KF444780	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444781	Dengue virus 1	KF444781	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444782	Dengue virus 1	KF444782	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444783	Dengue virus 1	KF444783	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+HM450091	Dengue virus 1	HM450091	2002-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Mato Grosso		partial	2326.0	Homo sapiens	
+KF444784	Dengue virus 1	KF444784	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444790	Dengue virus 1	KF444790	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444791	Dengue virus 1	KF444791	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+FJ850075	Dengue virus 	FJ850075	2002-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10683.0	Homo sapiens	
+HM450105	Dengue virus 1	HM450105	2002-XX-XX	Brazil-North	BRA	Brazil	BRA/Amazonas		partial	2326.0	Homo sapiens	
+HM450095	Dengue virus 1	HM450095	2002-XX-XX	Brazil-North	BRA	Brazil	BRA/Amazonas		partial	2326.0	Homo sapiens	
+KF672764	Dengue virus 1	KF672764	2001-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	10176.0	Homo sapiens	
+HM450093	Dengue virus 1	HM450093	2002-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Piaui		partial	2326.0	Homo sapiens	
+KF444785	Dengue virus 1	KF444785	2009-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+HM450094	Dengue virus 1	HM450094	2002-XX-XX	Brazil-North	BRA	Brazil	BRA/Tocantins		partial	2326.0	Homo sapiens	
+MH401975	Dengue virus 1	MH401975	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	1485.0	Homo sapiens	
+FJ850090	Dengue virus 	FJ850090	2007-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10673.0	Homo sapiens	
+HM450082	Dengue virus 1	HM450082	1997-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Homo sapiens	
+KU509311	Dengue virus 1	KU509311	2014-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	1485.0	Homo sapiens	
+KF672761	Dengue virus 1	KF672761	1988-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	10176.0	Homo sapiens	
+JX669466	Dengue virus 	JX669466	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10737.0	Homo sapiens	
+JX669465	Dengue virus 	JX669465	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+JX669464	Dengue virus 	JX669464	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+JX669463	Dengue virus 	JX669463	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10735.0	Homo sapiens	
+JX669462	Dengue virus 	JX669462	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10737.0	Homo sapiens	
+JX669461	Dengue virus 	JX669461	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+KP188547	Dengue virus 1	KP188547	2013-01-05	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Sao Jose do Rio Preto	complete	10776.0	Homo sapiens	
+KP188548	Dengue virus 1	KP188548	2013-01-14	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Sao Jose do Rio Preto	complete	10647.0	Homo sapiens	
+KP188546	Dengue virus 1	KP188546	2013-02-04	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10663.0	Homo sapiens	
+KF444789	Dengue virus 1	KF444789	2008-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444792	Dengue virus 1	KF444792	2010-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+HM450081	Dengue virus 1	HM450081	1997-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	2326.0	Homo sapiens	
+KF672774	Dengue virus 1	KF672774	1998-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KF672776	Dengue virus 1	KF672776	1998-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	2325.0	Homo sapiens	
+KF672777	Dengue virus 1	KF672777	1998-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	2325.0	Homo sapiens	
+KF672779	Dengue virus 1	KF672779	1998-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	2325.0	Homo sapiens	
+KF444788	Dengue virus 1	KF444788	2010-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF444787	Dengue virus 1	KF444787	2010-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+JX669470	Dengue virus 	JX669470	1998-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10728.0	Homo sapiens	
+KF444786	Dengue virus 1	KF444786	2010-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	1485.0	Homo sapiens	
+KF672786	Dengue virus 1	KF672786	2010-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KF672785	Dengue virus 1	KF672785	2010-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	2325.0	Homo sapiens	
+KF672768	Dengue virus 1	KF672768	2010-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	2325.0	Homo sapiens	
+KF672759	Dengue virus 1	KF672759	2010-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	10176.0	Homo sapiens	
+KF719187	Dengue virus 1	KF719187	2010-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	2325.0	Homo sapiens	
+HQ026760	Dengue virus 1	HQ026760	1986-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+HQ603916	Dengue virus 	HQ603916	1986-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0		
+KF672775	Dengue virus 1	KF672775	1998-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	2325.0	Homo sapiens	
+KP188567	Dengue virus 1	KP188567	2013-02-26	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10618.0	Homo sapiens	
+KP188542	Dengue virus 1	KP188542	2011-06-08	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10607.0	Homo sapiens	
+JX669469	Dengue virus 	JX669469	1997-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+KP188544	Dengue virus 1	KP188544	2012-03-16	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Sao Jose do Rio Preto	complete	10917.0	Homo sapiens	
+JQ015184	Dengue virus 1	JQ015184	2010-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Alagoas		partial	2325.0	Homo sapiens	
+JQ015185	Dengue virus 1	JQ015185	2010-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Alagoas		partial	2325.0	Homo sapiens	
+JN982362	Dengue virus 1	JN982362	2010-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	2325.0	Homo sapiens	
+JN713897	Dengue virus 1	JN713897	2010-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	2325.0	Aedes aegypti	
+HM450079	Dengue virus 1	HM450079	1994-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	2326.0	Homo sapiens	
+MH401976	Dengue virus 1	MH401976	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	1485.0	Homo sapiens	
+MN567709	Dengue virus V	MN567709	2019-03-27	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	8413.0	Aedes albopictus	
+JN122281	Dengue virus 1	JN122281	2011-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+KP903770	Dengue virus 	KP903770	2013-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais	Divinopolis	partial	1485.0	Homo sapiens	
+JX669467	Dengue virus 	JX669467	1996-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10737.0	Homo sapiens	
+HM450080	Dengue virus 1	HM450080	1996-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Homo sapiens	
+HM450077	Dengue virus 1	HM450077	2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Aedes aegypti	
+HM450078	Dengue virus 1	HM450078	2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Aedes aegypti	
+KF672762	Dengue virus 1	KF672762	1989-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	10176.0	Homo sapiens	
+HM450101	Dengue virus 1	HM450101	2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		partial	2326.0	Homo sapiens	
+KP188540	Dengue virus 1	KP188540	2011-05-03	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10699.0	Homo sapiens	
+HM450103	Dengue virus 1	HM450103	2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Amazonas		partial	2326.0	Homo sapiens	
+KP188541	Dengue virus 1	KP188541	2011-05-24	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10490.0	Homo sapiens	
+KF672791	Dengue virus 1	KF672791	1991-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	1485.0	Homo sapiens	
+HQ696612	Dengue virus 1	HQ696612	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+HQ696613	Dengue virus 1	HQ696613	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+HQ696614	Dengue virus 1	HQ696614	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+KF672769	Dengue virus 1	KF672769	1997-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	2325.0	Homo sapiens	
+HQ026762	Dengue virus 1	HQ026762	2010-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+KF672770	Dengue virus 1	KF672770	1997-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Minas Gerais		partial	2325.0	Homo sapiens	
+KF672771	Dengue virus 1	KF672771	1997-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KF672772	Dengue virus 1	KF672772	1997-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KF672773	Dengue virus 1	KF672773	1997-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Rio Grande do Norte		partial	2325.0	Homo sapiens	
+JX669468	Dengue virus 	JX669468	1997-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+HM450102	Dengue virus 1	HM450102	2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	2326.0	Homo sapiens	
+JN122280	Dengue virus 1	JN122280	1986-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		partial	2325.0	Homo sapiens	
+KF672778	Dengue virus 1	KF672778	1998-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	2325.0	Homo sapiens	
+KF672782	Dengue virus 1	KF672782	2000-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KF672780	Dengue virus 1	KF672780	1999-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KP858105	Dengue virus 	KP858105	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+MH311981	Dengue virus 	MH311981	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+KF672781	Dengue virus 1	KF672781	1999-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+FJ850070	Dengue virus 	FJ850070	2000-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10677.0	Homo sapiens	
+KF672760	Dengue virus 1	KF672760	2011-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	10176.0	Homo sapiens	
+KP858106	Dengue virus 	KP858106	2013-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Goias	Goiania	partial	1485.0	Homo sapiens	
+HM450084	Dengue virus 1	HM450084	2000-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Mato Grosso		partial	2326.0	Homo sapiens	
+KF672763	Dengue virus 1	KF672763	2000-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Espirito Santo		partial	10176.0	Homo sapiens	
+KP188568	Dengue virus 1	KP188568	2014-02-10	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10607.0	Homo sapiens	
+KF672792	Dengue virus 1	KF672792	1999-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+HM450085	Dengue virus 1	HM450085	2000-XX-XX	Brazil-North	BRA	Brazil	BRA/Acre		partial	2326.0	Homo sapiens	
+HM450086	Dengue virus 1	HM450086	2000-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	2326.0	Homo sapiens	
+MH311982	Dengue virus 	MH311982	2012-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+JX669471	Dengue virus 	JX669471	1999-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+HM450087	Dengue virus 1	HM450087	2000-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		partial	2326.0	Homo sapiens	
+KF672765	Dengue virus 1	KF672765	2011-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+HM450083	Dengue virus 1	HM450083	1999-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Maranhao		partial	2326.0	Homo sapiens	
+KF672766	Dengue virus 1	KF672766	2011-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+FJ850084	Dengue virus 	FJ850084	2005-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10686.0	Homo sapiens	
+JX669472	Dengue virus 	JX669472	2000-XX-XX	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10736.0	Homo sapiens	
+KP188539	Dengue virus 1	KP188539	2010-10-13	Brazil-Unknown	BRA	Brazil	BRA/Unknown		complete	10416.0	Homo sapiens	
+KF672787	Dengue virus 1	KF672787	2000-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Piaui		partial	2325.0	Homo sapiens	
+HM450104	Dengue virus 1	HM450104	2008-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		partial	2326.0	Homo sapiens	
+KF672767	Dengue virus 1	KF672767	2011-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+KF672790	Dengue virus 1	KF672790	2011-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	1485.0	Homo sapiens	
+FJ850071	Dengue virus 	FJ850071	2000-XX-XX	Brazil-North	BRA	Brazil	BRA/North		complete	10685.0	Homo sapiens	
+KF672784	Dengue virus 1	KF672784	2011-XX-XX	Brazil-Southeast	BRA	Brazil	BRA/Rio de Janeiro		partial	2325.0	Homo sapiens	
+GQ868601	Dengue virus 	GQ868601	1985-XX-XX	Caribbean	VGB	British Virgin Islands	VGB/Tortola		complete	10690.0	Homo sapiens	
+EU863650	Dengue virus 1	EU863650	2002-XX-XX	Southern South America	CHL	Chile	CHL/Easter Island		complete	10735.0	Homo sapiens	
+MF173482	Dengue virus 	MF173482	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581648	Dengue virus 	JQ581648	1998-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173487	Dengue virus 	MF173487	2009-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173485	Dengue virus 	MF173485	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173484	Dengue virus 	MF173484	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173486	Dengue virus 	MF173486	2009-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173483	Dengue virus 	MF173483	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KX901655	Dengue virus 	KX901655	2014-06-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+MF173460	Dengue virus 	MF173460	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173459	Dengue virus 	MF173459	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173458	Dengue virus 	MF173458	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173457	Dengue virus 	MF173457	2009-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KY818070	Dengue virus 	KY818070	2011-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MF173488	Dengue virus 	MF173488	2000-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KX901653	Dengue virus 	KX901653	2009-08-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+MF817445	Dengue virus 	MF817445	2001-12-XX	Western South America	COL	Colombia	COL/Santander	Sabana de Torres	partial	1485.0	Homo sapiens	
+MF817447	Dengue virus 	MF817447	2009-09-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+MF173481	Dengue virus 	MF173481	2010-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173456	Dengue virus 	MF173456	2009-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173466	Dengue virus 	MF173466	2015-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+GQ868561	Dengue virus 	GQ868561	1999-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10673.0	Homo sapiens	
+KX901654	Dengue virus 	KX901654	2010-03-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+GQ868560	Dengue virus 	GQ868560	1998-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10690.0	Homo sapiens	
+GQ868559	Dengue virus 	GQ868559	1998-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10690.0	Homo sapiens	
+KY818144	Dengue virus 	KY818144	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581652	Dengue virus 	JQ581652	2002-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KJ189303	Dengue virus 	KJ189303	1998-XX-XX	Western South America	COL	Colombia			complete	10445.0	Homo sapiens	
+JQ581651	Dengue virus 	JQ581651	2001-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KJ189302	Dengue virus 	KJ189302	1998-XX-XX	Western South America	COL	Colombia			complete	10445.0	Homo sapiens	
+MF173455	Dengue virus 	MF173455	2009-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581632	Dengue virus 	JQ581632	2004-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173478	Dengue virus 	MF173478	2015-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173468	Dengue virus 	MF173468	2015-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173467	Dengue virus 	MF173467	2015-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581650	Dengue virus 	JQ581650	1999-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173465	Dengue virus 	MF173465	2015-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KY818097	Dengue virus 	KY818097	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818085	Dengue virus 	KY818085	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818082	Dengue virus 	KY818082	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581649	Dengue virus 	JQ581649	1998-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+GU131948	Dengue virus 	GU131948	2001-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10627.0	Homo sapiens	
+KY818066	Dengue virus 	KY818066	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818094	Dengue virus 	KY818094	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818224	Dengue virus 	KY818224	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MF817448	Dengue virus 	MF817448	2016-04-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+KY818227	Dengue virus 	KY818227	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KX901656	Dengue virus 	KX901656	2015-03-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+MF817446	Dengue virus 	MF817446	2015-04-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+KY818228	Dengue virus 	KY818228	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+GQ868564	Dengue virus 	GQ868564	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander		complete	10690.0	Homo sapiens	
+GQ868563	Dengue virus 	GQ868563	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander		complete	10661.0	Homo sapiens	
+KY818223	Dengue virus 	KY818223	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+GU131949	Dengue virus 	GU131949	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander		complete	10486.0	Homo sapiens	
+JQ581606	Dengue virus 	JQ581606	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581607	Dengue virus 	JQ581607	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581608	Dengue virus 	JQ581608	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581609	Dengue virus 	JQ581609	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581610	Dengue virus 	JQ581610	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+MF173480	Dengue virus 	MF173480	2013-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173479	Dengue virus 	MF173479	2013-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581602	Dengue virus 	JQ581602	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Barrancabermeja	partial	1485.0	Homo sapiens	
+MF817449	Dengue virus 	MF817449	2015-12-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+KY818222	Dengue virus 	KY818222	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818219	Dengue virus 	KY818219	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818217	Dengue virus 	KY818217	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818083	Dengue virus 	KY818083	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818081	Dengue virus 	KY818081	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818080	Dengue virus 	KY818080	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818079	Dengue virus 	KY818079	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818061	Dengue virus 	KY818061	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818078	Dengue virus 	KY818078	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818077	Dengue virus 	KY818077	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MK614065	Dengue virus 	MK614065	2013-08-09	Western South America	COL	Colombia	COL/Medellin		partial	2077.0	Homo sapiens	
+KY818076	Dengue virus 	KY818076	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818075	Dengue virus 	KY818075	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818074	Dengue virus 	KY818074	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818073	Dengue virus 	KY818073	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818072	Dengue virus 	KY818072	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818211	Dengue virus 	KY818211	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818071	Dengue virus 	KY818071	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818213	Dengue virus 	KY818213	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818214	Dengue virus 	KY818214	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818215	Dengue virus 	KY818215	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818216	Dengue virus 	KY818216	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581603	Dengue virus 	JQ581603	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Zapatoca	partial	1485.0	Homo sapiens	
+KY818084	Dengue virus 	KY818084	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581604	Dengue virus 	JQ581604	2008-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581619	Dengue virus 	JQ581619	2008-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581636	Dengue virus 	JQ581636	2008-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581635	Dengue virus 	JQ581635	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Convencion	partial	1485.0	Homo sapiens	
+KY818060	Dengue virus 	KY818060	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818068	Dengue virus 	KY818068	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581638	Dengue virus 	JQ581638	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581639	Dengue virus 	JQ581639	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581640	Dengue virus 	JQ581640	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581641	Dengue virus 	JQ581641	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Convencion	partial	1485.0	Homo sapiens	
+JQ581634	Dengue virus 	JQ581634	2008-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581642	Dengue virus 	JQ581642	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581644	Dengue virus 	JQ581644	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581645	Dengue virus 	JQ581645	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581646	Dengue virus 	JQ581646	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581647	Dengue virus 	JQ581647	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+KY882523	Dengue virus 	KY882523	2013-XX-XX	Western South America	COL	Colombia			partial	1821.0	Homo sapiens	
+KY882521	Dengue virus 	KY882521	2013-XX-XX	Western South America	COL	Colombia			partial	1665.0	Homo sapiens	
+KY882519	Dengue virus 	KY882519	2013-XX-XX	Western South America	COL	Colombia			partial	1665.0	Homo sapiens	
+KY818069	Dengue virus 	KY818069	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581643	Dengue virus 	JQ581643	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581631	Dengue virus 	JQ581631	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+JQ581630	Dengue virus 	JQ581630	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+JQ581628	Dengue virus 	JQ581628	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+JQ581620	Dengue virus 	JQ581620	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+JQ581623	Dengue virus 	JQ581623	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Lebrija	partial	1485.0	Homo sapiens	
+JQ581624	Dengue virus 	JQ581624	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+JQ581625	Dengue virus 	JQ581625	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+MF173469	Dengue virus 	MF173469	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173470	Dengue virus 	MF173470	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173471	Dengue virus 	MF173471	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173472	Dengue virus 	MF173472	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173473	Dengue virus 	MF173473	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173474	Dengue virus 	MF173474	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173475	Dengue virus 	MF173475	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173476	Dengue virus 	MF173476	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+MF173477	Dengue virus 	MF173477	2016-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581611	Dengue virus 	JQ581611	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581612	Dengue virus 	JQ581612	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581614	Dengue virus 	JQ581614	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581615	Dengue virus 	JQ581615	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581616	Dengue virus 	JQ581616	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581621	Dengue virus 	JQ581621	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Ocana	partial	1485.0	Homo sapiens	
+JQ581605	Dengue virus 	JQ581605	2008-XX-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+GQ868562	Dengue virus 	GQ868562	2005-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10674.0	Homo sapiens	
+GQ868565	Dengue virus 	GQ868565	2006-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander		complete	10690.0	Homo sapiens	
+KY818087	Dengue virus 	KY818087	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MF173462	Dengue virus 	MF173462	2014-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KY818098	Dengue virus 	KY818098	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MF173461	Dengue virus 	MF173461	2014-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KY818210	Dengue virus 	KY818210	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+GQ868567	Dengue virus 	GQ868567	2007-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10690.0	Homo sapiens	
+KY818212	Dengue virus 	KY818212	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818218	Dengue virus 	KY818218	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818143	Dengue virus 	KY818143	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818142	Dengue virus 	KY818142	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JF804015	Dengue virus 1	JF804015	2007-XX-XX	Western South America	COL	Colombia			partial	1480.0	Homo sapiens	
+KY818220	Dengue virus 	KY818220	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818221	Dengue virus 	KY818221	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MK040424	Dengue virus 	MK040424	2013-09-08	Western South America	COL	Colombia			partial	1485.0	Homo sapiens	
+KY818096	Dengue virus 	KY818096	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818141	Dengue virus 	KY818141	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+GQ868568	Dengue virus 	GQ868568	2007-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10690.0	Homo sapiens	
+GQ868569	Dengue virus 	GQ868569	2007-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10675.0	Homo sapiens	
+GQ868570	Dengue virus 	GQ868570	2008-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10674.0	Homo sapiens	
+KY818226	Dengue virus 	KY818226	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818099	Dengue virus 	KY818099	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818229	Dengue virus 	KY818229	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581613	Dengue virus 	JQ581613	2005-XX-XX	Western South America	COL	Colombia	COL/Norte de Santander	Convencion	partial	1485.0	Homo sapiens	
+KY818100	Dengue virus 	KY818100	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818101	Dengue virus 	KY818101	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KJ189304	Dengue virus 	KJ189304	2005-XX-XX	Western South America	COL	Colombia			complete	10447.0	Homo sapiens	
+KY818089	Dengue virus 	KY818089	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818088	Dengue virus 	KY818088	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818086	Dengue virus 	KY818086	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818225	Dengue virus 	KY818225	2012-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818067	Dengue virus 	KY818067	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+KY818064	Dengue virus 	KY818064	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581617	Dengue virus 	JQ581617	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Floridablanca	partial	1485.0	Homo sapiens	
+GQ868566	Dengue virus 	GQ868566	2007-XX-XX	Western South America	COL	Colombia	COL/Santander		complete	10675.0	Homo sapiens	
+KY818062	Dengue virus 	KY818062	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581629	Dengue virus 	JQ581629	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	San Gil	partial	1485.0	Homo sapiens	
+MF173464	Dengue virus 	MF173464	2014-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+JQ581618	Dengue virus 	JQ581618	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+KY818095	Dengue virus 	KY818095	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+MF173463	Dengue virus 	MF173463	2014-XX-XX	Western South America	COL	Colombia	COL/Santander		partial	1485.0	Homo sapiens	
+KY818063	Dengue virus 	KY818063	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581637	Dengue virus 	JQ581637	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Bucaramanga	partial	1485.0	Homo sapiens	
+KY818065	Dengue virus 	KY818065	2013-XX-XX	Western South America	COL	Colombia			partial	1983.0	Homo sapiens	
+JQ581627	Dengue virus 	JQ581627	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+JQ581622	Dengue virus 	JQ581622	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Cerrito	partial	1485.0	Homo sapiens	
+JQ581633	Dengue virus 	JQ581633	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+JQ581626	Dengue virus 	JQ581626	2007-XX-XX	Western South America	COL	Colombia	COL/Santander	Piedecuesta	partial	1485.0	Homo sapiens	
+KY461751	Dengue virus 1	KY461751	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461741	Dengue virus 1	KY461741	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461743	Dengue virus 1	KY461743	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461742	Dengue virus 1	KY461742	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461752	Dengue virus 1	KY461752	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461753	Dengue virus 1	KY461753	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461740	Dengue virus 1	KY461740	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461755	Dengue virus 1	KY461755	2012-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461736	Dengue virus 1	KY461736	2007-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+JF804016	Dengue virus 1	JF804016	2005-XX-XX	Central America	CRI	Costa Rica			partial	1480.0	Homo sapiens	
+KY461738	Dengue virus 1	KY461738	2007-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461749	Dengue virus 1	KY461749	2014-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461745	Dengue virus 1	KY461745	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461747	Dengue virus 1	KY461747	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461739	Dengue virus 1	KY461739	2007-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461744	Dengue virus 1	KY461744	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461750	Dengue virus 1	KY461750	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461737	Dengue virus 1	KY461737	2007-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461748	Dengue virus 1	KY461748	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461754	Dengue virus 1	KY461754	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KY461746	Dengue virus 1	KY461746	2013-XX-XX	Central America	CRI	Costa Rica			partial	1485.0	Homo sapiens	
+KU728187	Dengue virus 1	KU728187	2010-XX-XX	Caribbean	DMA	Dominica			partial	1485.0	Homo sapiens	
+KU728186	Dengue virus 1	KU728186	2010-XX-XX	Caribbean	DMA	Dominica			partial	1485.0	Homo sapiens	
+KU728188	Dengue virus 1	KU728188	2010-XX-XX	Caribbean	DMA	Dominica			partial	1485.0	Homo sapiens	
+JF804017	Dengue virus 1	JF804017	2007-XX-XX	Caribbean	DOM	Dominican Republic			partial	1480.0	Homo sapiens	
+KY474305	Dengue virus 1	KY474305	2014-XX-XX	Western South America	ECU	Ecuador	ECU/Machala		complete	10676.0	Homo sapiens	
+KY474303	Dengue virus 1	KY474303	2014-XX-XX	Western South America	ECU	Ecuador	ECU/Machala		complete	10678.0	Homo sapiens	
+MF797878	Dengue virus 	MF797878	2014-02-17	Western South America	ECU	Ecuador			complete	10687.0	Homo sapiens	
+KY474307	Dengue virus 1	KY474307	2014-XX-XX	Western South America	ECU	Ecuador	ECU/Machala		complete	10677.0	Homo sapiens	
+KY474306	Dengue virus 1	KY474306	2014-XX-XX	Western South America	ECU	Ecuador	ECU/Machala		complete	10677.0	Homo sapiens	
+MN556095	Dengue virus 	MN556095	2017-04-XX	Western South America	ECU	Ecuador			partial	10694.0	Aedes aegypti	
+KY474304	Dengue virus 1	KY474304	2014-XX-XX	Western South America	ECU	Ecuador	ECU/Machala		complete	10678.0	Homo sapiens	
+EU448414	Dengue virus 	EU448414	2006-XX-XX	Central America	SLV	El Salvador			partial	1485.0		
+JX891661	Dengue virus 	JX891661	2012-XX-XX	Central America	SLV	El Salvador			partial	1485.0	Homo sapiens	
+JN819417	Dengue virus 	JN819417	1993-XX-XX	Central America	SLV	El Salvador			complete	10676.0	Homo sapiens	
+JX891659	Dengue virus 	JX891659	2012-XX-XX	Central America	SLV	El Salvador			partial	1485.0	Homo sapiens	
+JX891660	Dengue virus 	JX891660	2012-XX-XX	Central America	SLV	El Salvador			partial	1485.0	Homo sapiens	
+MH279620	Dengue virus 1	MH279620	2009-XX-XX	Northern South America	GUF	French Guiana			partial	2217.0	Homo sapiens	
+JN379481	Dengue virus 1	JN379481	1978-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379480	Dengue virus 1	JN379480	1977-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379476	Dengue virus 1	JN379476	1977-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379478	Dengue virus 1	JN379478	1977-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379482	Dengue virus 1	JN379482	1978-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379477	Dengue virus 1	JN379477	1977-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379479	Dengue virus 1	JN379479	1977-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN379484	Dengue virus 1	JN379484	1981-XX-XX	Caribbean	GRD	Grenada			partial	1485.0	Homo sapiens	
+JN415506	Dengue virus 1	JN415506	2008-XX-XX	Northern South America	GUY	Guyana			partial	1485.0	Homo sapiens	
+JF969280	Dengue virus 1	JF969280	2010-XX-XX	Caribbean	HTI	Haiti			partial	1485.0	Homo sapiens	
+JF969281	Dengue virus 1	JF969281	2010-XX-XX	Caribbean	HTI	Haiti			partial	1485.0	Homo sapiens	
+JF969284	Dengue virus 1	JF969284	2010-XX-XX	Caribbean	HTI	Haiti			partial	1485.0	Homo sapiens	
+JF969282	Dengue virus 1	JF969282	2010-XX-XX	Caribbean	HTI	Haiti			partial	1485.0	Homo sapiens	
+JF969283	Dengue virus 1	JF969283	2010-XX-XX	Caribbean	HTI	Haiti			partial	1485.0	Homo sapiens	
+KT279761	Dengue virus 1	KT279761	2014-11-27	Caribbean	HTI	Haiti			complete	10735.0	Homo sapiens	
+MG877553	Dengue virus 1	MG877553	2012-XX-XX	Caribbean	HTI	Haiti			complete	10719.0	Homo sapiens	
+KU509264	Dengue virus 1	KU509264	2010-XX-XX	Caribbean	HTI	Haiti			complete	10246.0	Homo sapiens	
+JF967804	Dengue virus 	JF967804	2008-XX-XX	Central America	HND	Honduras			partial	1485.0	Homo sapiens	
+KY818139	Dengue virus 	KY818139	2013-XX-XX	Central America	HND	Honduras			partial	1983.0	Homo sapiens	
+KY818140	Dengue virus 	KY818140	2014-XX-XX	Central America	HND	Honduras			partial	1983.0	Homo sapiens	
+KY882503	Dengue virus 	KY882503	2013-XX-XX	Central America	HND	Honduras			partial	1866.0	Homo sapiens	
+KU509249	Dengue virus 1	KU509249	2012-XX-XX	Caribbean	JAM	Jamaica			complete	10582.0	Homo sapiens	
+JN022598	Dengue virus 1	JN022598	2008-XX-XX	Caribbean	MTQ	Martinique			partial	1485.0	Homo sapiens	
+JF804018	Dengue virus 1	JF804018	1989-XX-XX	Caribbean	MTQ	Martinique			partial	1480.0	Homo sapiens	
+JN022599	Dengue virus 1	JN022599	2008-XX-XX	Caribbean	MTQ	Martinique			partial	1485.0	Homo sapiens	
+JN022597	Dengue virus 1	JN022597	2008-XX-XX	Caribbean	MTQ	Martinique			partial	1485.0	Homo sapiens	
+GU131962	Dengue virus 	GU131962	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10681.0	Homo sapiens	
+GQ868527	Dengue virus 	GQ868527	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10683.0	Homo sapiens	
+KF955428	Dengue virus 	KF955428	2007-XX-XX	Mexico	MEX	Mexico			partial	10681.0	Homo sapiens	
+KF955427	Dengue virus 	KF955427	2007-XX-XX	Mexico	MEX	Mexico			complete	10695.0	Homo sapiens	
+GU131963	Dengue virus 	GU131963	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10486.0	Homo sapiens	
+GU131964	Dengue virus 	GU131964	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+GU131965	Dengue virus 	GU131965	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10665.0	Homo sapiens	
+GU131973	Dengue virus 	GU131973	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10560.0	Homo sapiens	
+GU131966	Dengue virus 	GU131966	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10650.0	Homo sapiens	
+GU131967	Dengue virus 	GU131967	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10595.0	Homo sapiens	
+GU131968	Dengue virus 	GU131968	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10487.0	Homo sapiens	
+GQ868528	Dengue virus 	GQ868528	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10688.0	Homo sapiens	
+GU131969	Dengue virus 	GU131969	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10676.0	Homo sapiens	
+GU131970	Dengue virus 	GU131970	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10675.0	Homo sapiens	
+GU131971	Dengue virus 	GU131971	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10659.0	Homo sapiens	
+GU131972	Dengue virus 	GU131972	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10652.0	Homo sapiens	
+GU131961	Dengue virus 	GU131961	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10688.0	Homo sapiens	
+GU131960	Dengue virus 	GU131960	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+KF955421	Dengue virus 	KF955421	2007-XX-XX	Mexico	MEX	Mexico			partial	10654.0	Homo sapiens	
+KY346995	Dengue virus 1	KY346995	2013-XX-XX	Mexico	MEX	Mexico	MEX/Jalisco	Tequila	partial	3171.0	Homo sapiens	
+JF804019	Dengue virus 1	JF804019	2007-XX-XX	Mexico	MEX	Mexico			partial	1480.0	Homo sapiens	
+HQ166035	Dengue virus 	HQ166035	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10650.0	Homo sapiens	
+HQ166036	Dengue virus 	HQ166036	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10675.0	Homo sapiens	
+HM631855	Dengue virus 	HM631855	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10645.0	Homo sapiens	
+HM171561	Dengue virus 	HM171561	2007-XX-XX	Mexico	MEX	Mexico	MEX/Othon P Blanco	Quintana Roo	partial	1485.0	Homo sapiens	
+HM171563	Dengue virus 	HM171563	2007-XX-XX	Mexico	MEX	Mexico	MEX/Mujica	Tabasco	partial	1485.0	Homo sapiens	
+GU131983	Dengue virus 	GU131983	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+KF955422	Dengue virus 	KF955422	2007-XX-XX	Mexico	MEX	Mexico			partial	10669.0	Homo sapiens	
+KF955443	Dengue virus 	KF955443	2007-XX-XX	Mexico	MEX	Mexico			complete	10686.0	Homo sapiens	
+HM171564	Dengue virus 	HM171564	2007-XX-XX	Mexico	MEX	Mexico	MEX/Ixtaczoquitlan	Veracruz	partial	1485.0	Homo sapiens	
+HM171565	Dengue virus 	HM171565	2007-XX-XX	Mexico	MEX	Mexico	MEX/Leon	Guanajuato	partial	1485.0	Homo sapiens	
+GU131984	Dengue virus 	GU131984	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10677.0	Aedes aegypti	
+KF955442	Dengue virus 	KF955442	2007-XX-XX	Mexico	MEX	Mexico			complete	10628.0	Homo sapiens	
+HM171569	Dengue virus 	HM171569	2007-XX-XX	Mexico	MEX	Mexico	MEX/Cd Victoria	Tamaulipas	partial	1485.0	Homo sapiens	
+HQ166037	Dengue virus 	HQ166037	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10678.0	Aedes aegypti	
+MH936421	Dengue virus DENV1	MH936421	2017-01-01	Mexico	MEX	Mexico	MEX/Guerrero		partial	1479.0	Homo sapiens	
+GQ868525	Dengue virus 	GQ868525	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868526	Dengue virus 	GQ868526	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10675.0	Homo sapiens	
+GU131982	Dengue virus 	GU131982	2008-XX-XX	Mexico	MEX	Mexico			complete	10687.0	Homo sapiens	
+KY347007	Dengue virus 1	KY347007	2013-XX-XX	Mexico	MEX	Mexico	MEX/Veracruz	Veracruz	partial	6393.0	Homo sapiens	
+GQ868504	Dengue virus 	GQ868504	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GU131977	Dengue virus 	GU131977	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10658.0	Homo sapiens	
+KJ189333	Dengue virus 	KJ189333	2008-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189332	Dengue virus 	KJ189332	2008-XX-XX	Mexico	MEX	Mexico			complete	10301.0	Homo sapiens	
+GQ868506	Dengue virus 	GQ868506	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+KJ189331	Dengue virus 	KJ189331	2008-XX-XX	Mexico	MEX	Mexico			complete	10448.0	Homo sapiens	
+KJ189315	Dengue virus 	KJ189315	2008-XX-XX	Mexico	MEX	Mexico			complete	10448.0	Culicidae	
+KJ189314	Dengue virus 	KJ189314	2008-XX-XX	Mexico	MEX	Mexico			complete	10450.0	Culicidae	
+KJ189313	Dengue virus 	KJ189313	2008-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Culicidae	
+KJ189312	Dengue virus 	KJ189312	2008-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Culicidae	
+GQ868507	Dengue virus 	GQ868507	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10659.0	Homo sapiens	
+KF955419	Dengue virus 	KF955419	2007-XX-XX	Mexico	MEX	Mexico			partial	10690.0	Homo sapiens	
+GQ868524	Dengue virus 	GQ868524	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+KJ189334	Dengue virus 	KJ189334	2008-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+GQ868523	Dengue virus 	GQ868523	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10675.0	Homo sapiens	
+GQ868521	Dengue virus 	GQ868521	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+GQ868520	Dengue virus 	GQ868520	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+GQ868519	Dengue virus 	GQ868519	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868518	Dengue virus 	GQ868518	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868517	Dengue virus 	GQ868517	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+GQ868514	Dengue virus 	GQ868514	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868513	Dengue virus 	GQ868513	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868512	Dengue virus 	GQ868512	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10674.0	Homo sapiens	
+GQ868511	Dengue virus 	GQ868511	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10680.0	Homo sapiens	
+GQ868510	Dengue virus 	GQ868510	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868509	Dengue virus 	GQ868509	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868522	Dengue virus 	GQ868522	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10675.0	Homo sapiens	
+GU131976	Dengue virus 	GU131976	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10487.0	Homo sapiens	
+KJ189335	Dengue virus 	KJ189335	2008-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189337	Dengue virus 	KJ189337	2008-XX-XX	Mexico	MEX	Mexico			complete	10446.0	Homo sapiens	
+GU131978	Dengue virus 	GU131978	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10656.0	Homo sapiens	
+GU131979	Dengue virus 	GU131979	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10661.0	Homo sapiens	
+GU131980	Dengue virus 	GU131980	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10608.0	Homo sapiens	
+GU131981	Dengue virus 	GU131981	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10649.0	Homo sapiens	
+KF955420	Dengue virus 	KF955420	2007-XX-XX	Mexico	MEX	Mexico			partial	10669.0	Homo sapiens	
+GQ868500	Dengue virus 	GQ868500	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868501	Dengue virus 	GQ868501	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868502	Dengue virus 	GQ868502	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10689.0	Homo sapiens	
+KJ189327	Dengue virus 	KJ189327	2007-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+MH936426	Dengue virus DENV1	MH936426	2016-01-18	Mexico	MEX	Mexico	MEX/Puebla		partial	1479.0	Homo sapiens	
+KJ189336	Dengue virus 	KJ189336	2008-XX-XX	Mexico	MEX	Mexico			complete	10448.0	Homo sapiens	
+KJ189328	Dengue virus 	KJ189328	2007-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+GQ868503	Dengue virus 	GQ868503	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10676.0	Homo sapiens	
+KY346989	Dengue virus 1	KY346989	2013-XX-XX	Mexico	MEX	Mexico	MEX/Sinaloa	Mazatlan	partial	3591.0	Homo sapiens	
+KJ189329	Dengue virus 	KJ189329	2007-XX-XX	Mexico	MEX	Mexico			complete	10449.0	Homo sapiens	
+GQ868508	Dengue virus 	GQ868508	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868505	Dengue virus 	GQ868505	2007-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+KJ189330	Dengue virus 	KJ189330	2007-XX-XX	Mexico	MEX	Mexico			complete	10448.0	Homo sapiens	
+KF955433	Dengue virus 	KF955433	2008-XX-XX	Mexico	MEX	Mexico			partial	10686.0	Homo sapiens	
+KF955432	Dengue virus 	KF955432	2008-XX-XX	Mexico	MEX	Mexico			partial	5943.0	Homo sapiens	
+KJ189340	Dengue virus 	KJ189340	2008-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189339	Dengue virus 	KJ189339	2008-XX-XX	Mexico	MEX	Mexico			complete	10449.0	Homo sapiens	
+KJ189338	Dengue virus 	KJ189338	2008-XX-XX	Mexico	MEX	Mexico			complete	10448.0	Homo sapiens	
+MH936422	Dengue virus DENV1	MH936422	2017-01-01	Mexico	MEX	Mexico	MEX/Guerrero		partial	1479.0	Homo sapiens	
+JQ065954	Dengue virus 1	JQ065954	2010-11-23	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KJ189326	Dengue virus 	KJ189326	2007-XX-XX	Mexico	MEX	Mexico			complete	10449.0	Homo sapiens	
+KY347002	Dengue virus 1	KY347002	2012-XX-XX	Mexico	MEX	Mexico	MEX/Jalisco	Magdalena	partial	3498.0	Homo sapiens	
+JQ920428	Dengue virus 	JQ920428	2010-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ920429	Dengue virus 	JQ920429	2010-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ920430	Dengue virus 	JQ920430	2010-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ920431	Dengue virus 	JQ920431	2010-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ920432	Dengue virus 	JQ920432	2010-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065933	Dengue virus 1	JQ065933	2010-07-08	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065922	Dengue virus 1	JQ065922	2010-07-28	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065934	Dengue virus 1	JQ065934	2010-07-28	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065945	Dengue virus 1	JQ065945	2010-08-16	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065937	Dengue virus 1	JQ065937	2010-08-20	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KJ189369	Dengue virus 	KJ189369	2011-XX-XX	Mexico	MEX	Mexico			complete	10456.0	Homo sapiens	
+KJ189349	Dengue virus 	KJ189349	2011-XX-XX	Mexico	MEX	Mexico			complete	10384.0	Homo sapiens	
+KJ189348	Dengue virus 	KJ189348	2011-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189307	Dengue virus 	KJ189307	2011-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189306	Dengue virus 	KJ189306	2011-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+JQ065947	Dengue virus 1	JQ065947	2010-08-23	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065950	Dengue virus 1	JQ065950	2010-08-29	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065902	Dengue virus 1	JQ065902	2010-08-30	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065907	Dengue virus 1	JQ065907	2010-09-01	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KJ189347	Dengue virus 	KJ189347	2009-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189345	Dengue virus 	KJ189345	2009-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+GQ868530	Dengue virus 	GQ868530	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10662.0	Homo sapiens	
+GQ868531	Dengue virus 	GQ868531	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10683.0	Homo sapiens	
+GQ868532	Dengue virus 	GQ868532	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10681.0	Homo sapiens	
+GQ868533	Dengue virus 	GQ868533	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+GQ868534	Dengue virus 	GQ868534	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GQ868535	Dengue virus 	GQ868535	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+KJ189368	Dengue virus 	KJ189368	2012-XX-XX	Mexico	MEX	Mexico			complete	10480.0	Homo sapiens	
+GQ868537	Dengue virus 	GQ868537	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Aedes aegypti	
+GQ868538	Dengue virus 	GQ868538	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Aedes aegypti	
+GQ868539	Dengue virus 	GQ868539	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10663.0	Aedes aegypti	
+KY347009	Dengue virus 1	KY347009	2014-XX-XX	Mexico	MEX	Mexico	MEX/Puebla		partial	6390.0	Homo sapiens	
+KY347011	Dengue virus 1	KY347011	2014-XX-XX	Mexico	MEX	Mexico	MEX/Puebla		partial	6396.0	Homo sapiens	
+KY347013	Dengue virus 1	KY347013	2014-XX-XX	Mexico	MEX	Mexico	MEX/Chiapas		partial	6396.0	Homo sapiens	
+KJ189316	Dengue virus 	KJ189316	2009-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Culicidae	
+KJ189341	Dengue virus 	KJ189341	2009-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189342	Dengue virus 	KJ189342	2009-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189343	Dengue virus 	KJ189343	2009-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189344	Dengue virus 	KJ189344	2009-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189346	Dengue virus 	KJ189346	2009-XX-XX	Mexico	MEX	Mexico			complete	10442.0	Homo sapiens	
+GQ868529	Dengue virus 	GQ868529	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+KM279414	Dengue virus 1	KM279414	2011-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065938	Dengue virus 1	JQ065938	2010-09-30	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065948	Dengue virus 1	JQ065948	2010-10-01	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065927	Dengue virus 1	JQ065927	2010-10-02	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065920	Dengue virus 1	JQ065920	2010-10-05	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065956	Dengue virus 1	JQ065956	2010-10-05	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065918	Dengue virus 1	JQ065918	2010-10-06	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065955	Dengue virus 1	JQ065955	2010-10-06	Mexico	MEX	Mexico			partial	1481.0	Homo sapiens	
+JQ065932	Dengue virus 1	JQ065932	2010-10-08	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065939	Dengue virus 1	JQ065939	2010-10-08	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065924	Dengue virus 1	JQ065924	2010-10-17	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065928	Dengue virus 1	JQ065928	2010-10-19	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065942	Dengue virus 1	JQ065942	2010-10-21	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065946	Dengue virus 1	JQ065946	2010-10-25	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065953	Dengue virus 1	JQ065953	2010-10-25	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065941	Dengue virus 1	JQ065941	2010-11-01	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065929	Dengue virus 1	JQ065929	2010-11-02	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065949	Dengue virus 1	JQ065949	2010-11-03	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065930	Dengue virus 1	JQ065930	2010-11-04	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065957	Dengue virus 1	JQ065957	2010-11-24	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065931	Dengue virus 1	JQ065931	2010-09-27	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065915	Dengue virus 1	JQ065915	2010-09-01	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065913	Dengue virus 1	JQ065913	2010-09-24	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065901	Dengue virus 1	JQ065901	2010-09-21	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065899	Dengue virus 1	JQ065899	2010-09-02	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065912	Dengue virus 1	JQ065912	2010-09-02	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065900	Dengue virus 1	JQ065900	2010-09-03	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065905	Dengue virus 1	JQ065905	2010-09-03	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065906	Dengue virus 1	JQ065906	2010-09-03	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065935	Dengue virus 1	JQ065935	2010-09-03	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065903	Dengue virus 1	JQ065903	2010-09-06	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065917	Dengue virus 1	JQ065917	2010-09-06	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065916	Dengue virus 1	JQ065916	2010-09-07	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065921	Dengue virus 1	JQ065921	2010-09-07	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065923	Dengue virus 1	JQ065923	2010-09-08	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065908	Dengue virus 1	JQ065908	2010-09-09	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065914	Dengue virus 1	JQ065914	2010-09-09	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065951	Dengue virus 1	JQ065951	2010-09-10	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065926	Dengue virus 1	JQ065926	2010-09-13	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065943	Dengue virus 1	JQ065943	2010-09-13	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065911	Dengue virus 1	JQ065911	2010-09-15	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065925	Dengue virus 1	JQ065925	2010-09-15	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065904	Dengue virus 1	JQ065904	2010-09-17	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065909	Dengue virus 1	JQ065909	2010-09-20	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065919	Dengue virus 1	JQ065919	2010-09-20	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+JQ065910	Dengue virus 1	JQ065910	2010-09-24	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KF955424	Dengue virus 	KF955424	2007-XX-XX	Mexico	MEX	Mexico			partial	9928.0	Homo sapiens	
+GQ868536	Dengue virus 	GQ868536	2008-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Aedes aegypti	
+KY818261	Dengue virus 	KY818261	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+MH936425	Dengue virus DENV1	MH936425	2018-06-15	Mexico	MEX	Mexico	MEX/Michoacan		partial	1479.0	Homo sapiens	
+GQ868499	Dengue virus 	GQ868499	2006-XX-XX	Mexico	MEX	Mexico	MEX/Quintana Roo		complete	10684.0	Homo sapiens	
+GQ868498	Dengue virus 	GQ868498	2006-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10684.0	Homo sapiens	
+GU131958	Dengue virus 	GU131958	2006-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10656.0	Homo sapiens	
+GU131957	Dengue virus 	GU131957	2006-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10677.0	Homo sapiens	
+GU131956	Dengue virus 	GU131956	2006-XX-XX	Mexico	MEX	Mexico	MEX/Yucatan		complete	10690.0	Homo sapiens	
+HM171570	Dengue virus 	HM171570	2006-XX-XX	Mexico	MEX	Mexico	MEX/Nejapa de Morelos	Oaxaca	partial	1485.0	Homo sapiens	
+HM171568	Dengue virus 	HM171568	2006-XX-XX	Mexico	MEX	Mexico	MEX/Puerto Vallarta	Jalisco	partial	1485.0	Homo sapiens	
+MH936423	Dengue virus DENV1	MH936423	2018-06-15	Mexico	MEX	Mexico	MEX/Michoacan		partial	1479.0	Homo sapiens	
+HM171567	Dengue virus 	HM171567	2006-XX-XX	Mexico	MEX	Mexico	MEX/La Colorada	Sonora	partial	1485.0	Homo sapiens	
+HM171562	Dengue virus 	HM171562	2006-XX-XX	Mexico	MEX	Mexico	MEX/Ocosingo	Chiapas	partial	1485.0	Homo sapiens	
+KY818260	Dengue virus 	KY818260	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+HM171559	Dengue virus 	HM171559	2006-XX-XX	Mexico	MEX	Mexico	MEX/Mocorito	Sinaloa	partial	1485.0	Homo sapiens	
+KY818266	Dengue virus 	KY818266	2013-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818276	Dengue virus 	KY818276	2013-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818277	Dengue virus 	KY818277	2013-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+HM171558	Dengue virus 	HM171558	2006-XX-XX	Mexico	MEX	Mexico	MEX/Veracruz	Veracruz	partial	1485.0	Homo sapiens	
+HM171557	Dengue virus 	HM171557	2006-XX-XX	Mexico	MEX	Mexico	MEX/Cuernavaca	Morelos	partial	1485.0	Homo sapiens	
+HM171566	Dengue virus 	HM171566	2006-XX-XX	Mexico	MEX	Mexico	MEX/Huimanguillo	Tabasco	partial	1485.0	Homo sapiens	
+KY882515	Dengue virus 	KY882515	2013-XX-XX	Mexico	MEX	Mexico			partial	1866.0	Homo sapiens	
+MH936424	Dengue virus DENV1	MH936424	2018-06-14	Mexico	MEX	Mexico	MEX/Michoacan		partial	1479.0	Homo sapiens	
+KY818209	Dengue virus 	KY818209	2013-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KJ189325	Dengue virus 	KJ189325	2007-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189324	Dengue virus 	KJ189324	2007-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KM279420	Dengue virus 1	KM279420	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KM279419	Dengue virus 1	KM279419	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KM279418	Dengue virus 1	KM279418	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KM279417	Dengue virus 1	KM279417	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KM279416	Dengue virus 1	KM279416	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KM279415	Dengue virus 1	KM279415	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+MH936427	Dengue virus DENV1	MH936427	2018-03-05	Mexico	MEX	Mexico	MEX/Veracruz		partial	1479.0	Homo sapiens	
+KM279413	Dengue virus 1	KM279413	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KM279411	Dengue virus 1	KM279411	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KJ189323	Dengue virus 	KJ189323	2007-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189322	Dengue virus 	KJ189322	2007-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189321	Dengue virus 	KJ189321	2007-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189320	Dengue virus 	KJ189320	2007-XX-XX	Mexico	MEX	Mexico			complete	10445.0	Homo sapiens	
+KJ189319	Dengue virus 	KJ189319	2007-XX-XX	Mexico	MEX	Mexico			complete	10446.0	Homo sapiens	
+KJ189318	Dengue virus 	KJ189318	2007-XX-XX	Mexico	MEX	Mexico			complete	10444.0	Homo sapiens	
+KJ189317	Dengue virus 	KJ189317	2007-XX-XX	Mexico	MEX	Mexico			complete	10448.0	Homo sapiens	
+KM279412	Dengue virus 1	KM279412	2012-XX-XX	Mexico	MEX	Mexico			partial	1485.0	Homo sapiens	
+KY882518	Dengue virus 	KY882518	2012-XX-XX	Mexico	MEX	Mexico			partial	1866.0	Homo sapiens	
+HM171560	Dengue virus 	HM171560	2006-XX-XX	Mexico	MEX	Mexico	MEX/Jalpan de Serra	Queretaro	partial	1485.0	Homo sapiens	
+KF955423	Dengue virus 	KF955423	2007-XX-XX	Mexico	MEX	Mexico			partial	6474.0	Homo sapiens	
+KY818281	Dengue virus 	KY818281	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818282	Dengue virus 	KY818282	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818280	Dengue virus 	KY818280	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818283	Dengue virus 	KY818283	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818284	Dengue virus 	KY818284	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818285	Dengue virus 	KY818285	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818286	Dengue virus 	KY818286	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818287	Dengue virus 	KY818287	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KF955415	Dengue virus 	KF955415	2006-XX-XX	Mexico	MEX	Mexico			partial	10508.0	Homo sapiens	
+KY818279	Dengue virus 	KY818279	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KF955417	Dengue virus 	KF955417	2006-XX-XX	Mexico	MEX	Mexico			partial	10690.0	Homo sapiens	
+KY882517	Dengue virus 	KY882517	2013-XX-XX	Mexico	MEX	Mexico			partial	1866.0	Homo sapiens	
+KY818278	Dengue virus 	KY818278	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818275	Dengue virus 	KY818275	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KF955416	Dengue virus 	KF955416	2006-XX-XX	Mexico	MEX	Mexico			partial	10690.0	Homo sapiens	
+KY818273	Dengue virus 	KY818273	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818262	Dengue virus 	KY818262	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818263	Dengue virus 	KY818263	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818274	Dengue virus 	KY818274	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818265	Dengue virus 	KY818265	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818267	Dengue virus 	KY818267	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818268	Dengue virus 	KY818268	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818264	Dengue virus 	KY818264	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818270	Dengue virus 	KY818270	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818271	Dengue virus 	KY818271	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818272	Dengue virus 	KY818272	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+KY818269	Dengue virus 	KY818269	2012-XX-XX	Mexico	MEX	Mexico			partial	1983.0	Homo sapiens	
+FJ024423	Dengue virus 	FJ024423	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ810419	Dengue virus 	FJ810419	2006-XX-XX	Central America	NIC	Nicaragua	NIC/Carazo		complete	10690.0	Homo sapiens	
+FJ024478	Dengue virus 	FJ024478	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ024480	Dengue virus 	FJ024480	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ024481	Dengue virus 	FJ024481	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ024482	Dengue virus 	FJ024482	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ024483	Dengue virus 	FJ024483	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ024484	Dengue virus 	FJ024484	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ547068	Dengue virus 	FJ547068	2006-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10675.0	Homo sapiens	
+KF973471	Dengue virus 	KF973471	2012-XX-XX	Central America	NIC	Nicaragua			complete	10625.0	Homo sapiens	
+KF973470	Dengue virus 	KF973470	2012-XX-XX	Central America	NIC	Nicaragua			complete	10731.0	Homo sapiens	
+KF973469	Dengue virus 	KF973469	2012-XX-XX	Central America	NIC	Nicaragua			complete	10620.0	Homo sapiens	
+FJ562104	Dengue virus 	FJ562104	2006-XX-XX	Central America	NIC	Nicaragua	NIC/Rivas		complete	10688.0	Homo sapiens	
+KF973457	Dengue virus 	KF973457	2012-XX-XX	Central America	NIC	Nicaragua			complete	10615.0	Homo sapiens	
+KF973458	Dengue virus 	KF973458	2012-XX-XX	Central America	NIC	Nicaragua			complete	10290.0	Homo sapiens	
+FJ024479	Dengue virus 	FJ024479	2006-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ024485	Dengue virus 	FJ024485	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+KF973453	Dengue virus 	KF973453	2011-XX-XX	Central America	NIC	Nicaragua			complete	10303.0	Homo sapiens	
+KF973459	Dengue virus 	KF973459	2011-XX-XX	Central America	NIC	Nicaragua			complete	10238.0	Homo sapiens	
+KF973460	Dengue virus 	KF973460	2011-XX-XX	Central America	NIC	Nicaragua			complete	10630.0	Homo sapiens	
+KF973462	Dengue virus 	KF973462	2011-XX-XX	Central America	NIC	Nicaragua			complete	10336.0	Homo sapiens	
+EU596502	Dengue virus 	EU596502	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU596503	Dengue virus 	EU596503	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU596504	Dengue virus 	EU596504	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU482615	Dengue virus 	EU482615	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU482616	Dengue virus 	EU482616	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10756.0	Homo sapiens	
+EU482617	Dengue virus 	EU482617	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ182002	Dengue virus 	FJ182002	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+KU509312	Dengue virus 1	KU509312	2014-XX-XX	Central America	NIC	Nicaragua			partial	1485.0	Homo sapiens	
+FJ547088	Dengue virus 	FJ547088	2008-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ410290	Dengue virus 	FJ410290	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+KF973474	Dengue virus 	KF973474	2012-XX-XX	Central America	NIC	Nicaragua			complete	10616.0	Homo sapiens	
+KF973475	Dengue virus 	KF973475	2012-XX-XX	Central America	NIC	Nicaragua			complete	10615.0	Homo sapiens	
+FJ898437	Dengue virus 	FJ898437	2004-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10678.0	Homo sapiens	
+GQ199875	Dengue virus 	GQ199875	2004-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+GQ199873	Dengue virus 	GQ199873	2004-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+GQ199872	Dengue virus 	GQ199872	2004-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+KF955410	Dengue virus 	KF955410	2008-XX-XX	Central America	NIC	Nicaragua			partial	3464.0	Homo sapiens	
+GQ199867	Dengue virus 	GQ199867	2004-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+JN819403	Dengue virus 	JN819403	2006-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10462.0	Homo sapiens	
+KF973456	Dengue virus 	KF973456	2012-XX-XX	Central America	NIC	Nicaragua			complete	10327.0	Homo sapiens	
+KF955403	Dengue virus 	KF955403	2005-XX-XX	Central America	NIC	Nicaragua			partial	7868.0	Homo sapiens	
+KF955404	Dengue virus 	KF955404	2005-XX-XX	Central America	NIC	Nicaragua			partial	7870.0	Homo sapiens	
+KF955409	Dengue virus 	KF955409	2005-XX-XX	Central America	NIC	Nicaragua			partial	7869.0	Homo sapiens	
+JN819402	Dengue virus 	JN819402	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10695.0	Homo sapiens	
+FJ873814	Dengue virus 	FJ873814	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10672.0	Homo sapiens	
+KF973455	Dengue virus 	KF973455	2012-XX-XX	Central America	NIC	Nicaragua			complete	10606.0	Homo sapiens	
+KF973454	Dengue virus 	KF973454	2012-XX-XX	Central America	NIC	Nicaragua			complete	10619.0	Homo sapiens	
+FJ850113	Dengue virus 	FJ850113	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ850114	Dengue virus 	FJ850114	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10714.0	Homo sapiens	
+KF973473	Dengue virus 	KF973473	2012-XX-XX	Central America	NIC	Nicaragua			complete	10304.0	Homo sapiens	
+FJ547089	Dengue virus 	FJ547089	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+KF973472	Dengue virus 	KF973472	2012-XX-XX	Central America	NIC	Nicaragua			complete	10616.0	Homo sapiens	
+GQ199857	Dengue virus 	GQ199857	2008-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+GQ199858	Dengue virus 	GQ199858	2008-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+GQ199859	Dengue virus 	GQ199859	2008-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ432720	Dengue virus 	FJ432720	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+FJ432721	Dengue virus 	FJ432721	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU482618	Dengue virus 	EU482618	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU482619	Dengue virus 	EU482619	2005-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+EU596501	Dengue virus 	EU596501	2004-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10690.0	Homo sapiens	
+JF937635	Dengue virus 	JF937635	2009-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10465.0	Homo sapiens	
+KF973465	Dengue virus 	KF973465	2012-XX-XX	Central America	NIC	Nicaragua			complete	10559.0	Homo sapiens	
+KF973464	Dengue virus 	KF973464	2012-XX-XX	Central America	NIC	Nicaragua			complete	10608.0	Homo sapiens	
+KF973463	Dengue virus 	KF973463	2012-XX-XX	Central America	NIC	Nicaragua			complete	10608.0	Homo sapiens	
+KF973461	Dengue virus 	KF973461	2012-XX-XX	Central America	NIC	Nicaragua			complete	10580.0	Homo sapiens	
+JQ287666	Dengue virus 	JQ287666	2009-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10461.0	Homo sapiens	
+KF973466	Dengue virus 	KF973466	2012-XX-XX	Central America	NIC	Nicaragua			complete	10618.0	Homo sapiens	
+KF973467	Dengue virus 	KF973467	2012-XX-XX	Central America	NIC	Nicaragua			complete	10198.0	Homo sapiens	
+JF937644	Dengue virus 	JF937644	2009-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10443.0	Homo sapiens	
+KF973468	Dengue virus 	KF973468	2012-XX-XX	Central America	NIC	Nicaragua			complete	10599.0	Homo sapiens	
+JF937645	Dengue virus 	JF937645	2009-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10443.0	Homo sapiens	
+FJ898433	Dengue virus 	FJ898433	2007-XX-XX	Central America	NIC	Nicaragua	NIC/Managua		complete	10684.0	Homo sapiens	
+MH879216	Dengue virus 1	MH879216	2004-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879237	Dengue virus 1	MH879237	2016-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879222	Dengue virus 1	MH879222	2009-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879220	Dengue virus 1	MH879220	2009-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879221	Dengue virus 1	MH879221	2009-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879238	Dengue virus 1	MH879238	2016-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879223	Dengue virus 1	MH879223	2009-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879217	Dengue virus 1	MH879217	2004-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879215	Dengue virus 1	MH879215	2000-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879214	Dengue virus 1	MH879214	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879218	Dengue virus 1	MH879218	2004-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879182	Dengue virus 1	MH879182	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879219	Dengue virus 1	MH879219	2009-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879243	Dengue virus 1	MH879243	2016-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879224	Dengue virus 1	MH879224	2009-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879244	Dengue virus 1	MH879244	2016-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879191	Dengue virus 1	MH879191	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879188	Dengue virus 1	MH879188	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879187	Dengue virus 1	MH879187	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879242	Dengue virus 1	MH879242	2015-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879236	Dengue virus 1	MH879236	2015-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879235	Dengue virus 1	MH879235	2015-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879234	Dengue virus 1	MH879234	2015-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879232	Dengue virus 1	MH879232	2014-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879226	Dengue virus 1	MH879226	2010-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879245	Dengue virus 1	MH879245	2012-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879233	Dengue virus 1	MH879233	2010-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879186	Dengue virus 1	MH879186	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879185	Dengue virus 1	MH879185	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879184	Dengue virus 1	MH879184	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879229	Dengue virus 1	MH879229	2012-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879230	Dengue virus 1	MH879230	2012-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879192	Dengue virus 1	MH879192	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879228	Dengue virus 1	MH879228	2011-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879183	Dengue virus 1	MH879183	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879227	Dengue virus 1	MH879227	2011-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879247	Dengue virus 1	MH879247	2010-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879241	Dengue virus 1	MH879241	2011-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879213	Dengue virus 1	MH879213	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879212	Dengue virus 1	MH879212	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879176	Dengue virus 1	MH879176	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879175	Dengue virus 1	MH879175	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879174	Dengue virus 1	MH879174	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879190	Dengue virus 1	MH879190	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879172	Dengue virus 1	MH879172	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879171	Dengue virus 1	MH879171	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879197	Dengue virus 1	MH879197	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879196	Dengue virus 1	MH879196	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879198	Dengue virus 1	MH879198	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879195	Dengue virus 1	MH879195	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879193	Dengue virus 1	MH879193	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879170	Dengue virus 1	MH879170	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879239	Dengue virus 1	MH879239	2017-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879225	Dengue virus 1	MH879225	2011-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879248	Dengue virus 1	MH879248	2017-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879231	Dengue virus 1	MH879231	2013-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879246	Dengue virus 1	MH879246	2013-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879240	Dengue virus 1	MH879240	2017-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879194	Dengue virus 1	MH879194	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879199	Dengue virus 1	MH879199	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879173	Dengue virus 1	MH879173	1995-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879177	Dengue virus 1	MH879177	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879211	Dengue virus 1	MH879211	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879210	Dengue virus 1	MH879210	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879209	Dengue virus 1	MH879209	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879208	Dengue virus 1	MH879208	1999-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879207	Dengue virus 1	MH879207	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879206	Dengue virus 1	MH879206	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879205	Dengue virus 1	MH879205	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879204	Dengue virus 1	MH879204	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879203	Dengue virus 1	MH879203	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879189	Dengue virus 1	MH879189	1997-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879201	Dengue virus 1	MH879201	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879200	Dengue virus 1	MH879200	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879181	Dengue virus 1	MH879181	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879180	Dengue virus 1	MH879180	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879178	Dengue virus 1	MH879178	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879202	Dengue virus 1	MH879202	1998-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+MH879179	Dengue virus 1	MH879179	1996-XX-XX	Central America	PAN	Panama			partial	1575.0	Homo sapiens	
+KF419427	Dengue virus 	KF419427	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419425	Dengue virus 	KF419425	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419426	Dengue virus 	KF419426	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419431	Dengue virus 	KF419431	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419430	Dengue virus 	KF419430	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419429	Dengue virus 	KF419429	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419424	Dengue virus 	KF419424	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419420	Dengue virus 	KF419420	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419432	Dengue virus 	KF419432	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419419	Dengue virus 	KF419419	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419421	Dengue virus 	KF419421	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419428	Dengue virus 	KF419428	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419422	Dengue virus 	KF419422	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419423	Dengue virus 	KF419423	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KF419418	Dengue virus 	KF419418	2011-XX-XX	Southern South America	PRY	Paraguay			partial	1485.0	Homo sapiens	
+KJ189365	Dengue virus 	KJ189365	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10798.0	Homo sapiens	
+KJ189366	Dengue virus 	KJ189366	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10453.0	Homo sapiens	
+KJ189367	Dengue virus 	KJ189367	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10452.0	Homo sapiens	
+KJ189363	Dengue virus 	KJ189363	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10648.0	Homo sapiens	
+KJ189364	Dengue virus 	KJ189364	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10444.0	Homo sapiens	
+KF444910	Dengue virus 1	KF444910	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KJ189361	Dengue virus 	KJ189361	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10522.0	Homo sapiens	
+KY818247	Dengue virus 	KY818247	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KF955439	Dengue virus 	KF955439	1995-XX-XX	Caribbean	PRI	Puerto Rico			partial	9873.0	Homo sapiens	
+KY818255	Dengue virus 	KY818255	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KY818245	Dengue virus 	KY818245	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KY882524	Dengue virus 	KY882524	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1821.0	Homo sapiens	
+KF444916	Dengue virus 1	KF444916	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF444918	Dengue virus 1	KF444918	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KU509295	Dengue virus 1	KU509295	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF444920	Dengue virus 1	KF444920	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KY818244	Dengue virus 	KY818244	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KF444921	Dengue virus 1	KF444921	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF809752	Dengue virus 1	KF809752	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KY818243	Dengue virus 	KY818243	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KF921911	Dengue virus 	KF921911	1996-XX-XX	Caribbean	PRI	Puerto Rico			complete	10609.0	Homo sapiens	
+KJ189360	Dengue virus 	KJ189360	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10265.0	Homo sapiens	
+KJ189362	Dengue virus 	KJ189362	2010-XX-XX	Caribbean	PRI	Puerto Rico			complete	10456.0	Homo sapiens	
+KF809753	Dengue virus 1	KF809753	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KY818246	Dengue virus 	KY818246	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+JF804021	Dengue virus 1	JF804021	1998-XX-XX	Caribbean	PRI	Puerto Rico			partial	1480.0	Homo sapiens	
+KJ189357	Dengue virus 	KJ189357	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10444.0	Homo sapiens	
+KJ189356	Dengue virus 	KJ189356	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10442.0	Homo sapiens	
+KJ189355	Dengue virus 	KJ189355	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10444.0	Homo sapiens	
+KY882522	Dengue virus 	KY882522	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1821.0	Homo sapiens	
+KF444922	Dengue virus 1	KF444922	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KJ189353	Dengue virus 	KJ189353	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10444.0	Homo sapiens	
+KF809750	Dengue virus 1	KF809750	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF809751	Dengue virus 1	KF809751	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF444908	Dengue virus 1	KF444908	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KY818259	Dengue virus 	KY818259	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KY818257	Dengue virus 	KY818257	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KJ189352	Dengue virus 	KJ189352	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10448.0	Homo sapiens	
+KJ189351	Dengue virus 	KJ189351	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10448.0	Homo sapiens	
+KJ189350	Dengue virus 	KJ189350	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10445.0	Homo sapiens	
+KY882514	Dengue virus 	KY882514	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1866.0	Homo sapiens	
+KF444919	Dengue virus 1	KF444919	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KJ189358	Dengue virus 	KJ189358	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10444.0	Homo sapiens	
+KJ189354	Dengue virus 	KJ189354	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10443.0	Homo sapiens	
+KF444915	Dengue virus 1	KF444915	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF955437	Dengue virus 	KF955437	1998-XX-XX	Caribbean	PRI	Puerto Rico			partial	9725.0	Homo sapiens	
+MK039555	Dengue virus 	MK039555	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+MK039554	Dengue virus 	MK039554	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF955438	Dengue virus 	KF955438	1998-XX-XX	Caribbean	PRI	Puerto Rico			partial	9869.0	Homo sapiens	
+KF444917	Dengue virus 1	KF444917	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF444913	Dengue virus 1	KF444913	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF444912	Dengue virus 1	KF444912	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KF444911	Dengue virus 1	KF444911	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+JF804022	Dengue virus 1	JF804022	2007-XX-XX	Caribbean	PRI	Puerto Rico			partial	1480.0	Homo sapiens	
+KF444909	Dengue virus 1	KF444909	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KJ189359	Dengue virus 	KJ189359	2012-XX-XX	Caribbean	PRI	Puerto Rico			complete	10444.0	Homo sapiens	
+KY818256	Dengue virus 	KY818256	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KF444914	Dengue virus 1	KF444914	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1485.0	Homo sapiens	
+KY818258	Dengue virus 	KY818258	2013-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KY818254	Dengue virus 	KY818254	2012-XX-XX	Caribbean	PRI	Puerto Rico			partial	1983.0	Homo sapiens	
+KY829115	Dengue virus 	KY829115	2016-04-27	Caribbean	BLM	Saint Barthelemy			complete	10717.0	Homo sapiens	
+JN379485	Dengue virus 1	JN379485	1981-XX-XX	Northern South America	SUR	Suriname			partial	1485.0	Homo sapiens	
+JN379483	Dengue virus 1	JN379483	1981-XX-XX	Caribbean	TTO	Trinidad and Tobago			partial	1485.0	Homo sapiens	
+EU482591	Dengue virus 	EU482591	2006-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+KM204119	Dengue virus 1	KM204119	1944-XX-XX	North America	USA	USA	USA/Hawaii		complete	10736.0	Homo sapiens	
+FJ562105	Dengue virus 	FJ562105	1993-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+JQ425067	Dengue virus 	JQ425067	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+KM458187	Dengue virus 1	KM458187	2014-XX-XX	North America	USA	USA	USA/Texas		partial	1485.0	Homo sapiens	
+JQ675358	Dengue virus 	JQ675358	2010-10-XX	North America	USA	USA	USA/Florida	Key West	complete	10605.0	Homo sapiens	
+KM458188	Dengue virus 1	KM458188	2014-XX-XX	North America	USA	USA	USA/Texas		partial	1485.0	Homo sapiens	
+JF519855	Dengue virus 1	JF519855	2010-06-XX	North America	USA	USA	USA/Florida	Key West	partial	1708.0	Aedes aegypti	
+JQ425072	Dengue virus 	JQ425072	2010-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+KM458189	Dengue virus 1	KM458189	2014-XX-XX	North America	USA	USA	USA/Texas		partial	1485.0	Homo sapiens	
+KM458190	Dengue virus 1	KM458190	2014-XX-XX	North America	USA	USA	USA/Texas		partial	1485.0	Homo sapiens	
+FJ410175	Dengue virus 	FJ410175	1994-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ390379	Dengue virus 	FJ390379	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410179	Dengue virus 	FJ410179	1994-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+MH634394	Dengue virus 	MH634394	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634395	Dengue virus 	MH634395	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+FJ390380	Dengue virus 	FJ390380	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+MH634422	Dengue virus 	MH634422	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634421	Dengue virus 	MH634421	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634420	Dengue virus 	MH634420	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634419	Dengue virus 	MH634419	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634418	Dengue virus 	MH634418	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634417	Dengue virus 	MH634417	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634416	Dengue virus 	MH634416	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+KM458186	Dengue virus 1	KM458186	2014-XX-XX	North America	USA	USA	USA/Texas		partial	1485.0	Homo sapiens	
+MH634415	Dengue virus 	MH634415	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+FJ410185	Dengue virus 	FJ410185	1993-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+AB609588	Dengue virus 	AB609588	1944-XX-XX	North America	USA	USA			partial	2790.0	Homo sapiens	
+FJ410187	Dengue virus 	FJ410187	1992-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410186	Dengue virus 	FJ410186	1992-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ547087	Dengue virus 	FJ547087	1992-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410190	Dengue virus 	FJ410190	1987-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10684.0	Homo sapiens	
+FJ410173	Dengue virus 	FJ410173	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ205872	Dengue virus 	FJ205872	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ205873	Dengue virus 	FJ205873	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+JQ425061	Dengue virus 	JQ425061	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+JQ425062	Dengue virus 	JQ425062	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+FJ478458	Dengue virus 	FJ478458	1987-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10680.0	Homo sapiens	
+EU482567	Dengue virus 	EU482567	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ562106	Dengue virus 	FJ562106	1986-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410184	Dengue virus 	FJ410184	1993-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10744.0	Homo sapiens	
+JQ425063	Dengue virus 	JQ425063	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+JQ425064	Dengue virus 	JQ425064	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+JQ425065	Dengue virus 	JQ425065	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+JQ425066	Dengue virus 	JQ425066	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+MH634405	Dengue virus 	MH634405	2014-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+KJ676957	Dengue virus 	KJ676957	2013-09-07	North America	USA	USA			partial	1485.0	Homo sapiens	
+KJ415284	Dengue virus 1	KJ415284	2013-08-29	North America	USA	USA	USA/Florida	Martin County	partial	2542.0		
+EU848545	Dengue virus 1	EU848545	1944-XX-XX	North America	USA	USA	USA/Hawaii		complete	10734.0		
+EU482592	Dengue virus 	EU482592	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+JQ425068	Dengue virus 	JQ425068	2009-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+MH634396	Dengue virus 	MH634396	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634414	Dengue virus 	MH634414	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634407	Dengue virus 	MH634407	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634406	Dengue virus 	MH634406	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+FJ410189	Dengue virus 	FJ410189	1996-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+JQ425070	Dengue virus 	JQ425070	2010-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+JQ425069	Dengue virus 	JQ425069	2010-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+MH634404	Dengue virus 	MH634404	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634403	Dengue virus 	MH634403	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634402	Dengue virus 	MH634402	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+FJ547086	Dengue virus 	FJ547086	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ390374	Dengue virus 	FJ390374	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410174	Dengue virus 	FJ410174	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410180	Dengue virus 	FJ410180	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410181	Dengue virus 	FJ410181	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10671.0	Homo sapiens	
+FJ205874	Dengue virus 	FJ205874	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ205875	Dengue virus 	FJ205875	1995-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+JQ045564	Dengue virus 1	JQ045564	2010-XX-XX	North America	USA	USA			partial	2325.0	Homo sapiens	
+JQ045563	Dengue virus 1	JQ045563	2010-XX-XX	North America	USA	USA			partial	2325.0	Homo sapiens	
+JQ045562	Dengue virus 1	JQ045562	2010-XX-XX	North America	USA	USA			partial	2325.0	Homo sapiens	
+MH634401	Dengue virus 	MH634401	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+JQ045561	Dengue virus 1	JQ045561	2010-XX-XX	North America	USA	USA			partial	2325.0	Homo sapiens	
+DQ672564	Dengue virus 1	DQ672564	2001-XX-XX	North America	USA	USA	USA/Hawaii		complete	10735.0		
+FJ410182	Dengue virus 	FJ410182	1996-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+DQ672563	Dengue virus 1	DQ672563	2001-XX-XX	North America	USA	USA	USA/Hawaii		complete	10735.0		
+DQ672562	Dengue virus 1	DQ672562	2001-XX-XX	North America	USA	USA	USA/Hawaii		complete	10735.0		
+DQ672561	Dengue virus 1	DQ672561	2001-XX-XX	North America	USA	USA	USA/Hawaii		complete	10735.0		
+JQ425071	Dengue virus 	JQ425071	2010-XX-XX	North America	USA	USA			partial	1485.0	Homo sapiens	
+FJ390378	Dengue virus 	FJ390378	1998-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+FJ410183	Dengue virus 	FJ410183	1993-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+MH634399	Dengue virus 	MH634399	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634398	Dengue virus 	MH634398	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+FJ478457	Dengue virus 	FJ478457	1996-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10676.0	Homo sapiens	
+MH634397	Dengue virus 	MH634397	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634409	Dengue virus 	MH634409	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+FJ410188	Dengue virus 	FJ410188	1996-XX-XX	Caribbean	PRI	Puerto Rico	PRI/Puerto Rico		complete	10690.0	Homo sapiens	
+MH634411	Dengue virus 	MH634411	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634410	Dengue virus 	MH634410	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634408	Dengue virus 	MH634408	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634413	Dengue virus 	MH634413	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH634400	Dengue virus 	MH634400	2001-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Homo sapiens	
+MH634412	Dengue virus 	MH634412	2015-XX-XX	North America	USA	USA	USA/Hawaii		partial	1484.0	Culicidae	
+MH349378	Dengue virus 	MH349378	2016-01-19	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349386	Dengue virus 	MH349386	2016-02-07	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349383	Dengue virus 	MH349383	2016-04-01	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349385	Dengue virus 	MH349385	2016-01-23	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349369	Dengue virus 	MH349369	2016-04-02	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349377	Dengue virus 	MH349377	2016-02-16	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349366	Dengue virus 	MH349366	2016-03-04	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349367	Dengue virus 	MH349367	2016-03-06	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349363	Dengue virus 	MH349363	2016-02-17	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349373	Dengue virus 	MH349373	2016-02-23	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349381	Dengue virus 	MH349381	2016-02-28	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349372	Dengue virus 	MH349372	2016-02-02	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349382	Dengue virus 	MH349382	2016-03-13	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349374	Dengue virus 	MH349374	2016-02-24	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349387	Dengue virus 	MH349387	2016-03-25	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349368	Dengue virus 	MH349368	2016-03-29	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349384	Dengue virus 	MH349384	2016-01-09	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349365	Dengue virus 	MH349365	2016-02-22	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349364	Dengue virus 	MH349364	2016-02-19	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349380	Dengue virus 	MH349380	2016-02-19	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349370	Dengue virus 	MH349370	2016-03-31	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349371	Dengue virus 	MH349371	2016-03-31	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349362	Dengue virus 	MH349362	2016-02-05	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349376	Dengue virus 	MH349376	2016-02-26	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349379	Dengue virus 	MH349379	2016-02-18	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349361	Dengue virus 	MH349361	2016-02-28	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349360	Dengue virus 	MH349360	2016-02-19	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+MH349375	Dengue virus 	MH349375	2016-02-24	Southern South America	URY	Uruguay			partial	2325.0	Homo sapiens	
+FJ639741	Dengue virus 	FJ639741	1998-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ639740	Dengue virus 	FJ639740	1998-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10684.0	Homo sapiens	
+GU131832	Dengue virus 	GU131832	2000-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10460.0	Homo sapiens	
+FJ850103	Dengue virus 	FJ850103	2008-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10678.0	Homo sapiens	
+FJ873810	Dengue virus 	FJ873810	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ873809	Dengue virus 	FJ873809	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10684.0	Homo sapiens	
+GU131834	Dengue virus 	GU131834	2001-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10468.0	Homo sapiens	
+GQ199877	Dengue virus 	GQ199877	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Merida		complete	10690.0	Homo sapiens	
+KU509252	Dengue virus 1	KU509252	2010-XX-XX	Northern South America	VEN	Venezuela			complete	10554.0	Homo sapiens	
+GU131833	Dengue virus 	GU131833	2000-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10610.0	Homo sapiens	
+FJ639815	Dengue virus 	FJ639815	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10673.0	Homo sapiens	
+FJ639818	Dengue virus 	FJ639818	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ882579	Dengue virus 	FJ882579	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10674.0	Homo sapiens	
+GU056033	Dengue virus 	GU056033	1998-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10471.0	Homo sapiens	
+FJ639820	Dengue virus 	FJ639820	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10650.0	Homo sapiens	
+FJ639821	Dengue virus 	FJ639821	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10684.0	Homo sapiens	
+FJ639823	Dengue virus 	FJ639823	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10675.0	Homo sapiens	
+KF955411	Dengue virus 	KF955411	2000-XX-XX	Northern South America	VEN	Venezuela			partial	9286.0	Homo sapiens	
+FJ639824	Dengue virus 	FJ639824	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10691.0	Homo sapiens	
+FJ639743	Dengue virus 	FJ639743	1999-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10674.0	Homo sapiens	
+KU509254	Dengue virus 1	KU509254	2011-XX-XX	Northern South America	VEN	Venezuela			complete	10569.0	Homo sapiens	
+FJ850104	Dengue virus 	FJ850104	2008-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ639819	Dengue virus 	FJ639819	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10684.0	Homo sapiens	
+KF955412	Dengue virus 	KF955412	2004-XX-XX	Northern South America	VEN	Venezuela			partial	4534.0	Homo sapiens	
+EU482609	Dengue virus 	EU482609	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+GU056031	Dengue virus 	GU056031	1998-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10475.0	Homo sapiens	
+HQ332180	Dengue virus 	HQ332180	2006-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+HQ332178	Dengue virus 	HQ332178	2006-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+HQ332177	Dengue virus 	HQ332177	2006-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+FJ744701	Dengue virus 	FJ744701	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10641.0	Homo sapiens	
+FJ639794	Dengue virus 	FJ639794	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10676.0	Homo sapiens	
+FJ639796	Dengue virus 	FJ639796	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10676.0	Homo sapiens	
+FJ639797	Dengue virus 	FJ639797	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10676.0	Homo sapiens	
+GU056032	Dengue virus 	GU056032	1998-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10600.0	Homo sapiens	
+KF955407	Dengue virus 	KF955407	2005-XX-XX	Northern South America	VEN	Venezuela			partial	10614.0	Homo sapiens	
+JN819410	Dengue virus 	JN819410	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10486.0	Homo sapiens	
+JN819411	Dengue virus 	JN819411	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10493.0	Homo sapiens	
+JN819412	Dengue virus 	JN819412	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10505.0	Homo sapiens	
+GU131837	Dengue virus 	GU131837	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10455.0	Homo sapiens	
+FJ639806	Dengue virus 	FJ639806	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10685.0	Homo sapiens	
+HQ332181	Dengue virus 	HQ332181	2006-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+FJ850099	Dengue virus 	FJ850099	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10685.0	Homo sapiens	
+FJ850101	Dengue virus 	FJ850101	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ850102	Dengue virus 	FJ850102	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ810415	Dengue virus 	FJ810415	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10685.0	Homo sapiens	
+FJ639808	Dengue virus 	FJ639808	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10691.0	Homo sapiens	
+FJ639811	Dengue virus 	FJ639811	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10684.0	Homo sapiens	
+FJ639812	Dengue virus 	FJ639812	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10640.0	Homo sapiens	
+FJ639813	Dengue virus 	FJ639813	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10691.0	Homo sapiens	
+FJ639814	Dengue virus 	FJ639814	2005-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10677.0	Homo sapiens	
+MH450312	Dengue virus 1	MH450312	2015-10-19	Northern South America	VEN	Venezuela	VEN/Carabobo		complete	10752.0	Homo sapiens	
+KF955413	Dengue virus 	KF955413	2006-XX-XX	Northern South America	VEN	Venezuela			partial	9308.0	Homo sapiens	
+KF955414	Dengue virus 	KF955414	2006-XX-XX	Northern South America	VEN	Venezuela			partial	5287.0	Homo sapiens	
+KU509251	Dengue virus 1	KU509251	2008-XX-XX	Northern South America	VEN	Venezuela	VEN/Margarita Island		complete	10290.0	Homo sapiens	
+EU482611	Dengue virus 	EU482611	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+EU482610	Dengue virus 	EU482610	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+FJ850100	Dengue virus 	FJ850100	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10690.0	Homo sapiens	
+HQ332182	Dengue virus 	HQ332182	2006-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+FJ639802	Dengue virus 	FJ639802	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10691.0	Homo sapiens	
+KF955441	Dengue virus 	KF955441	2007-XX-XX	Northern South America	VEN	Venezuela			partial	10600.0	Homo sapiens	
+GU131839	Dengue virus 	GU131839	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10456.0	Homo sapiens	
+GU131840	Dengue virus 	GU131840	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10485.0	Homo sapiens	
+JF804026	Dengue virus 1	JF804026	2007-XX-XX	Northern South America	VEN	Venezuela			partial	1480.0	Homo sapiens	
+JN819414	Dengue virus 	JN819414	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10466.0	Homo sapiens	
+GU056029	Dengue virus 	GU056029	1997-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10517.0	Homo sapiens	
+HQ332183	Dengue virus 	HQ332183	2007-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+HQ332179	Dengue virus 	HQ332179	2007-XX-XX	Northern South America	VEN	Venezuela			complete	10735.0	Homo sapiens	
+GU056030	Dengue virus 	GU056030	1997-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10486.0	Homo sapiens	
+GU131838	Dengue virus 	GU131838	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10468.0	Homo sapiens	
+GU131842	Dengue virus 	GU131842	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10478.0	Homo sapiens	
+JN819425	Dengue virus 	JN819425	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/District Federal Caracas		complete	10485.0	Homo sapiens	
+GU131841	Dengue virus 	GU131841	2007-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10486.0	Homo sapiens	
+JN819415	Dengue virus 	JN819415	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10498.0	Homo sapiens	
+JN819405	Dengue virus 	JN819405	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Merida		complete	10467.0	Homo sapiens	
+JN819413	Dengue virus 	JN819413	2006-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10527.0	Homo sapiens	
+FJ639735	Dengue virus 	FJ639735	1997-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10675.0	Homo sapiens	
+GU131836	Dengue virus 	GU131836	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10556.0	Homo sapiens	
+GU131835	Dengue virus 	GU131835	2004-XX-XX	Northern South America	VEN	Venezuela	VEN/Aragua		complete	10479.0	Homo sapiens	
+JF804023	Dengue virus 1	JF804023	1987-XX-XX	North America	USA	Virgin Islands			partial	1480.0	Homo sapiens	
+D1-s40	Dengue virus 1		1994-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		complete			
+D1-s43	Dengue virus 1		1997-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		complete			
+D1-s47	Dengue virus 1		2000-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Ceara		complete			
+D1-s48	Dengue virus 1		2000-XX-XX	Brazil-North	BRA	Brazil	BRA/Acre		complete			
+D1-s49	Dengue virus 1		2001-XX-XX	Brazil-North	BRA	Brazil	BRA/Amapa		complete			
+D1-s51	Dengue virus 1		2001-XX-XX	Brazil-North	BRA	Brazil	BRA/Roraima		complete			
+D1-s52	Dengue virus 1		2002-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Piaui		complete			
+D1-s55	Dengue virus 1		2002-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Piaui		complete			
+D1-s56	Dengue virus 1		2002-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Mato Grosso		complete			
+D1-s57	Dengue virus 1		2002-XX-XX	Brazil-North	BRA	Brazil	BRA/Tocantins		complete			
+D1-s58	Dengue virus 1		2003-XX-XX	Brazil-Northeast	BRA	Brazil	BRA/Maranhao		complete			
+D1-s59	Dengue virus 1		2004-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		complete			
+D1-s60	Dengue virus 1		2005-XX-XX	Brazil-North	BRA	Brazil	BRA/Amapa		complete			
+D1-s61	Dengue virus 1		2006-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		complete			
+D1-s65	Dengue virus 1		2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		complete			
+D1-s66	Dengue virus 1		2007-XX-XX	Brazil-North	BRA	Brazil	BRA/Para		complete			
+D1-s72	Dengue virus 1		2008-XX-XX	Brazil-Center West	BRA	Brazil	BRA/Mato Grosso		complete			
+GL-0023	Dengue virus 1		2018-11-28	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Joao Pessoa	complete		Homo sapiens	Wallau Lab
+GL-0024	Dengue virus 1		2019-03-25	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Joao Pessoa	complete		Homo sapiens	Wallau Lab
+GL-0041	Dengue virus 1		2019-03-19	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Sao Sebastiao Do Umbuzeiro	complete		Homo sapiens	Wallau Lab
+GL-0004	Dengue virus 1		2019-05-06	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Bayeux	complete		Homo sapiens	Wallau Lab
+GL-0025	Dengue virus 1		2019-05-06	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Joao Pessoa	complete		Homo sapiens	Wallau Lab
+GL-0026	Dengue virus 1		2019-06-18	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Joao Pessoa	complete		Homo sapiens	Wallau Lab
+GL-0036	Dengue virus 1		2019-06-18	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Santa Rita	complete		Homo sapiens	Wallau Lab
+GL-0030	Dengue virus 1		2019-06-18	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Monteiro	complete		Homo sapiens	Wallau Lab
+GL-0031	Dengue virus 1		2019-05-29	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Monteiro	complete		Homo sapiens	Wallau Lab
+GL-0027	Dengue virus 1		2019-06-14	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Joao Pessoa	complete		Homo sapiens	Wallau Lab
+GL-0029	Dengue virus 1		2019-05-13	Brazil-Northeast	BRA	Brazil	BRA/Alagoas	Maceio	complete		Homo sapiens	Wallau Lab
+GL-0040	Dengue virus 1		2019-05-13	Brazil-Northeast	BRA	Brazil	BRA/Alagoas	Sao Miguel Dos Milagres	complete		Homo sapiens	Wallau Lab
+GL-0039	Dengue virus 1		2019-05-13	Brazil-Northeast	BRA	Brazil	BRA/Alagoas	Sao Jose Da Laje	complete		Homo sapiens	Wallau Lab
+GL-0010	Dengue virus 1		2018-05-21	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0011	Dengue virus 1		2018-04-21	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0012	Dengue virus 1		2018-04-22	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0013	Dengue virus 1		2018-04-23	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0014	Dengue virus 1		2018-04-21	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0015	Dengue virus 1		2018-04-22	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0016	Dengue virus 1		2018-04-21	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0017	Dengue virus 1		2018-04-20	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0018	Dengue virus 1		2018-05-07	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0019	Dengue virus 1		2018-05-04	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0020	Dengue virus 1		2018-05-07	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0021	Dengue virus 1		2018-05-09	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0022	Dengue virus 1		2018-05-04	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Coremas	complete		Homo sapiens	Wallau Lab
+GL-0037	Dengue virus 1		2018-05-12	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Sao Domingos	complete		Homo sapiens	Wallau Lab
+GL-0038	Dengue virus 1		2018-05-13	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Sao Domingos	complete		Homo sapiens	Wallau Lab
+GL-0033	Dengue virus 1		2018-05-13	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Pombal	complete		Homo sapiens	Wallau Lab
+GL-0028	Dengue virus 1		2018-06-04	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Joao Pessoa	complete		Homo sapiens	Wallau Lab
+GL-0001	Dengue virus 1		2018-05-27	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Barauna	complete		Homo sapiens	Wallau Lab
+GL-0002	Dengue virus 1		2018-05-26	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Barauna	complete		Homo sapiens	Wallau Lab
+GL-0003	Dengue virus 1		2018-05-26	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Barauna	complete		Homo sapiens	Wallau Lab
+GL-0007	Dengue virus 1		2018-05-18	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Caturite	complete		Homo sapiens	Wallau Lab
+GL-0034	Dengue virus 1		2018-06-10	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Queimadas	complete		Homo sapiens	Wallau Lab
+GL-0035	Dengue virus 1		2018-06-07	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Queimadas	complete		Homo sapiens	Wallau Lab
+GL-0008	Dengue virus 1		2018-06-01	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Caturite	complete		Homo sapiens	Wallau Lab
+GL-0005	Dengue virus 1		2018-06-20	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Campina Grande	complete		Homo sapiens	Wallau Lab
+GL-0042	Dengue virus 1		2018-06-16	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Uirauna	complete		Homo sapiens	Wallau Lab
+GL-0009	Dengue virus 1		2018-06-17	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Caturite	complete		Homo sapiens	Wallau Lab
+GL-0006	Dengue virus 1		2018-06-03	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Campina Grande	complete		Homo sapiens	Wallau Lab
+GL-0032	Dengue virus 1		2018-10-01	Brazil-Northeast	BRA	Brazil	BRA/Paraiba	Olivedos	complete		Homo sapiens	Wallau Lab
+USP-CB-51	Dengue virus 1		2018-10-01	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Ribeirao Preto	complete		Homo sapiens	Grubaugh Lab
+USP-CB-53	Dengue virus 1		2018-11-11	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Ribeirao Preto	complete		Homo sapiens	Grubaugh Lab
+USP-CB-54	Dengue virus 1		2018-11-18	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Ribeirao Preto	complete		Homo sapiens	Grubaugh Lab
+USP-CB-111	Dengue virus 1		2019-06-05	Brazil-Southeast	BRA	Brazil	BRA/Sao Paulo	Ribeirao Preto	complete		Homo sapiens	Grubaugh Lab
