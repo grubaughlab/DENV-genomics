@@ -9,14 +9,14 @@ The directory `data` contains sequences, metadata and epidemiological data used 
 data/
 │
 ├── denv1/
-│   ├── genomics	→ DENV-1 genome and envelope sequences, and their metadata
-│   └── phylogenetics 	→ DENV-1 maximum likelihood and Bayesian phylogenies
+│   ├── genomics		→ DENV-1 genome and envelope sequences, and their metadata
+│   └── phylogenetics 		→ DENV-1 maximum likelihood and Bayesian phylogenies
 │
 ├── denv2/
-│   ├── genomics	→ DENV-2 genome and envelope sequences, and their metadata
-│   └── phylogenetics 	→ DENV-2 maximum likelihood and Bayesian phylogenies
+│   ├── genomics		→ DENV-2 genome and envelope sequences, and their metadata
+│   └── phylogenetics 		→ DENV-2 maximum likelihood and Bayesian phylogenies
 │
-├── epidemiology 	→ Dengue, Zika, and Chikungunya case data, per country, region and state
+├── epidemiology 		→ Dengue, Zika, and Chikungunya case data, per country, region and state
 │
 └── mosquito-suitability	→ Weekly estimates of mosquito suitability
 ```
