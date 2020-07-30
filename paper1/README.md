@@ -16,7 +16,9 @@ data/
 │   ├── genomics	→ DENV-2 genome and envelope sequences, and their metadata
 │   └── phylogenetics 	→ DENV-2 maximum likelihood and Bayesian phylogenies
 │
-└── epidemiology 	→ Dengue, Zika, and Chikungunya case data, per country, region and state
+├── epidemiology 	→ Dengue, Zika, and Chikungunya case data, per country, region and state
+│
+└── mosquito-suitability	→ Weekly estimates of mosquito suitability
 ```
 
 ## Nextstrain
