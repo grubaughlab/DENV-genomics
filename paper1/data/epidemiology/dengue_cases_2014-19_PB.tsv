@@ -1,0 +1,1339 @@
+state	code	municipality	cases	population	year	incidence
+Paraíba	250020	Aguiar	0	5630	2014	0,00
+Paraíba	250020	Aguiar	0	5630	2015	0,00
+Paraíba	250020	Aguiar	0	5630	2016	0,00
+Paraíba	250020	Aguiar	0	5630	2017	0,00
+Paraíba	250020	Aguiar	10	5630	2018	0,56
+Paraíba	250020	Aguiar	0	5630	2019	0,00
+Paraíba	250030	Alagoa Grande	11	28439	2014	3,13
+Paraíba	250030	Alagoa Grande	336	28439	2015	95,56
+Paraíba	250030	Alagoa Grande	60	28439	2016	17,06
+Paraíba	250030	Alagoa Grande	8	28439	2017	2,28
+Paraíba	250030	Alagoa Grande	22	28439	2018	6,26
+Paraíba	250030	Alagoa Grande	64	28439	2019	18,20
+Paraíba	250040	Alagoa Nova	32	20921	2014	6,69
+Paraíba	250040	Alagoa Nova	165	20921	2015	34,52
+Paraíba	250040	Alagoa Nova	199	20921	2016	41,63
+Paraíba	250040	Alagoa Nova	2	20921	2017	0,42
+Paraíba	250040	Alagoa Nova	35	20921	2018	7,32
+Paraíba	250040	Alagoa Nova	99	20921	2019	20,71
+Paraíba	250050	Alagoinha	2	14560	2014	0,29
+Paraíba	250050	Alagoinha	37	14560	2015	5,39
+Paraíba	250050	Alagoinha	23	14560	2016	3,35
+Paraíba	250050	Alagoinha	2	14560	2017	0,29
+Paraíba	250050	Alagoinha	12	14560	2018	1,75
+Paraíba	250050	Alagoinha	20	14560	2019	2,91
+Paraíba	250053	Alcantil	0	5509	2014	0,00
+Paraíba	250053	Alcantil	36	5509	2015	1,98
+Paraíba	250053	Alcantil	9	5509	2016	0,50
+Paraíba	250053	Alcantil	0	5509	2017	0,00
+Paraíba	250053	Alcantil	15	5509	2018	0,83
+Paraíba	250053	Alcantil	3	5509	2019	0,17
+Paraíba	250057	Algodão de Jandaíra	1	2577	2014	0,03
+Paraíba	250057	Algodão de Jandaíra	1	2577	2015	0,03
+Paraíba	250057	Algodão de Jandaíra	2	2577	2016	0,05
+Paraíba	250057	Algodão de Jandaíra	0	2577	2017	0,00
+Paraíba	250057	Algodão de Jandaíra	2	2577	2018	0,05
+Paraíba	250057	Algodão de Jandaíra	15	2577	2019	0,39
+Paraíba	250060	Alhandra	108	19727	2014	21,31
+Paraíba	250060	Alhandra	1132	19727	2015	223,31
+Paraíba	250060	Alhandra	392	19727	2016	77,33
+Paraíba	250060	Alhandra	39	19727	2017	7,69
+Paraíba	250060	Alhandra	0	19727	2018	0,00
+Paraíba	250060	Alhandra	3	19727	2019	0,59
+Paraíba	250073	Amparo	0	2251	2014	0,00
+Paraíba	250073	Amparo	12	2251	2015	0,27
+Paraíba	250073	Amparo	46	2251	2016	1,04
+Paraíba	250073	Amparo	0	2251	2017	0,00
+Paraíba	250073	Amparo	0	2251	2018	0,00
+Paraíba	250073	Amparo	0	2251	2019	0,00
+Paraíba	250077	Aparecida	0	8416	2014	0,00
+Paraíba	250077	Aparecida	13	8416	2015	1,09
+Paraíba	250077	Aparecida	61	8416	2016	5,13
+Paraíba	250077	Aparecida	0	8416	2017	0,00
+Paraíba	250077	Aparecida	70	8416	2018	5,89
+Paraíba	250077	Aparecida	2	8416	2019	0,17
+Paraíba	250090	Arara	0	13542	2014	0,00
+Paraíba	250090	Arara	64	13542	2015	8,67
+Paraíba	250090	Arara	209	13542	2016	28,30
+Paraíba	250090	Arara	0	13542	2017	0,00
+Paraíba	250090	Arara	0	13542	2018	0,00
+Paraíba	250090	Arara	1	13542	2019	0,14
+Paraíba	250100	Araruna	1	20463	2014	0,20
+Paraíba	250100	Araruna	23	20463	2015	4,71
+Paraíba	250100	Araruna	22	20463	2016	4,50
+Paraíba	250100	Araruna	6	20463	2017	1,23
+Paraíba	250100	Araruna	12	20463	2018	2,46
+Paraíba	250100	Araruna	171	20463	2019	34,99
+Paraíba	250080	Araçagi	0	16921	2014	0,00
+Paraíba	250080	Araçagi	0	16921	2015	0,00
+Paraíba	250080	Araçagi	0	16921	2016	0,00
+Paraíba	250080	Araçagi	0	16921	2017	0,00
+Paraíba	250080	Araçagi	0	16921	2018	0,00
+Paraíba	250080	Araçagi	0	16921	2019	0,00
+Paraíba	250110	Areia	1	3695	2014	0,04
+Paraíba	250110	Areia	21	3695	2015	0,78
+Paraíba	250110	Areia	286	3695	2016	10,57
+Paraíba	250110	Areia	24	3695	2017	0,89
+Paraíba	250110	Areia	51	3695	2018	1,88
+Paraíba	250110	Areia	244	3695	2019	9,02
+Paraíba	250115	Areia de Baraúnas	7	2116	2014	0,15
+Paraíba	250115	Areia de Baraúnas	24	2116	2015	0,51
+Paraíba	250115	Areia de Baraúnas	3	2116	2016	0,06
+Paraíba	250115	Areia de Baraúnas	0	2116	2017	0,00
+Paraíba	250115	Areia de Baraúnas	3	2116	2018	0,06
+Paraíba	250115	Areia de Baraúnas	2	2116	2019	0,04
+Paraíba	250120	Areial	76	7027	2014	5,34
+Paraíba	250120	Areial	77	7027	2015	5,41
+Paraíba	250120	Areial	6	7027	2016	0,42
+Paraíba	250120	Areial	3	7027	2017	0,21
+Paraíba	250120	Areial	1	7027	2018	0,07
+Paraíba	250120	Areial	7	7027	2019	0,49
+Paraíba	250130	Aroeiras	16	19116	2014	3,06
+Paraíba	250130	Aroeiras	287	19116	2015	54,86
+Paraíba	250130	Aroeiras	679	19116	2016	129,80
+Paraíba	250130	Aroeiras	1	19116	2017	0,19
+Paraíba	250130	Aroeiras	116	19116	2018	22,17
+Paraíba	250130	Aroeiras	17	19116	2019	3,25
+Paraíba	250135	Assunção	0	4029	2014	0,00
+Paraíba	250135	Assunção	20	4029	2015	0,81
+Paraíba	250135	Assunção	11	4029	2016	0,44
+Paraíba	250135	Assunção	0	4029	2017	0,00
+Paraíba	250135	Assunção	49	4029	2018	1,97
+Paraíba	250135	Assunção	7	4029	2019	0,28
+Paraíba	250150	Bananeiras	4	21269	2014	0,85
+Paraíba	250150	Bananeiras	79	21269	2015	16,80
+Paraíba	250150	Bananeiras	34	21269	2016	7,23
+Paraíba	250150	Bananeiras	3	21269	2017	0,64
+Paraíba	250150	Bananeiras	0	21269	2018	0,00
+Paraíba	250150	Bananeiras	52	21269	2019	11,06
+Paraíba	250153	Baraúna	10	4964	2014	0,50
+Paraíba	250153	Baraúna	25	4964	2015	1,24
+Paraíba	250153	Baraúna	14	4964	2016	0,69
+Paraíba	250153	Baraúna	1	4964	2017	0,05
+Paraíba	250153	Baraúna	233	4964	2018	11,57
+Paraíba	250153	Baraúna	23	4964	2019	1,14
+Paraíba	250160	Barra de Santa Rosa	1	15497	2014	0,15
+Paraíba	250160	Barra de Santa Rosa	16	15497	2015	2,48
+Paraíba	250160	Barra de Santa Rosa	55	15497	2016	8,52
+Paraíba	250160	Barra de Santa Rosa	4	15497	2017	0,62
+Paraíba	250160	Barra de Santa Rosa	49	15497	2018	7,59
+Paraíba	250160	Barra de Santa Rosa	75	15497	2019	11,62
+Paraíba	250157	Barra de Santana	2	8349	2014	0,17
+Paraíba	250157	Barra de Santana	42	8349	2015	3,51
+Paraíba	250157	Barra de Santana	26	8349	2016	2,17
+Paraíba	250157	Barra de Santana	4	8349	2017	0,33
+Paraíba	250157	Barra de Santana	66	8349	2018	5,51
+Paraíba	250157	Barra de Santana	8	8349	2019	0,67
+Paraíba	250170	Barra de São Miguel	0	6065	2014	0,00
+Paraíba	250170	Barra de São Miguel	70	6065	2015	4,25
+Paraíba	250170	Barra de São Miguel	9	6065	2016	0,55
+Paraíba	250170	Barra de São Miguel	0	6065	2017	0,00
+Paraíba	250170	Barra de São Miguel	2	6065	2018	0,12
+Paraíba	250170	Barra de São Miguel	3	6065	2019	0,18
+Paraíba	250180	Bayeux	31	97203	2014	30,13
+Paraíba	250180	Bayeux	178	97203	2015	173,02
+Paraíba	250180	Bayeux	101	97203	2016	98,18
+Paraíba	250180	Bayeux	5	97203	2017	4,86
+Paraíba	250180	Bayeux	14	97203	2018	13,61
+Paraíba	250180	Bayeux	47	97203	2019	45,69
+Paraíba	250140	Baía da Traição	0	9096	2014	0,00
+Paraíba	250140	Baía da Traição	14	9096	2015	1,27
+Paraíba	250140	Baía da Traição	3	9096	2016	0,27
+Paraíba	250140	Baía da Traição	5	9096	2017	0,45
+Paraíba	250140	Baía da Traição	2	9096	2018	0,18
+Paraíba	250140	Baía da Traição	1	9096	2019	0,09
+Paraíba	250190	Belém	1	7349	2014	0,07
+Paraíba	250190	Belém	51	7349	2015	3,75
+Paraíba	250190	Belém	423	7349	2016	31,09
+Paraíba	250190	Belém	4	7349	2017	0,29
+Paraíba	250190	Belém	3	7349	2018	0,22
+Paraíba	250190	Belém	14	7349	2019	1,03
+Paraíba	250200	Belém do Brejo do Cruz	19	7349	2014	1,40
+Paraíba	250200	Belém do Brejo do Cruz	15	7349	2015	1,10
+Paraíba	250200	Belém do Brejo do Cruz	84	7349	2016	6,17
+Paraíba	250200	Belém do Brejo do Cruz	49	7349	2017	3,60
+Paraíba	250200	Belém do Brejo do Cruz	0	7349	2018	0,00
+Paraíba	250200	Belém do Brejo do Cruz	7	7349	2019	0,51
+Paraíba	250205	Bernardino Batista	7	3536	2014	0,25
+Paraíba	250205	Bernardino Batista	21	3536	2015	0,74
+Paraíba	250205	Bernardino Batista	6	3536	2016	0,21
+Paraíba	250205	Bernardino Batista	0	3536	2017	0,00
+Paraíba	250205	Bernardino Batista	4	3536	2018	0,14
+Paraíba	250205	Bernardino Batista	43	3536	2019	1,52
+Paraíba	250210	Boa Ventura	0	5307	2014	0,00
+Paraíba	250210	Boa Ventura	4	5307	2015	0,21
+Paraíba	250210	Boa Ventura	6	5307	2016	0,32
+Paraíba	250210	Boa Ventura	0	5307	2017	0,00
+Paraíba	250210	Boa Ventura	0	5307	2018	0,00
+Paraíba	250210	Boa Ventura	2	5307	2019	0,11
+Paraíba	250215	Boa Vista	9	7136	2014	0,64
+Paraíba	250215	Boa Vista	50	7136	2015	3,57
+Paraíba	250215	Boa Vista	50	7136	2016	3,57
+Paraíba	250215	Boa Vista	4	7136	2017	0,29
+Paraíba	250215	Boa Vista	38	7136	2018	2,71
+Paraíba	250215	Boa Vista	11	7136	2019	0,78
+Paraíba	250220	Bom Jesus	6	2575	2014	0,15
+Paraíba	250220	Bom Jesus	29	2575	2015	0,75
+Paraíba	250220	Bom Jesus	7	2575	2016	0,18
+Paraíba	250220	Bom Jesus	5	2575	2017	0,13
+Paraíba	250220	Bom Jesus	0	2575	2018	0,00
+Paraíba	250220	Bom Jesus	0	2575	2019	0,00
+Paraíba	250230	Bom Sucesso	16	4956	2014	0,79
+Paraíba	250230	Bom Sucesso	7	4956	2015	0,35
+Paraíba	250230	Bom Sucesso	5	4956	2016	0,25
+Paraíba	250230	Bom Sucesso	0	4956	2017	0,00
+Paraíba	250230	Bom Sucesso	4	4956	2018	0,20
+Paraíba	250230	Bom Sucesso	1	4956	2019	0,05
+Paraíba	250240	Bonito de Santa Fé	4	12022	2014	0,48
+Paraíba	250240	Bonito de Santa Fé	20	12022	2015	2,40
+Paraíba	250240	Bonito de Santa Fé	10	12022	2016	1,20
+Paraíba	250240	Bonito de Santa Fé	1	12022	2017	0,12
+Paraíba	250240	Bonito de Santa Fé	57	12022	2018	6,85
+Paraíba	250240	Bonito de Santa Fé	3	12022	2019	0,36
+Paraíba	250250	Boqueirão	16	17870	2014	2,86
+Paraíba	250250	Boqueirão	50	17870	2015	8,94
+Paraíba	250250	Boqueirão	54	17870	2016	9,65
+Paraíba	250250	Boqueirão	16	17870	2017	2,86
+Paraíba	250250	Boqueirão	99	17870	2018	17,69
+Paraíba	250250	Boqueirão	11	17870	2019	1,97
+Paraíba	250270	Borborema	1	5287	2014	0,05
+Paraíba	250270	Borborema	9	5287	2015	0,48
+Paraíba	250270	Borborema	58	5287	2016	3,07
+Paraíba	250270	Borborema	1	5287	2017	0,05
+Paraíba	250270	Borborema	0	5287	2018	0,00
+Paraíba	250270	Borborema	3	5287	2019	0,16
+Paraíba	250280	Brejo do Cruz	4	1811	2014	0,07
+Paraíba	250280	Brejo do Cruz	32	1811	2015	0,58
+Paraíba	250280	Brejo do Cruz	224	1811	2016	4,06
+Paraíba	250280	Brejo do Cruz	0	1811	2017	0,00
+Paraíba	250280	Brejo do Cruz	1	1811	2018	0,02
+Paraíba	250280	Brejo do Cruz	8	1811	2019	0,14
+Paraíba	250290	Brejo dos Santos	2	6464	2014	0,13
+Paraíba	250290	Brejo dos Santos	28	6464	2015	1,81
+Paraíba	250290	Brejo dos Santos	184	6464	2016	11,89
+Paraíba	250290	Brejo dos Santos	3	6464	2017	0,19
+Paraíba	250290	Brejo dos Santos	7	6464	2018	0,45
+Paraíba	250290	Brejo dos Santos	1	6464	2019	0,06
+Paraíba	250300	Caaporã	0	21955	2014	0,00
+Paraíba	250300	Caaporã	4	21955	2015	0,88
+Paraíba	250300	Caaporã	31	21955	2016	6,81
+Paraíba	250300	Caaporã	17	21955	2017	3,73
+Paraíba	250300	Caaporã	5	21955	2018	1,10
+Paraíba	250300	Caaporã	160	21955	2019	35,13
+Paraíba	250310	Cabaceiras	3	5661	2014	0,17
+Paraíba	250310	Cabaceiras	34	5661	2015	1,92
+Paraíba	250310	Cabaceiras	112	5661	2016	6,34
+Paraíba	250310	Cabaceiras	8	5661	2017	0,45
+Paraíba	250310	Cabaceiras	96	5661	2018	5,43
+Paraíba	250310	Cabaceiras	9	5661	2019	0,51
+Paraíba	250320	Cabedelo	194	68767	2014	133,41
+Paraíba	250320	Cabedelo	736	68767	2015	506,13
+Paraíba	250320	Cabedelo	113	68767	2016	77,71
+Paraíba	250320	Cabedelo	9	68767	2017	6,19
+Paraíba	250320	Cabedelo	54	68767	2018	37,13
+Paraíba	250320	Cabedelo	80	68767	2019	55,01
+Paraíba	250330	Cachoeira dos Índios	6	10305	2014	0,62
+Paraíba	250330	Cachoeira dos Índios	11	10305	2015	1,13
+Paraíba	250330	Cachoeira dos Índios	0	10305	2016	0,00
+Paraíba	250330	Cachoeira dos Índios	17	10305	2017	1,75
+Paraíba	250330	Cachoeira dos Índios	1	10305	2018	0,10
+Paraíba	250330	Cachoeira dos Índios	13	10305	2019	1,34
+Paraíba	250340	Cacimba de Areia	6	3695	2014	0,22
+Paraíba	250340	Cacimba de Areia	18	3695	2015	0,67
+Paraíba	250340	Cacimba de Areia	1	3695	2016	0,04
+Paraíba	250340	Cacimba de Areia	0	3695	2017	0,00
+Paraíba	250340	Cacimba de Areia	0	3695	2018	0,00
+Paraíba	250340	Cacimba de Areia	2	3695	2019	0,07
+Paraíba	250350	Cacimba de Dentro	4	17178	2014	0,69
+Paraíba	250350	Cacimba de Dentro	0	17178	2015	0,00
+Paraíba	250350	Cacimba de Dentro	1	17178	2016	0,17
+Paraíba	250350	Cacimba de Dentro	0	17178	2017	0,00
+Paraíba	250350	Cacimba de Dentro	2	17178	2018	0,34
+Paraíba	250350	Cacimba de Dentro	138	17178	2019	23,71
+Paraíba	250355	Cacimbas	1	7199	2014	0,07
+Paraíba	250355	Cacimbas	16	7199	2015	1,15
+Paraíba	250355	Cacimbas	24	7199	2016	1,73
+Paraíba	250355	Cacimbas	4	7199	2017	0,29
+Paraíba	250355	Cacimbas	2	7199	2018	0,14
+Paraíba	250355	Cacimbas	5	7199	2019	0,36
+Paraíba	250360	Caiçara	0	7191	2014	0,00
+Paraíba	250360	Caiçara	25	7191	2015	1,80
+Paraíba	250360	Caiçara	8	7191	2016	0,58
+Paraíba	250360	Caiçara	0	7191	2017	0,00
+Paraíba	250360	Caiçara	0	7191	2018	0,00
+Paraíba	250360	Caiçara	8	7191	2019	0,58
+Paraíba	250370	Cajazeiras	93	62289	2014	57,93
+Paraíba	250370	Cajazeiras	1166	62289	2015	726,29
+Paraíba	250370	Cajazeiras	1532	62289	2016	954,27
+Paraíba	250370	Cajazeiras	40	62289	2017	24,92
+Paraíba	250370	Cajazeiras	127	62289	2018	79,11
+Paraíba	250370	Cajazeiras	303	62289	2019	188,74
+Paraíba	250375	Cajazeirinhas	6	3205	2014	0,19
+Paraíba	250375	Cajazeirinhas	0	3205	2015	0,00
+Paraíba	250375	Cajazeirinhas	2	3205	2016	0,06
+Paraíba	250375	Cajazeirinhas	0	3205	2017	0,00
+Paraíba	250375	Cajazeirinhas	0	3205	2018	0,00
+Paraíba	250375	Cajazeirinhas	0	3205	2019	0,00
+Paraíba	250380	Caldas Brandão	0	6046	2014	0,00
+Paraíba	250380	Caldas Brandão	5	6046	2015	0,30
+Paraíba	250380	Caldas Brandão	10	6046	2016	0,60
+Paraíba	250380	Caldas Brandão	0	6046	2017	0,00
+Paraíba	250380	Caldas Brandão	0	6046	2018	0,00
+Paraíba	250380	Caldas Brandão	3	6046	2019	0,18
+Paraíba	250390	Camalaú	4	6031	2014	0,24
+Paraíba	250390	Camalaú	48	6031	2015	2,89
+Paraíba	250390	Camalaú	11	6031	2016	0,66
+Paraíba	250390	Camalaú	0	6031	2017	0,00
+Paraíba	250390	Camalaú	0	6031	2018	0,00
+Paraíba	250390	Camalaú	56	6031	2019	3,38
+Paraíba	250400	Campina Grande	234	411807	2014	963,63
+Paraíba	250400	Campina Grande	264	411807	2015	1087,17
+Paraíba	250400	Campina Grande	379	411807	2016	1560,75
+Paraíba	250400	Campina Grande	164	411807	2017	675,36
+Paraíba	250400	Campina Grande	867	411807	2018	3570,37
+Paraíba	250400	Campina Grande	155	411807	2019	638,30
+Paraíba	250403	Capim	23	6620	2014	1,52
+Paraíba	250403	Capim	22	6620	2015	1,46
+Paraíba	250403	Capim	0	6620	2016	0,00
+Paraíba	250403	Capim	0	6620	2017	0,00
+Paraíba	250403	Capim	0	6620	2018	0,00
+Paraíba	250403	Capim	12	6620	2019	0,79
+Paraíba	250407	Caraúbas	7	4185	2014	0,29
+Paraíba	250407	Caraúbas	136	4185	2015	5,69
+Paraíba	250407	Caraúbas	81	4185	2016	3,39
+Paraíba	250407	Caraúbas	0	4185	2017	0,00
+Paraíba	250407	Caraúbas	0	4185	2018	0,00
+Paraíba	250407	Caraúbas	8	4185	2019	0,33
+Paraíba	250410	Carrapateira	0	2687	2014	0,00
+Paraíba	250410	Carrapateira	0	2687	2015	0,00
+Paraíba	250410	Carrapateira	0	2687	2016	0,00
+Paraíba	250410	Carrapateira	0	2687	2017	0,00
+Paraíba	250410	Carrapateira	0	2687	2018	0,00
+Paraíba	250410	Carrapateira	0	2687	2019	0,00
+Paraíba	250415	Casserengue	1	7499	2014	0,07
+Paraíba	250415	Casserengue	12	7499	2015	0,90
+Paraíba	250415	Casserengue	237	7499	2016	17,77
+Paraíba	250415	Casserengue	0	7499	2017	0,00
+Paraíba	250415	Casserengue	5	7499	2018	0,37
+Paraíba	250415	Casserengue	54	7499	2019	4,05
+Paraíba	250420	Catingueira	0	4935	2014	0,00
+Paraíba	250420	Catingueira	3	4935	2015	0,15
+Paraíba	250420	Catingueira	4	4935	2016	0,20
+Paraíba	250420	Catingueira	19	4935	2017	0,94
+Paraíba	250420	Catingueira	1	4935	2018	0,05
+Paraíba	250420	Catingueira	5	4935	2019	0,25
+Paraíba	250430	Catolé do Rocha	57	30684	2014	17,49
+Paraíba	250430	Catolé do Rocha	280	30684	2015	85,92
+Paraíba	250430	Catolé do Rocha	620	30684	2016	190,24
+Paraíba	250430	Catolé do Rocha	14	30684	2017	4,30
+Paraíba	250430	Catolé do Rocha	86	30684	2018	26,39
+Paraíba	250430	Catolé do Rocha	41	30684	2019	12,58
+Paraíba	250435	Caturité	4	4875	2014	0,20
+Paraíba	250435	Caturité	43	4875	2015	2,10
+Paraíba	250435	Caturité	13	4875	2016	0,63
+Paraíba	250435	Caturité	10	4875	2017	0,49
+Paraíba	250435	Caturité	81	4875	2018	3,95
+Paraíba	250435	Caturité	3	4875	2019	0,15
+Paraíba	250440	Conceição	0	19007	2014	0,00
+Paraíba	250440	Conceição	0	19007	2015	0,00
+Paraíba	250440	Conceição	774	19007	2016	147,11
+Paraíba	250440	Conceição	0	19007	2017	0,00
+Paraíba	250440	Conceição	0	19007	2018	0,00
+Paraíba	250440	Conceição	0	19007	2019	0,00
+Paraíba	250450	Condado	31	6658	2014	2,06
+Paraíba	250450	Condado	6	6658	2015	0,40
+Paraíba	250450	Condado	307	6658	2016	20,44
+Paraíba	250450	Condado	0	6658	2017	0,00
+Paraíba	250450	Condado	7	6658	2018	0,47
+Paraíba	250450	Condado	1	6658	2019	0,07
+Paraíba	250460	Conde	5	25010	2014	1,25
+Paraíba	250460	Conde	54	25010	2015	13,51
+Paraíba	250460	Conde	124	25010	2016	31,01
+Paraíba	250460	Conde	1	25010	2017	0,25
+Paraíba	250460	Conde	0	25010	2018	0,00
+Paraíba	250460	Conde	98	25010	2019	24,51
+Paraíba	250470	Congo	0	4787	2014	0,00
+Paraíba	250470	Congo	0	4787	2015	0,00
+Paraíba	250470	Congo	0	4787	2016	0,00
+Paraíba	250470	Congo	0	4787	2017	0,00
+Paraíba	250470	Congo	2	4787	2018	0,10
+Paraíba	250470	Congo	2	4787	2019	0,10
+Paraíba	250480	Coremas	9	15441	2014	1,39
+Paraíba	250480	Coremas	64	15441	2015	9,88
+Paraíba	250480	Coremas	32	15441	2016	4,94
+Paraíba	250480	Coremas	5	15441	2017	0,77
+Paraíba	250480	Coremas	1085	15441	2018	167,53
+Paraíba	250480	Coremas	9	15441	2019	1,39
+Paraíba	250485	Coxixola	0	1935	2014	0,00
+Paraíba	250485	Coxixola	27	1935	2015	0,52
+Paraíba	250485	Coxixola	14	1935	2016	0,27
+Paraíba	250485	Coxixola	19	1935	2017	0,37
+Paraíba	250485	Coxixola	0	1935	2018	0,00
+Paraíba	250485	Coxixola	3	1935	2019	0,06
+Paraíba	250490	Cruz do Espírito Santo	0	17461	2014	0,00
+Paraíba	250490	Cruz do Espírito Santo	132	17461	2015	23,05
+Paraíba	250490	Cruz do Espírito Santo	177	17461	2016	30,91
+Paraíba	250490	Cruz do Espírito Santo	0	17461	2017	0,00
+Paraíba	250490	Cruz do Espírito Santo	0	17461	2018	0,00
+Paraíba	250490	Cruz do Espírito Santo	3	17461	2019	0,52
+Paraíba	250500	Cubati	29	7832	2014	2,27
+Paraíba	250500	Cubati	13	7832	2015	1,02
+Paraíba	250500	Cubati	11	7832	2016	0,86
+Paraíba	250500	Cubati	0	7832	2017	0,00
+Paraíba	250500	Cubati	45	7832	2018	3,52
+Paraíba	250500	Cubati	8	7832	2019	0,63
+Paraíba	250520	Cuitegi	1	6775	2014	0,07
+Paraíba	250520	Cuitegi	0	6775	2015	0,00
+Paraíba	250520	Cuitegi	0	6775	2016	0,00
+Paraíba	250520	Cuitegi	0	6775	2017	0,00
+Paraíba	250520	Cuitegi	2	6775	2018	0,14
+Paraíba	250520	Cuitegi	18	6775	2019	1,22
+Paraíba	250510	Cuité	40	6356	2014	2,54
+Paraíba	250510	Cuité	68	6356	2015	4,32
+Paraíba	250510	Cuité	107	6356	2016	6,80
+Paraíba	250510	Cuité	11	6356	2017	0,70
+Paraíba	250510	Cuité	95	6356	2018	6,04
+Paraíba	250510	Cuité	65	6356	2019	4,13
+Paraíba	250523	Cuité de Mamanguape	0	6356	2014	0,00
+Paraíba	250523	Cuité de Mamanguape	1	6356	2015	0,06
+Paraíba	250523	Cuité de Mamanguape	17	6356	2016	1,08
+Paraíba	250523	Cuité de Mamanguape	0	6356	2017	0,00
+Paraíba	250523	Cuité de Mamanguape	0	6356	2018	0,00
+Paraíba	250523	Cuité de Mamanguape	7	6356	2019	0,44
+Paraíba	250530	Curral Velho	0	2512	2014	0,00
+Paraíba	250530	Curral Velho	4	2512	2015	0,10
+Paraíba	250530	Curral Velho	2	2512	2016	0,05
+Paraíba	250530	Curral Velho	0	2512	2017	0,00
+Paraíba	250530	Curral Velho	0	2512	2018	0,00
+Paraíba	250530	Curral Velho	0	2512	2019	0,00
+Paraíba	250527	Curral de Cima	1	5218	2014	0,05
+Paraíba	250527	Curral de Cima	0	5218	2015	0,00
+Paraíba	250527	Curral de Cima	7	5218	2016	0,37
+Paraíba	250527	Curral de Cima	0	5218	2017	0,00
+Paraíba	250527	Curral de Cima	1	5218	2018	0,05
+Paraíba	250527	Curral de Cima	5	5218	2019	0,26
+Paraíba	250535	Damião	2	5370	2014	0,11
+Paraíba	250535	Damião	5	5370	2015	0,27
+Paraíba	250535	Damião	8	5370	2016	0,43
+Paraíba	250535	Damião	0	5370	2017	0,00
+Paraíba	250535	Damião	0	5370	2018	0,00
+Paraíba	250535	Damião	9	5370	2019	0,48
+Paraíba	250540	Desterro	0	8315	2014	0,00
+Paraíba	250540	Desterro	18	8315	2015	1,50
+Paraíba	250540	Desterro	5	8315	2016	0,42
+Paraíba	250540	Desterro	0	8315	2017	0,00
+Paraíba	250540	Desterro	0	8315	2018	0,00
+Paraíba	250540	Desterro	0	8315	2019	0,00
+Paraíba	250560	Diamante	3	6528	2014	0,20
+Paraíba	250560	Diamante	19	6528	2015	1,24
+Paraíba	250560	Diamante	3	6528	2016	0,20
+Paraíba	250560	Diamante	0	6528	2017	0,00
+Paraíba	250560	Diamante	0	6528	2018	0,00
+Paraíba	250560	Diamante	0	6528	2019	0,00
+Paraíba	250570	Dona Inês	7	10413	2014	0,73
+Paraíba	250570	Dona Inês	160	10413	2015	16,66
+Paraíba	250570	Dona Inês	1130	10413	2016	117,67
+Paraíba	250570	Dona Inês	28	10413	2017	2,92
+Paraíba	250570	Dona Inês	4	10413	2018	0,42
+Paraíba	250570	Dona Inês	47	10413	2019	4,89
+Paraíba	250580	Duas Estradas	0	3582	2014	0,00
+Paraíba	250580	Duas Estradas	7	3582	2015	0,25
+Paraíba	250580	Duas Estradas	40	3582	2016	1,43
+Paraíba	250580	Duas Estradas	0	3582	2017	0,00
+Paraíba	250580	Duas Estradas	0	3582	2018	0,00
+Paraíba	250580	Duas Estradas	11	3582	2019	0,39
+Paraíba	250590	Emas	2	3539	2014	0,07
+Paraíba	250590	Emas	2	3539	2015	0,07
+Paraíba	250590	Emas	2	3539	2016	0,07
+Paraíba	250590	Emas	0	3539	2017	0,00
+Paraíba	250590	Emas	0	3539	2018	0,00
+Paraíba	250590	Emas	3	3539	2019	0,11
+Paraíba	250600	Esperança	16	33199	2014	5,31
+Paraíba	250600	Esperança	89	33199	2015	29,55
+Paraíba	250600	Esperança	221	33199	2016	73,37
+Paraíba	250600	Esperança	15	33199	2017	4,98
+Paraíba	250600	Esperança	4	33199	2018	1,33
+Paraíba	250600	Esperança	361	33199	2019	119,85
+Paraíba	250610	Fagundes	0	11215	2014	0,00
+Paraíba	250610	Fagundes	61	11215	2015	6,84
+Paraíba	250610	Fagundes	12	11215	2016	1,35
+Paraíba	250610	Fagundes	42	11215	2017	4,71
+Paraíba	250610	Fagundes	0	11215	2018	0,00
+Paraíba	250610	Fagundes	2	11215	2019	0,22
+Paraíba	250620	Frei Martinho	0	2989	2014	0,00
+Paraíba	250620	Frei Martinho	117	2989	2015	3,50
+Paraíba	250620	Frei Martinho	27	2989	2016	0,81
+Paraíba	250620	Frei Martinho	1	2989	2017	0,03
+Paraíba	250620	Frei Martinho	0	2989	2018	0,00
+Paraíba	250620	Frei Martinho	15	2989	2019	0,45
+Paraíba	250625	Gado Bravo	1	8303	2014	0,08
+Paraíba	250625	Gado Bravo	9	8303	2015	0,75
+Paraíba	250625	Gado Bravo	1	8303	2016	0,08
+Paraíba	250625	Gado Bravo	2	8303	2017	0,17
+Paraíba	250625	Gado Bravo	8	8303	2018	0,66
+Paraíba	250625	Gado Bravo	4	8303	2019	0,33
+Paraíba	250630	Guarabira	104	59115	2014	61,48
+Paraíba	250630	Guarabira	582	59115	2015	344,05
+Paraíba	250630	Guarabira	596	59115	2016	352,33
+Paraíba	250630	Guarabira	29	59115	2017	17,14
+Paraíba	250630	Guarabira	16	59115	2018	9,46
+Paraíba	250630	Guarabira	345	59115	2019	203,95
+Paraíba	250640	Gurinhém	1	14127	2014	0,14
+Paraíba	250640	Gurinhém	23	14127	2015	3,25
+Paraíba	250640	Gurinhém	25	14127	2016	3,53
+Paraíba	250640	Gurinhém	0	14127	2017	0,00
+Paraíba	250640	Gurinhém	0	14127	2018	0,00
+Paraíba	250640	Gurinhém	9	14127	2019	1,27
+Paraíba	250650	Gurjão	38	3453	2014	1,31
+Paraíba	250650	Gurjão	25	3453	2015	0,86
+Paraíba	250650	Gurjão	88	3453	2016	3,04
+Paraíba	250650	Gurjão	1	3453	2017	0,03
+Paraíba	250650	Gurjão	7	3453	2018	0,24
+Paraíba	250650	Gurjão	6	3453	2019	0,21
+Paraíba	250660	Ibiara	0	5903	2014	0,00
+Paraíba	250660	Ibiara	0	5903	2015	0,00
+Paraíba	250660	Ibiara	0	5903	2016	0,00
+Paraíba	250660	Ibiara	12	5903	2017	0,71
+Paraíba	250660	Ibiara	0	5903	2018	0,00
+Paraíba	250660	Ibiara	0	5903	2019	0,00
+Paraíba	250260	Igaracy	0	6105	2014	0,00
+Paraíba	250260	Igaracy	0	6105	2015	0,00
+Paraíba	250260	Igaracy	1	6105	2016	0,06
+Paraíba	250260	Igaracy	0	6105	2017	0,00
+Paraíba	250260	Igaracy	0	6105	2018	0,00
+Paraíba	250260	Igaracy	0	6105	2019	0,00
+Paraíba	250670	Imaculada	0	11848	2014	0,00
+Paraíba	250670	Imaculada	36	11848	2015	4,27
+Paraíba	250670	Imaculada	17	11848	2016	2,01
+Paraíba	250670	Imaculada	2	11848	2017	0,24
+Paraíba	250670	Imaculada	14	11848	2018	1,66
+Paraíba	250670	Imaculada	2	11848	2019	0,24
+Paraíba	250680	Ingá	4	18144	2014	0,73
+Paraíba	250680	Ingá	115	18144	2015	20,87
+Paraíba	250680	Ingá	38	18144	2016	6,89
+Paraíba	250680	Ingá	1	18144	2017	0,18
+Paraíba	250680	Ingá	21	18144	2018	3,81
+Paraíba	250680	Ingá	0	18144	2019	0,00
+Paraíba	250690	Itabaiana	1	24419	2014	0,24
+Paraíba	250690	Itabaiana	265	24419	2015	64,71
+Paraíba	250690	Itabaiana	518	24419	2016	126,49
+Paraíba	250690	Itabaiana	14	24419	2017	3,42
+Paraíba	250690	Itabaiana	47	24419	2018	11,48
+Paraíba	250690	Itabaiana	104	24419	2019	25,40
+Paraíba	250700	Itaporanga	51	24828	2014	12,66
+Paraíba	250700	Itaporanga	255	24828	2015	63,31
+Paraíba	250700	Itaporanga	1348	24828	2016	334,68
+Paraíba	250700	Itaporanga	7	24828	2017	1,74
+Paraíba	250700	Itaporanga	2	24828	2018	0,50
+Paraíba	250700	Itaporanga	12	24828	2019	2,98
+Paraíba	250710	Itapororoca	1	18823	2014	0,19
+Paraíba	250710	Itapororoca	5	18823	2015	0,94
+Paraíba	250710	Itapororoca	1	18823	2016	0,19
+Paraíba	250710	Itapororoca	0	18823	2017	0,00
+Paraíba	250710	Itapororoca	0	18823	2018	0,00
+Paraíba	250710	Itapororoca	0	18823	2019	0,00
+Paraíba	250720	Itatuba	1	11016	2014	0,11
+Paraíba	250720	Itatuba	9	11016	2015	0,99
+Paraíba	250720	Itatuba	36	11016	2016	3,97
+Paraíba	250720	Itatuba	2	11016	2017	0,22
+Paraíba	250720	Itatuba	0	11016	2018	0,00
+Paraíba	250720	Itatuba	0	11016	2019	0,00
+Paraíba	250730	Jacaraú	0	14450	2014	0,00
+Paraíba	250730	Jacaraú	33	14450	2015	4,77
+Paraíba	250730	Jacaraú	7	14450	2016	1,01
+Paraíba	250730	Jacaraú	0	14450	2017	0,00
+Paraíba	250730	Jacaraú	0	14450	2018	0,00
+Paraíba	250730	Jacaraú	13	14450	2019	1,88
+Paraíba	250740	Jericó	4	7745	2014	0,31
+Paraíba	250740	Jericó	0	7745	2015	0,00
+Paraíba	250740	Jericó	48	7745	2016	3,72
+Paraíba	250740	Jericó	0	7745	2017	0,00
+Paraíba	250740	Jericó	20	7745	2018	1,55
+Paraíba	250740	Jericó	7	7745	2019	0,54
+Paraíba	251365	Joca Claudino	54	2639	2014	1,43
+Paraíba	251365	Joca Claudino	6	2639	2015	0,16
+Paraíba	251365	Joca Claudino	6	2639	2016	0,16
+Paraíba	251365	Joca Claudino	2	2639	2017	0,05
+Paraíba	251365	Joca Claudino	21	2639	2018	0,55
+Paraíba	251365	Joca Claudino	38	2639	2019	1,00
+Paraíba	250750	João Pessoa	2441	817511	2014	19955,44
+Paraíba	250750	João Pessoa	4675	817511	2015	38218,64
+Paraíba	250750	João Pessoa	7025	817511	2016	57430,15
+Paraíba	250750	João Pessoa	2541	817511	2017	20772,95
+Paraíba	250750	João Pessoa	3327	817511	2018	27198,59
+Paraíba	250750	João Pessoa	11379	817511	2019	93024,58
+Paraíba	250760	Juarez Távora	0	7976	2014	0,00
+Paraíba	250760	Juarez Távora	99	7976	2015	7,90
+Paraíba	250760	Juarez Távora	102	7976	2016	8,14
+Paraíba	250760	Juarez Távora	0	7976	2017	0,00
+Paraíba	250760	Juarez Távora	21	7976	2018	1,67
+Paraíba	250760	Juarez Távora	1	7976	2019	0,08
+Paraíba	250770	Juazeirinho	139	18298	2014	25,43
+Paraíba	250770	Juazeirinho	238	18298	2015	43,55
+Paraíba	250770	Juazeirinho	245	18298	2016	44,83
+Paraíba	250770	Juazeirinho	17	18298	2017	3,11
+Paraíba	250770	Juazeirinho	260	18298	2018	47,57
+Paraíba	250770	Juazeirinho	23	18298	2019	4,21
+Paraíba	250780	Junco do Seridó	0	7195	2014	0,00
+Paraíba	250780	Junco do Seridó	81	7195	2015	5,83
+Paraíba	250780	Junco do Seridó	170	7195	2016	12,23
+Paraíba	250780	Junco do Seridó	0	7195	2017	0,00
+Paraíba	250780	Junco do Seridó	31	7195	2018	2,23
+Paraíba	250780	Junco do Seridó	35	7195	2019	2,52
+Paraíba	250790	Juripiranga	0	10793	2014	0,00
+Paraíba	250790	Juripiranga	47	10793	2015	5,07
+Paraíba	250790	Juripiranga	293	10793	2016	31,62
+Paraíba	250790	Juripiranga	0	10793	2017	0,00
+Paraíba	250790	Juripiranga	1	10793	2018	0,11
+Paraíba	250790	Juripiranga	25	10793	2019	2,70
+Paraíba	250800	Juru	10	9849	2014	0,98
+Paraíba	250800	Juru	65	9849	2015	6,40
+Paraíba	250800	Juru	99	9849	2016	9,75
+Paraíba	250800	Juru	8	9849	2017	0,79
+Paraíba	250800	Juru	20	9849	2018	1,97
+Paraíba	250800	Juru	59	9849	2019	5,81
+Paraíba	250810	Lagoa	0	11728	2014	0,00
+Paraíba	250810	Lagoa	6	11728	2015	0,70
+Paraíba	250810	Lagoa	2	11728	2016	0,23
+Paraíba	250810	Lagoa	0	11728	2017	0,00
+Paraíba	250810	Lagoa	25	11728	2018	2,93
+Paraíba	250810	Lagoa	11	11728	2019	1,29
+Paraíba	250830	Lagoa Seca	33	27617	2014	9,11
+Paraíba	250830	Lagoa Seca	98	27617	2015	27,06
+Paraíba	250830	Lagoa Seca	19	27617	2016	5,25
+Paraíba	250830	Lagoa Seca	9	27617	2017	2,49
+Paraíba	250830	Lagoa Seca	16	27617	2018	4,42
+Paraíba	250830	Lagoa Seca	28	27617	2019	7,73
+Paraíba	250820	Lagoa de Dentro	2	7737	2014	0,15
+Paraíba	250820	Lagoa de Dentro	1	7737	2015	0,08
+Paraíba	250820	Lagoa de Dentro	26	7737	2016	2,01
+Paraíba	250820	Lagoa de Dentro	0	7737	2017	0,00
+Paraíba	250820	Lagoa de Dentro	0	7737	2018	0,00
+Paraíba	250820	Lagoa de Dentro	45	7737	2019	3,48
+Paraíba	250840	Lastro	11	2718	2014	0,30
+Paraíba	250840	Lastro	0	2718	2015	0,00
+Paraíba	250840	Lastro	0	2718	2016	0,00
+Paraíba	250840	Lastro	6	2718	2017	0,16
+Paraíba	250840	Lastro	119	2718	2018	3,23
+Paraíba	250840	Lastro	0	2718	2019	0,00
+Paraíba	250850	Livramento	11	7265	2014	0,80
+Paraíba	250850	Livramento	12	7265	2015	0,87
+Paraíba	250850	Livramento	0	7265	2016	0,00
+Paraíba	250850	Livramento	0	7265	2017	0,00
+Paraíba	250850	Livramento	0	7265	2018	0,00
+Paraíba	250850	Livramento	9	7265	2019	0,65
+Paraíba	250855	Logradouro	2	4369	2014	0,09
+Paraíba	250855	Logradouro	13	4369	2015	0,57
+Paraíba	250855	Logradouro	0	4369	2016	0,00
+Paraíba	250855	Logradouro	1	4369	2017	0,04
+Paraíba	250855	Logradouro	2	4369	2018	0,09
+Paraíba	250855	Logradouro	5	4369	2019	0,22
+Paraíba	250860	Lucena	0	13214	2014	0,00
+Paraíba	250860	Lucena	46	13214	2015	6,08
+Paraíba	250860	Lucena	45	13214	2016	5,95
+Paraíba	250860	Lucena	10	13214	2017	1,32
+Paraíba	250860	Lucena	6	13214	2018	0,79
+Paraíba	250860	Lucena	85	13214	2019	11,23
+Paraíba	250880	Malta	15	5752	2014	0,86
+Paraíba	250880	Malta	9	5752	2015	0,52
+Paraíba	250880	Malta	260	5752	2016	14,96
+Paraíba	250880	Malta	1	5752	2017	0,06
+Paraíba	250880	Malta	0	5752	2018	0,00
+Paraíba	250880	Malta	10	5752	2019	0,58
+Paraíba	250890	Mamanguape	1	45136	2014	0,45
+Paraíba	250890	Mamanguape	30	45136	2015	13,54
+Paraíba	250890	Mamanguape	94	45136	2016	42,43
+Paraíba	250890	Mamanguape	5	45136	2017	2,26
+Paraíba	250890	Mamanguape	1	45136	2018	0,45
+Paraíba	250890	Mamanguape	96	45136	2019	43,33
+Paraíba	250900	Manaíra	4	10972	2014	0,44
+Paraíba	250900	Manaíra	74	10972	2015	8,12
+Paraíba	250900	Manaíra	94	10972	2016	10,31
+Paraíba	250900	Manaíra	4	10972	2017	0,44
+Paraíba	250900	Manaíra	5	10972	2018	0,55
+Paraíba	250900	Manaíra	23	10972	2019	2,52
+Paraíba	250905	Marcação	0	8653	2014	0,00
+Paraíba	250905	Marcação	7	8653	2015	0,61
+Paraíba	250905	Marcação	3	8653	2016	0,26
+Paraíba	250905	Marcação	0	8653	2017	0,00
+Paraíba	250905	Marcação	0	8653	2018	0,00
+Paraíba	250905	Marcação	9	8653	2019	0,78
+Paraíba	250910	Mari	0	6654	2014	0,00
+Paraíba	250910	Mari	19	6654	2015	1,26
+Paraíba	250910	Mari	10	6654	2016	0,67
+Paraíba	250910	Mari	0	6654	2017	0,00
+Paraíba	250910	Mari	7	6654	2018	0,47
+Paraíba	250910	Mari	35	6654	2019	2,33
+Paraíba	250915	Marizópolis	1	6654	2014	0,07
+Paraíba	250915	Marizópolis	8	6654	2015	0,53
+Paraíba	250915	Marizópolis	18	6654	2016	1,20
+Paraíba	250915	Marizópolis	0	6654	2017	0,00
+Paraíba	250915	Marizópolis	29	6654	2018	1,93
+Paraíba	250915	Marizópolis	0	6654	2019	0,00
+Paraíba	250920	Massaranduba	0	13998	2014	0,00
+Paraíba	250920	Massaranduba	2	13998	2015	0,28
+Paraíba	250920	Massaranduba	28	13998	2016	3,92
+Paraíba	250920	Massaranduba	0	13998	2017	0,00
+Paraíba	250920	Massaranduba	0	13998	2018	0,00
+Paraíba	250920	Massaranduba	4	13998	2019	0,56
+Paraíba	250930	Mataraca	0	8539	2014	0,00
+Paraíba	250930	Mataraca	5	8539	2015	0,43
+Paraíba	250930	Mataraca	3	8539	2016	0,26
+Paraíba	250930	Mataraca	0	8539	2017	0,00
+Paraíba	250930	Mataraca	1	8539	2018	0,09
+Paraíba	250930	Mataraca	2	8539	2019	0,17
+Paraíba	250933	Matinhas	0	4515	2014	0,00
+Paraíba	250933	Matinhas	47	4515	2015	2,12
+Paraíba	250933	Matinhas	0	4515	2016	0,00
+Paraíba	250933	Matinhas	0	4515	2017	0,00
+Paraíba	250933	Matinhas	5	4515	2018	0,23
+Paraíba	250933	Matinhas	0	4515	2019	0,00
+Paraíba	250937	Mato Grosso	3	2926	2014	0,09
+Paraíba	250937	Mato Grosso	0	2926	2015	0,00
+Paraíba	250937	Mato Grosso	1	2926	2016	0,03
+Paraíba	250937	Mato Grosso	0	2926	2017	0,00
+Paraíba	250937	Mato Grosso	0	2926	2018	0,00
+Paraíba	250937	Mato Grosso	0	2926	2019	0,00
+Paraíba	250939	Maturéia	10	6630	2014	0,66
+Paraíba	250939	Maturéia	23	6630	2015	1,52
+Paraíba	250939	Maturéia	51	6630	2016	3,38
+Paraíba	250939	Maturéia	2	6630	2017	0,13
+Paraíba	250939	Maturéia	1	6630	2018	0,07
+Paraíba	250939	Maturéia	91	6630	2019	6,03
+Paraíba	250940	Mogeiro	4	13261	2014	0,53
+Paraíba	250940	Mogeiro	56	13261	2015	7,43
+Paraíba	250940	Mogeiro	872	13261	2016	115,64
+Paraíba	250940	Mogeiro	0	13261	2017	0,00
+Paraíba	250940	Mogeiro	0	13261	2018	0,00
+Paraíba	250940	Mogeiro	3	13261	2019	0,40
+Paraíba	250950	Montadas	0	5738	2014	0,00
+Paraíba	250950	Montadas	0	5738	2015	0,00
+Paraíba	250950	Montadas	5	5738	2016	0,29
+Paraíba	250950	Montadas	0	5738	2017	0,00
+Paraíba	250950	Montadas	4	5738	2018	0,23
+Paraíba	250950	Montadas	9	5738	2019	0,52
+Paraíba	250960	Monte Horebe	0	4842	2014	0,00
+Paraíba	250960	Monte Horebe	3	4842	2015	0,15
+Paraíba	250960	Monte Horebe	857	4842	2016	41,50
+Paraíba	250960	Monte Horebe	0	4842	2017	0,00
+Paraíba	250960	Monte Horebe	0	4842	2018	0,00
+Paraíba	250960	Monte Horebe	50	4842	2019	2,42
+Paraíba	250970	Monteiro	334	33433	2014	111,67
+Paraíba	250970	Monteiro	3470	33433	2015	1160,13
+Paraíba	250970	Monteiro	1340	33433	2016	448,00
+Paraíba	250970	Monteiro	6	33433	2017	2,01
+Paraíba	250970	Monteiro	22	33433	2018	7,36
+Paraíba	250970	Monteiro	146	33433	2019	48,81
+Paraíba	250980	Mulungu	3	9932	2014	0,30
+Paraíba	250980	Mulungu	19	9932	2015	1,89
+Paraíba	250980	Mulungu	0	9932	2016	0,00
+Paraíba	250980	Mulungu	0	9932	2017	0,00
+Paraíba	250980	Mulungu	0	9932	2018	0,00
+Paraíba	250980	Mulungu	2	9932	2019	0,20
+Paraíba	250870	Mãe d'Água	23	3999	2014	0,92
+Paraíba	250870	Mãe d'Água	24	3999	2015	0,96
+Paraíba	250870	Mãe d'Água	87	3999	2016	3,48
+Paraíba	250870	Mãe d'Água	1	3999	2017	0,04
+Paraíba	250870	Mãe d'Água	0	3999	2018	0,00
+Paraíba	250870	Mãe d'Água	0	3999	2019	0,00
+Paraíba	250990	Natuba	1	10451	2014	0,10
+Paraíba	250990	Natuba	1	10451	2015	0,10
+Paraíba	250990	Natuba	17	10451	2016	1,78
+Paraíba	250990	Natuba	0	10451	2017	0,00
+Paraíba	250990	Natuba	179	10451	2018	18,71
+Paraíba	250990	Natuba	1	10451	2019	0,10
+Paraíba	251000	Nazarezinho	14	7286	2014	1,02
+Paraíba	251000	Nazarezinho	21	7286	2015	1,53
+Paraíba	251000	Nazarezinho	4	7286	2016	0,29
+Paraíba	251000	Nazarezinho	1	7286	2017	0,07
+Paraíba	251000	Nazarezinho	39	7286	2018	2,84
+Paraíba	251000	Nazarezinho	4	7286	2019	0,29
+Paraíba	251010	Nova Floresta	13	10626	2014	1,38
+Paraíba	251010	Nova Floresta	3	10626	2015	0,32
+Paraíba	251010	Nova Floresta	11	10626	2016	1,17
+Paraíba	251010	Nova Floresta	5	10626	2017	0,53
+Paraíba	251010	Nova Floresta	19	10626	2018	2,02
+Paraíba	251010	Nova Floresta	14	10626	2019	1,49
+Paraíba	251020	Nova Olinda	0	5920	2014	0,00
+Paraíba	251020	Nova Olinda	8	5920	2015	0,47
+Paraíba	251020	Nova Olinda	0	5920	2016	0,00
+Paraíba	251020	Nova Olinda	0	5920	2017	0,00
+Paraíba	251020	Nova Olinda	0	5920	2018	0,00
+Paraíba	251020	Nova Olinda	27	5920	2019	1,60
+Paraíba	251030	Nova Palmeira	35	4959	2014	1,74
+Paraíba	251030	Nova Palmeira	18	4959	2015	0,89
+Paraíba	251030	Nova Palmeira	33	4959	2016	1,64
+Paraíba	251030	Nova Palmeira	0	4959	2017	0,00
+Paraíba	251030	Nova Palmeira	3	4959	2018	0,15
+Paraíba	251030	Nova Palmeira	1	4959	2019	0,05
+Paraíba	251040	Olho d'Água	0	6462	2014	0,00
+Paraíba	251040	Olho d'Água	0	6462	2015	0,00
+Paraíba	251040	Olho d'Água	0	6462	2016	0,00
+Paraíba	251040	Olho d'Água	0	6462	2017	0,00
+Paraíba	251040	Olho d'Água	5	6462	2018	0,32
+Paraíba	251040	Olho d'Água	32	6462	2019	2,07
+Paraíba	251050	Olivedos	3	3961	2014	0,12
+Paraíba	251050	Olivedos	15	3961	2015	0,59
+Paraíba	251050	Olivedos	6	3961	2016	0,24
+Paraíba	251050	Olivedos	2	3961	2017	0,08
+Paraíba	251050	Olivedos	12	3961	2018	0,48
+Paraíba	251050	Olivedos	6	3961	2019	0,24
+Paraíba	251060	Ouro Velho	2	3046	2014	0,06
+Paraíba	251060	Ouro Velho	17	3046	2015	0,52
+Paraíba	251060	Ouro Velho	0	3046	2016	0,00
+Paraíba	251060	Ouro Velho	0	3046	2017	0,00
+Paraíba	251060	Ouro Velho	0	3046	2018	0,00
+Paraíba	251060	Ouro Velho	0	3046	2019	0,00
+Paraíba	251065	Parari	2	1758	2014	0,04
+Paraíba	251065	Parari	9	1758	2015	0,16
+Paraíba	251065	Parari	19	1758	2016	0,33
+Paraíba	251065	Parari	0	1758	2017	0,00
+Paraíba	251065	Parari	12	1758	2018	0,21
+Paraíba	251065	Parari	3	1758	2019	0,05
+Paraíba	251070	Passagem	12	2436	2014	0,29
+Paraíba	251070	Passagem	1	2436	2015	0,02
+Paraíba	251070	Passagem	13	2436	2016	0,32
+Paraíba	251070	Passagem	6	2436	2017	0,15
+Paraíba	251070	Passagem	1	2436	2018	0,02
+Paraíba	251070	Passagem	5	2436	2019	0,12
+Paraíba	251080	Patos	60	108192	2014	64,92
+Paraíba	251080	Patos	272	108192	2015	294,28
+Paraíba	251080	Patos	602	108192	2016	651,32
+Paraíba	251080	Patos	4	108192	2017	4,33
+Paraíba	251080	Patos	39	108192	2018	42,19
+Paraíba	251080	Patos	88	108192	2019	95,21
+Paraíba	251090	Paulista	3	12379	2014	0,37
+Paraíba	251090	Paulista	0	12379	2015	0,00
+Paraíba	251090	Paulista	171	12379	2016	21,17
+Paraíba	251090	Paulista	0	12379	2017	0,00
+Paraíba	251090	Paulista	0	12379	2018	0,00
+Paraíba	251090	Paulista	0	12379	2019	0,00
+Paraíba	251100	Pedra Branca	0	3802	2014	0,00
+Paraíba	251100	Pedra Branca	0	3802	2015	0,00
+Paraíba	251100	Pedra Branca	0	3802	2016	0,00
+Paraíba	251100	Pedra Branca	1	3802	2017	0,04
+Paraíba	251100	Pedra Branca	0	3802	2018	0,00
+Paraíba	251100	Pedra Branca	0	3802	2019	0,00
+Paraíba	251110	Pedra Lavrada	2	7899	2014	0,16
+Paraíba	251110	Pedra Lavrada	117	7899	2015	9,24
+Paraíba	251110	Pedra Lavrada	60	7899	2016	4,74
+Paraíba	251110	Pedra Lavrada	7	7899	2017	0,55
+Paraíba	251110	Pedra Lavrada	102	7899	2018	8,06
+Paraíba	251110	Pedra Lavrada	63	7899	2019	4,98
+Paraíba	251120	Pedras de Fogo	12	28533	2014	3,42
+Paraíba	251120	Pedras de Fogo	18	28533	2015	5,14
+Paraíba	251120	Pedras de Fogo	25	28533	2016	7,13
+Paraíba	251120	Pedras de Fogo	0	28533	2017	0,00
+Paraíba	251120	Pedras de Fogo	0	28533	2018	0,00
+Paraíba	251120	Pedras de Fogo	0	28533	2019	0,00
+Paraíba	251272	Pedro Régis	0	6114	2014	0,00
+Paraíba	251272	Pedro Régis	61	6114	2015	3,73
+Paraíba	251272	Pedro Régis	1	6114	2016	0,06
+Paraíba	251272	Pedro Régis	1	6114	2017	0,06
+Paraíba	251272	Pedro Régis	2	6114	2018	0,12
+Paraíba	251272	Pedro Régis	30	6114	2019	1,83
+Paraíba	251130	Piancó	27	16111	2014	4,35
+Paraíba	251130	Piancó	252	16111	2015	40,60
+Paraíba	251130	Piancó	763	16111	2016	122,93
+Paraíba	251130	Piancó	12	16111	2017	1,93
+Paraíba	251130	Piancó	17	16111	2018	2,74
+Paraíba	251130	Piancó	160	16111	2019	25,78
+Paraíba	251140	Picuí	42	18720	2014	7,86
+Paraíba	251140	Picuí	155	18720	2015	29,02
+Paraíba	251140	Picuí	473	18720	2016	88,55
+Paraíba	251140	Picuí	6	18720	2017	1,12
+Paraíba	251140	Picuí	193	18720	2018	36,13
+Paraíba	251140	Picuí	110	18720	2019	20,59
+Paraíba	251150	Pilar	2	11977	2014	0,24
+Paraíba	251150	Pilar	12	11977	2015	1,44
+Paraíba	251150	Pilar	146	11977	2016	17,49
+Paraíba	251150	Pilar	0	11977	2017	0,00
+Paraíba	251150	Pilar	3	11977	2018	0,36
+Paraíba	251150	Pilar	3	11977	2019	0,36
+Paraíba	251160	Pilões	2	6576	2014	0,13
+Paraíba	251160	Pilões	1	6576	2015	0,07
+Paraíba	251160	Pilões	18	6576	2016	1,18
+Paraíba	251160	Pilões	0	6576	2017	0,00
+Paraíba	251160	Pilões	0	6576	2018	0,00
+Paraíba	251160	Pilões	7	6576	2019	0,46
+Paraíba	251170	Pilõezinhos	1	4955	2014	0,05
+Paraíba	251170	Pilõezinhos	5	4955	2015	0,25
+Paraíba	251170	Pilõezinhos	19	4955	2016	0,94
+Paraíba	251170	Pilõezinhos	0	4955	2017	0,00
+Paraíba	251170	Pilõezinhos	0	4955	2018	0,00
+Paraíba	251170	Pilõezinhos	8	4955	2019	0,40
+Paraíba	251180	Pirpirituba	1	10584	2014	0,11
+Paraíba	251180	Pirpirituba	21	10584	2015	2,22
+Paraíba	251180	Pirpirituba	38	10584	2016	4,02
+Paraíba	251180	Pirpirituba	1	10584	2017	0,11
+Paraíba	251180	Pirpirituba	0	10584	2018	0,00
+Paraíba	251180	Pirpirituba	0	10584	2019	0,00
+Paraíba	251190	Pitimbu	1	19275	2014	0,19
+Paraíba	251190	Pitimbu	52	19275	2015	10,02
+Paraíba	251190	Pitimbu	1	19275	2016	0,19
+Paraíba	251190	Pitimbu	0	19275	2017	0,00
+Paraíba	251190	Pitimbu	0	19275	2018	0,00
+Paraíba	251190	Pitimbu	15	19275	2019	2,89
+Paraíba	251200	Pocinhos	114	18708	2014	21,33
+Paraíba	251200	Pocinhos	57	18708	2015	10,66
+Paraíba	251200	Pocinhos	136	18708	2016	25,44
+Paraíba	251200	Pocinhos	9	18708	2017	1,68
+Paraíba	251200	Pocinhos	26	18708	2018	4,86
+Paraíba	251200	Pocinhos	16	18708	2019	2,99
+Paraíba	251210	Pombal	19	32802	2014	6,23
+Paraíba	251210	Pombal	53	32802	2015	17,39
+Paraíba	251210	Pombal	54	32802	2016	17,71
+Paraíba	251210	Pombal	4	32802	2017	1,31
+Paraíba	251210	Pombal	33	32802	2018	10,82
+Paraíba	251210	Pombal	3	32802	2019	0,98
+Paraíba	251203	Poço Dantas	7	3882	2014	0,27
+Paraíba	251203	Poço Dantas	0	3882	2015	0,00
+Paraíba	251203	Poço Dantas	2	3882	2016	0,08
+Paraíba	251203	Poço Dantas	0	3882	2017	0,00
+Paraíba	251203	Poço Dantas	0	3882	2018	0,00
+Paraíba	251203	Poço Dantas	0	3882	2019	0,00
+Paraíba	251207	Poço de José de Moura	4	4337	2014	0,17
+Paraíba	251207	Poço de José de Moura	0	4337	2015	0,00
+Paraíba	251207	Poço de José de Moura	14	4337	2016	0,61
+Paraíba	251207	Poço de José de Moura	1	4337	2017	0,04
+Paraíba	251207	Poço de José de Moura	2	4337	2018	0,09
+Paraíba	251207	Poço de José de Moura	1	4337	2019	0,04
+Paraíba	251220	Prata	6	4238	2014	0,25
+Paraíba	251220	Prata	143	4238	2015	6,06
+Paraíba	251220	Prata	78	4238	2016	3,31
+Paraíba	251220	Prata	0	4238	2017	0,00
+Paraíba	251220	Prata	0	4238	2018	0,00
+Paraíba	251220	Prata	22	4238	2019	0,93
+Paraíba	251230	Princesa Isabel	34	23549	2014	8,01
+Paraíba	251230	Princesa Isabel	341	23549	2015	80,30
+Paraíba	251230	Princesa Isabel	1626	23549	2016	382,91
+Paraíba	251230	Princesa Isabel	5	23549	2017	1,18
+Paraíba	251230	Princesa Isabel	138	23549	2018	32,50
+Paraíba	251230	Princesa Isabel	494	23549	2019	116,33
+Paraíba	251240	Puxinanã	6	13741	2014	0,82
+Paraíba	251240	Puxinanã	42	13741	2015	5,77
+Paraíba	251240	Puxinanã	16	13741	2016	2,20
+Paraíba	251240	Puxinanã	0	13741	2017	0,00
+Paraíba	251240	Puxinanã	1	13741	2018	0,14
+Paraíba	251240	Puxinanã	12	13741	2019	1,65
+Paraíba	251250	Queimadas	5	44179	2014	2,21
+Paraíba	251250	Queimadas	97	44179	2015	42,85
+Paraíba	251250	Queimadas	109	44179	2016	48,16
+Paraíba	251250	Queimadas	78	44179	2017	34,46
+Paraíba	251250	Queimadas	208	44179	2018	91,89
+Paraíba	251250	Queimadas	9	44179	2019	3,98
+Paraíba	251260	Quixabá	0		2014	0,00
+Paraíba	251260	Quixabá	0		2015	0,00
+Paraíba	251260	Quixabá	2		2016	0,00
+Paraíba	251260	Quixabá	0		2017	0,00
+Paraíba	251260	Quixabá	0		2018	0,00
+Paraíba	251260	Quixabá	8		2019	0,00
+Paraíba	251270	Remígio	5	19798	2014	0,99
+Paraíba	251270	Remígio	109	19798	2015	21,58
+Paraíba	251270	Remígio	167	19798	2016	33,06
+Paraíba	251270	Remígio	0	19798	2017	0,00
+Paraíba	251270	Remígio	14	19798	2018	2,77
+Paraíba	251270	Remígio	1	19798	2019	0,20
+Paraíba	251278	Riacho de Santo Antônio	1	1974	2014	0,02
+Paraíba	251278	Riacho de Santo Antônio	18	1974	2015	0,36
+Paraíba	251278	Riacho de Santo Antônio	7	1974	2016	0,14
+Paraíba	251278	Riacho de Santo Antônio	4	1974	2017	0,08
+Paraíba	251278	Riacho de Santo Antônio	0	1974	2018	0,00
+Paraíba	251278	Riacho de Santo Antônio	6	1974	2019	0,12
+Paraíba	251280	Riacho dos Cavalos	0	8541	2014	0,00
+Paraíba	251280	Riacho dos Cavalos	43	8541	2015	3,67
+Paraíba	251280	Riacho dos Cavalos	666	8541	2016	56,88
+Paraíba	251280	Riacho dos Cavalos	0	8541	2017	0,00
+Paraíba	251280	Riacho dos Cavalos	2	8541	2018	0,17
+Paraíba	251280	Riacho dos Cavalos	7	8541	2019	0,60
+Paraíba	251274	Riachão	6	4540	2014	0,27
+Paraíba	251274	Riachão	16	4540	2015	0,73
+Paraíba	251274	Riachão	78	4540	2016	3,54
+Paraíba	251274	Riachão	0	4540	2017	0,00
+Paraíba	251274	Riachão	0	4540	2018	0,00
+Paraíba	251274	Riachão	4	4540	2019	0,18
+Paraíba	251275	Riachão do Bacamarte	0	4541	2014	0,00
+Paraíba	251275	Riachão do Bacamarte	1	4541	2015	0,05
+Paraíba	251275	Riachão do Bacamarte	1	4541	2016	0,05
+Paraíba	251275	Riachão do Bacamarte	0	4541	2017	0,00
+Paraíba	251275	Riachão do Bacamarte	0	4541	2018	0,00
+Paraíba	251275	Riachão do Bacamarte	0	4541	2019	0,00
+Paraíba	251276	Riachão do Poço	0	4540	2014	0,00
+Paraíba	251276	Riachão do Poço	0	4540	2015	0,00
+Paraíba	251276	Riachão do Poço	1	4540	2016	0,05
+Paraíba	251276	Riachão do Poço	0	4540	2017	0,00
+Paraíba	251276	Riachão do Poço	2	4540	2018	0,09
+Paraíba	251276	Riachão do Poço	20	4540	2019	0,91
+Paraíba	251290	Rio Tinto	2	24218	2014	0,48
+Paraíba	251290	Rio Tinto	9	24218	2015	2,18
+Paraíba	251290	Rio Tinto	33	24218	2016	7,99
+Paraíba	251290	Rio Tinto	1	24218	2017	0,24
+Paraíba	251290	Rio Tinto	0	24218	2018	0,00
+Paraíba	251290	Rio Tinto	30	24218	2019	7,27
+Paraíba	251300	Salgadinho	0	3931	2014	0,00
+Paraíba	251300	Salgadinho	0	3931	2015	0,00
+Paraíba	251300	Salgadinho	5	3931	2016	0,20
+Paraíba	251300	Salgadinho	0	3931	2017	0,00
+Paraíba	251300	Salgadinho	0	3931	2018	0,00
+Paraíba	251300	Salgadinho	3	3931	2019	0,12
+Paraíba	251310	Salgado de São Félix	1	12131	2014	0,12
+Paraíba	251310	Salgado de São Félix	19	12131	2015	2,30
+Paraíba	251310	Salgado de São Félix	21	12131	2016	2,55
+Paraíba	251310	Salgado de São Félix	0	12131	2017	0,00
+Paraíba	251310	Salgado de São Félix	1	12131	2018	0,12
+Paraíba	251310	Salgado de São Félix	3	12131	2019	0,36
+Paraíba	251315	Santa Cecília	6	6541	2014	0,39
+Paraíba	251315	Santa Cecília	27	6541	2015	1,77
+Paraíba	251315	Santa Cecília	235	6541	2016	15,37
+Paraíba	251315	Santa Cecília	36	6541	2017	2,35
+Paraíba	251315	Santa Cecília	26	6541	2018	1,70
+Paraíba	251315	Santa Cecília	0	6541	2019	0,00
+Paraíba	251320	Santa Cruz	1	6581	2014	0,07
+Paraíba	251320	Santa Cruz	0	6581	2015	0,00
+Paraíba	251320	Santa Cruz	34	6581	2016	2,24
+Paraíba	251320	Santa Cruz	0	6581	2017	0,00
+Paraíba	251320	Santa Cruz	30	6581	2018	1,97
+Paraíba	251320	Santa Cruz	18	6581	2019	1,18
+Paraíba	251330	Santa Helena	23	5871	2014	1,35
+Paraíba	251330	Santa Helena	52	5871	2015	3,05
+Paraíba	251330	Santa Helena	18	5871	2016	1,06
+Paraíba	251330	Santa Helena	0	5871	2017	0,00
+Paraíba	251330	Santa Helena	2	5871	2018	0,12
+Paraíba	251330	Santa Helena	1	5871	2019	0,06
+Paraíba	251335	Santa Inês	0	3593	2014	0,00
+Paraíba	251335	Santa Inês	0	3593	2015	0,00
+Paraíba	251335	Santa Inês	13	3593	2016	0,47
+Paraíba	251335	Santa Inês	0	3593	2017	0,00
+Paraíba	251335	Santa Inês	21	3593	2018	0,75
+Paraíba	251335	Santa Inês	0	3593	2019	0,00
+Paraíba	251340	Santa Luzia	13	15426	2014	2,01
+Paraíba	251340	Santa Luzia	39	15426	2015	6,02
+Paraíba	251340	Santa Luzia	265	15426	2016	40,88
+Paraíba	251340	Santa Luzia	30	15426	2017	4,63
+Paraíba	251340	Santa Luzia	82	15426	2018	12,65
+Paraíba	251340	Santa Luzia	47	15426	2019	7,25
+Paraíba	251370	Santa Rita	50	137349	2014	68,67
+Paraíba	251370	Santa Rita	1876	137349	2015	2576,67
+Paraíba	251370	Santa Rita	874	137349	2016	1200,43
+Paraíba	251370	Santa Rita	135	137349	2017	185,42
+Paraíba	251370	Santa Rita	175	137349	2018	240,36
+Paraíba	251370	Santa Rita	560	137349	2019	769,15
+Paraíba	251380	Santa Teresinha	2	4562	2014	0,09
+Paraíba	251380	Santa Teresinha	0	4562	2015	0,00
+Paraíba	251380	Santa Teresinha	26	4562	2016	1,19
+Paraíba	251380	Santa Teresinha	13	4562	2017	0,59
+Paraíba	251380	Santa Teresinha	6	4562	2018	0,27
+Paraíba	251380	Santa Teresinha	3	4562	2019	0,14
+Paraíba	251350	Santana de Mangueira	0	5129	2014	0,00
+Paraíba	251350	Santana de Mangueira	0	5129	2015	0,00
+Paraíba	251350	Santana de Mangueira	0	5129	2016	0,00
+Paraíba	251350	Santana de Mangueira	0	5129	2017	0,00
+Paraíba	251350	Santana de Mangueira	0	5129	2018	0,00
+Paraíba	251350	Santana de Mangueira	0	5129	2019	0,00
+Paraíba	251360	Santana dos Garrotes	1	6986	2014	0,07
+Paraíba	251360	Santana dos Garrotes	9	6986	2015	0,63
+Paraíba	251360	Santana dos Garrotes	15	6986	2016	1,05
+Paraíba	251360	Santana dos Garrotes	0	6986	2017	0,00
+Paraíba	251360	Santana dos Garrotes	0	6986	2018	0,00
+Paraíba	251360	Santana dos Garrotes	9	6986	2019	0,63
+Paraíba	251385	Santo André	2	2509	2014	0,05
+Paraíba	251385	Santo André	19	2509	2015	0,48
+Paraíba	251385	Santo André	1	2509	2016	0,03
+Paraíba	251385	Santo André	0	2509	2017	0,00
+Paraíba	251385	Santo André	0	2509	2018	0,00
+Paraíba	251385	Santo André	0	2509	2019	0,00
+Paraíba	251530	Sapé	0	52804	2014	0,00
+Paraíba	251530	Sapé	0	52804	2015	0,00
+Paraíba	251530	Sapé	11	52804	2016	5,81
+Paraíba	251530	Sapé	0	52804	2017	0,00
+Paraíba	251530	Sapé	3	52804	2018	1,58
+Paraíba	251530	Sapé	6	52804	2019	3,17
+Paraíba	251550	Serra Branca	5	13754	2014	0,69
+Paraíba	251550	Serra Branca	77	13754	2015	10,59
+Paraíba	251550	Serra Branca	641	13754	2016	88,16
+Paraíba	251550	Serra Branca	0	13754	2017	0,00
+Paraíba	251550	Serra Branca	21	13754	2018	2,89
+Paraíba	251550	Serra Branca	47	13754	2019	6,46
+Paraíba	251570	Serra Grande	0	2916	2014	0,00
+Paraíba	251570	Serra Grande	65	2916	2015	1,90
+Paraíba	251570	Serra Grande	119	2916	2016	3,47
+Paraíba	251570	Serra Grande	1	2916	2017	0,03
+Paraíba	251570	Serra Grande	5	2916	2018	0,15
+Paraíba	251570	Serra Grande	0	2916	2019	0,00
+Paraíba	251580	Serra Redonda	0	7021	2014	0,00
+Paraíba	251580	Serra Redonda	1	7021	2015	0,07
+Paraíba	251580	Serra Redonda	36	7021	2016	2,53
+Paraíba	251580	Serra Redonda	0	7021	2017	0,00
+Paraíba	251580	Serra Redonda	0	7021	2018	0,00
+Paraíba	251580	Serra Redonda	0	7021	2019	0,00
+Paraíba	251560	Serra da Raiz	0	3131	2014	0,00
+Paraíba	251560	Serra da Raiz	8	3131	2015	0,25
+Paraíba	251560	Serra da Raiz	9	3131	2016	0,28
+Paraíba	251560	Serra da Raiz	1	3131	2017	0,03
+Paraíba	251560	Serra da Raiz	1	3131	2018	0,03
+Paraíba	251560	Serra da Raiz	0	3131	2019	0,00
+Paraíba	251590	Serraria	0	6068	2014	0,00
+Paraíba	251590	Serraria	1	6068	2015	0,06
+Paraíba	251590	Serraria	0	6068	2016	0,00
+Paraíba	251590	Serraria	0	6068	2017	0,00
+Paraíba	251590	Serraria	0	6068	2018	0,00
+Paraíba	251590	Serraria	0	6068	2019	0,00
+Paraíba	251593	Sertãozinho	12	5089	2014	0,61
+Paraíba	251593	Sertãozinho	100	5089	2015	5,09
+Paraíba	251593	Sertãozinho	8	5089	2016	0,41
+Paraíba	251593	Sertãozinho	0	5089	2017	0,00
+Paraíba	251593	Sertãozinho	0	5089	2018	0,00
+Paraíba	251593	Sertãozinho	31	5089	2019	1,58
+Paraíba	251597	Sobrado	3	7815	2014	0,23
+Paraíba	251597	Sobrado	5	7815	2015	0,39
+Paraíba	251597	Sobrado	1	7815	2016	0,08
+Paraíba	251597	Sobrado	0	7815	2017	0,00
+Paraíba	251597	Sobrado	0	7815	2018	0,00
+Paraíba	251597	Sobrado	0	7815	2019	0,00
+Paraíba	251610	Soledade	7	15102	2014	1,06
+Paraíba	251610	Soledade	6	15102	2015	0,91
+Paraíba	251610	Soledade	1	15102	2016	0,15
+Paraíba	251610	Soledade	0	15102	2017	0,00
+Paraíba	251610	Soledade	18	15102	2018	2,72
+Paraíba	251610	Soledade	0	15102	2019	0,00
+Paraíba	251600	Solânea	0	26227	2014	0,00
+Paraíba	251600	Solânea	4	26227	2015	1,05
+Paraíba	251600	Solânea	14	26227	2016	3,67
+Paraíba	251600	Solânea	0	26227	2017	0,00
+Paraíba	251600	Solânea	0	26227	2018	0,00
+Paraíba	251600	Solânea	132	26227	2019	34,62
+Paraíba	251615	Sossêgo	1	3594	2014	0,04
+Paraíba	251615	Sossêgo	0	3594	2015	0,00
+Paraíba	251615	Sossêgo	0	3594	2016	0,00
+Paraíba	251615	Sossêgo	0	3594	2017	0,00
+Paraíba	251615	Sossêgo	140	3594	2018	5,03
+Paraíba	251615	Sossêgo	2	3594	2019	0,07
+Paraíba	251620	Sousa	192	69723	2014	133,87
+Paraíba	251620	Sousa	468	69723	2015	326,30
+Paraíba	251620	Sousa	2107	69723	2016	1469,06
+Paraíba	251620	Sousa	81	69723	2017	56,48
+Paraíba	251620	Sousa	1236	69723	2018	861,78
+Paraíba	251620	Sousa	184	69723	2019	128,29
+Paraíba	251630	Sumé	2	17031	2014	0,34
+Paraíba	251630	Sumé	6	17031	2015	1,02
+Paraíba	251630	Sumé	11	17031	2016	1,87
+Paraíba	251630	Sumé	1	17031	2017	0,17
+Paraíba	251630	Sumé	11	17031	2018	1,87
+Paraíba	251630	Sumé	38	17031	2019	6,47
+Paraíba	251392	São Bentinho	0	4566	2014	0,00
+Paraíba	251392	São Bentinho	0	4566	2015	0,00
+Paraíba	251392	São Bentinho	31	4566	2016	1,42
+Paraíba	251392	São Bentinho	0	4566	2017	0,00
+Paraíba	251392	São Bentinho	0	4566	2018	0,00
+Paraíba	251392	São Bentinho	4	4566	2019	0,18
+Paraíba	251390	São Bento	19	34344	2014	6,53
+Paraíba	251390	São Bento	115	34344	2015	39,50
+Paraíba	251390	São Bento	380	34344	2016	130,51
+Paraíba	251390	São Bento	1	34344	2017	0,34
+Paraíba	251390	São Bento	18	34344	2018	6,18
+Paraíba	251390	São Bento	5	34344	2019	1,72
+Paraíba	251396	São Domingos	2	2630	2014	0,05
+Paraíba	251396	São Domingos	16	2630	2015	0,42
+Paraíba	251396	São Domingos	2	2630	2016	0,05
+Paraíba	251396	São Domingos	0	2630	2017	0,00
+Paraíba	251396	São Domingos	123	2630	2018	3,23
+Paraíba	251396	São Domingos	0	2630	2019	0,00
+Paraíba	251394	São Domingos do Cariri	0	2630	2014	0,00
+Paraíba	251394	São Domingos do Cariri	0	2630	2015	0,00
+Paraíba	251394	São Domingos do Cariri	0	2630	2016	0,00
+Paraíba	251394	São Domingos do Cariri	0	2630	2017	0,00
+Paraíba	251394	São Domingos do Cariri	3	2630	2018	0,08
+Paraíba	251394	São Domingos do Cariri	4	2630	2019	0,11
+Paraíba	251398	São Francisco	0	3384	2014	0,00
+Paraíba	251398	São Francisco	0	3384	2015	0,00
+Paraíba	251398	São Francisco	0	3384	2016	0,00
+Paraíba	251398	São Francisco	38	3384	2017	1,29
+Paraíba	251398	São Francisco	52	3384	2018	1,76
+Paraíba	251398	São Francisco	1	3384	2019	0,03
+Paraíba	251420	São José da Lagoa Tapada	31	7626	2014	2,36
+Paraíba	251420	São José da Lagoa Tapada	1	7626	2015	0,08
+Paraíba	251420	São José da Lagoa Tapada	0	7626	2016	0,00
+Paraíba	251420	São José da Lagoa Tapada	0	7626	2017	0,00
+Paraíba	251420	São José da Lagoa Tapada	31	7626	2018	2,36
+Paraíba	251420	São José da Lagoa Tapada	3	7626	2019	0,23
+Paraíba	251430	São José de Caiana	0	6376	2014	0,00
+Paraíba	251430	São José de Caiana	0	6376	2015	0,00
+Paraíba	251430	São José de Caiana	0	6376	2016	0,00
+Paraíba	251430	São José de Caiana	0	6376	2017	0,00
+Paraíba	251430	São José de Caiana	0	6376	2018	0,00
+Paraíba	251430	São José de Caiana	0	6376	2019	0,00
+Paraíba	251440	São José de Espinharas	0	4656	2014	0,00
+Paraíba	251440	São José de Espinharas	12	4656	2015	0,56
+Paraíba	251440	São José de Espinharas	25	4656	2016	1,16
+Paraíba	251440	São José de Espinharas	0	4656	2017	0,00
+Paraíba	251440	São José de Espinharas	3	4656	2018	0,14
+Paraíba	251440	São José de Espinharas	4	4656	2019	0,19
+Paraíba	251450	São José de Piranhas	15	20329	2014	3,05
+Paraíba	251450	São José de Piranhas	17	20329	2015	3,46
+Paraíba	251450	São José de Piranhas	48	20329	2016	9,76
+Paraíba	251450	São José de Piranhas	2	20329	2017	0,41
+Paraíba	251450	São José de Piranhas	15	20329	2018	3,05
+Paraíba	251450	São José de Piranhas	155	20329	2019	31,51
+Paraíba	251455	São José de Princesa	1	3950	2014	0,04
+Paraíba	251455	São José de Princesa	16	3950	2015	0,63
+Paraíba	251455	São José de Princesa	49	3950	2016	1,94
+Paraíba	251455	São José de Princesa	0	3950	2017	0,00
+Paraíba	251455	São José de Princesa	1	3950	2018	0,04
+Paraíba	251455	São José de Princesa	6	3950	2019	0,24
+Paraíba	251460	São José do Bonfim	2	3588	2014	0,07
+Paraíba	251460	São José do Bonfim	0	3588	2015	0,00
+Paraíba	251460	São José do Bonfim	18	3588	2016	0,65
+Paraíba	251460	São José do Bonfim	0	3588	2017	0,00
+Paraíba	251460	São José do Bonfim	0	3588	2018	0,00
+Paraíba	251460	São José do Bonfim	0	3588	2019	0,00
+Paraíba	251465	São José do Brejo do Cruz	0	1811	2014	0,00
+Paraíba	251465	São José do Brejo do Cruz	5	1811	2015	0,09
+Paraíba	251465	São José do Brejo do Cruz	14	1811	2016	0,25
+Paraíba	251465	São José do Brejo do Cruz	1	1811	2017	0,02
+Paraíba	251465	São José do Brejo do Cruz	0	1811	2018	0,00
+Paraíba	251465	São José do Brejo do Cruz	1	1811	2019	0,02
+Paraíba	251470	São José do Sabugi	13	4147	2014	0,54
+Paraíba	251470	São José do Sabugi	29	4147	2015	1,20
+Paraíba	251470	São José do Sabugi	141	4147	2016	5,85
+Paraíba	251470	São José do Sabugi	0	4147	2017	0,00
+Paraíba	251470	São José do Sabugi	28	4147	2018	1,16
+Paraíba	251470	São José do Sabugi	17	4147	2019	0,70
+Paraíba	251480	São José dos Cordeiros	0	3618	2014	0,00
+Paraíba	251480	São José dos Cordeiros	0	3618	2015	0,00
+Paraíba	251480	São José dos Cordeiros	0	3618	2016	0,00
+Paraíba	251480	São José dos Cordeiros	0	3618	2017	0,00
+Paraíba	251480	São José dos Cordeiros	0	3618	2018	0,00
+Paraíba	251480	São José dos Cordeiros	8	3618	2019	0,29
+Paraíba	251445	São José dos Ramos	2	5998	2014	0,12
+Paraíba	251445	São José dos Ramos	47	5998	2015	2,82
+Paraíba	251445	São José dos Ramos	14	5998	2016	0,84
+Paraíba	251445	São José dos Ramos	0	5998	2017	0,00
+Paraíba	251445	São José dos Ramos	2	5998	2018	0,12
+Paraíba	251445	São José dos Ramos	1	5998	2019	0,06
+Paraíba	251400	São João do Cariri	0	4184	2014	0,00
+Paraíba	251400	São João do Cariri	8	4184	2015	0,33
+Paraíba	251400	São João do Cariri	114	4184	2016	4,77
+Paraíba	251400	São João do Cariri	0	4184	2017	0,00
+Paraíba	251400	São João do Cariri	6	4184	2018	0,25
+Paraíba	251400	São João do Cariri	15	4184	2019	0,63
+Paraíba	250070	São João do Rio do Peixe	69	18026	2014	12,44
+Paraíba	250070	São João do Rio do Peixe	110	18026	2015	19,83
+Paraíba	250070	São João do Rio do Peixe	28	18026	2016	5,05
+Paraíba	250070	São João do Rio do Peixe	3	18026	2017	0,54
+Paraíba	250070	São João do Rio do Peixe	16	18026	2018	2,88
+Paraíba	250070	São João do Rio do Peixe	21	18026	2019	3,79
+Paraíba	251410	São João do Tigre	0	4415	2014	0,00
+Paraíba	251410	São João do Tigre	1	4415	2015	0,04
+Paraíba	251410	São João do Tigre	21	4415	2016	0,93
+Paraíba	251410	São João do Tigre	0	4415	2017	0,00
+Paraíba	251410	São João do Tigre	5	4415	2018	0,22
+Paraíba	251410	São João do Tigre	8	4415	2019	0,35
+Paraíba	251490	São Mamede	3	7702	2014	0,23
+Paraíba	251490	São Mamede	48	7702	2015	3,70
+Paraíba	251490	São Mamede	109	7702	2016	8,40
+Paraíba	251490	São Mamede	0	7702	2017	0,00
+Paraíba	251490	São Mamede	3	7702	2018	0,23
+Paraíba	251490	São Mamede	1	7702	2019	0,08
+Paraíba	251500	São Miguel de Taipu	0	7410	2014	0,00
+Paraíba	251500	São Miguel de Taipu	0	7410	2015	0,00
+Paraíba	251500	São Miguel de Taipu	16	7410	2016	1,19
+Paraíba	251500	São Miguel de Taipu	1	7410	2017	0,07
+Paraíba	251500	São Miguel de Taipu	0	7410	2018	0,00
+Paraíba	251500	São Miguel de Taipu	9	7410	2019	0,67
+Paraíba	251510	São Sebastião de Lagoa de Roça	5	11728	2014	0,59
+Paraíba	251510	São Sebastião de Lagoa de Roça	14	11728	2015	1,64
+Paraíba	251510	São Sebastião de Lagoa de Roça	15	11728	2016	1,76
+Paraíba	251510	São Sebastião de Lagoa de Roça	1	11728	2017	0,12
+Paraíba	251510	São Sebastião de Lagoa de Roça	9	11728	2018	1,06
+Paraíba	251510	São Sebastião de Lagoa de Roça	19	11728	2019	2,23
+Paraíba	251520	São Sebastião do Umbuzeiro	17	3512	2014	0,60
+Paraíba	251520	São Sebastião do Umbuzeiro	14	3512	2015	0,49
+Paraíba	251520	São Sebastião do Umbuzeiro	97	3512	2016	3,41
+Paraíba	251520	São Sebastião do Umbuzeiro	0	3512	2017	0,00
+Paraíba	251520	São Sebastião do Umbuzeiro	1	3512	2018	0,04
+Paraíba	251520	São Sebastião do Umbuzeiro	31	3512	2019	1,09
+Paraíba	251540	São Vicente do Seridó	10	10848	2014	1,08
+Paraíba	251540	São Vicente do Seridó	10	10848	2015	1,08
+Paraíba	251540	São Vicente do Seridó	9	10848	2016	0,98
+Paraíba	251540	São Vicente do Seridó	0	10848	2017	0,00
+Paraíba	251540	São Vicente do Seridó	32	10848	2018	3,47
+Paraíba	251540	São Vicente do Seridó	0	10848	2019	0,00
+Paraíba	251640	Tacima	0	10969	2014	0,00
+Paraíba	251640	Tacima	2	10969	2015	0,22
+Paraíba	251640	Tacima	2	10969	2016	0,22
+Paraíba	251640	Tacima	0	10969	2017	0,00
+Paraíba	251640	Tacima	1	10969	2018	0,11
+Paraíba	251640	Tacima	4	10969	2019	0,44
+Paraíba	251650	Taperoá	13	15441	2014	2,01
+Paraíba	251650	Taperoá	38	15441	2015	5,87
+Paraíba	251650	Taperoá	0	15441	2016	0,00
+Paraíba	251650	Taperoá	0	15441	2017	0,00
+Paraíba	251650	Taperoá	0	15441	2018	0,00
+Paraíba	251650	Taperoá	63	15441	2019	9,73
+Paraíba	251660	Tavares	0	14759	2014	0,00
+Paraíba	251660	Tavares	75	14759	2015	11,07
+Paraíba	251660	Tavares	4	14759	2016	0,59
+Paraíba	251660	Tavares	0	14759	2017	0,00
+Paraíba	251660	Tavares	0	14759	2018	0,00
+Paraíba	251660	Tavares	16	14759	2019	2,36
+Paraíba	251670	Teixeira	68	15248	2014	10,37
+Paraíba	251670	Teixeira	495	15248	2015	75,48
+Paraíba	251670	Teixeira	202	15248	2016	30,80
+Paraíba	251670	Teixeira	2	15248	2017	0,30
+Paraíba	251670	Teixeira	6	15248	2018	0,91
+Paraíba	251670	Teixeira	534	15248	2019	81,42
+Paraíba	251675	Tenório	15	3081	2014	0,46
+Paraíba	251675	Tenório	2	3081	2015	0,06
+Paraíba	251675	Tenório	2	3081	2016	0,06
+Paraíba	251675	Tenório	0	3081	2017	0,00
+Paraíba	251675	Tenório	0	3081	2018	0,00
+Paraíba	251675	Tenório	1	3081	2019	0,03
+Paraíba	251680	Triunfo	14	9464	2014	1,32
+Paraíba	251680	Triunfo	25	9464	2015	2,37
+Paraíba	251680	Triunfo	27	9464	2016	2,56
+Paraíba	251680	Triunfo	12	9464	2017	1,14
+Paraíba	251680	Triunfo	0	9464	2018	0,00
+Paraíba	251680	Triunfo	0	9464	2019	0,00
+Paraíba	251690	Uiraúna	2	15300	2014	0,31
+Paraíba	251690	Uiraúna	104	15300	2015	15,91
+Paraíba	251690	Uiraúna	247	15300	2016	37,79
+Paraíba	251690	Uiraúna	12	15300	2017	1,84
+Paraíba	251690	Uiraúna	83	15300	2018	12,70
+Paraíba	251690	Uiraúna	53	15300	2019	8,11
+Paraíba	251700	Umbuzeiro	1	9911	2014	0,10
+Paraíba	251700	Umbuzeiro	35	9911	2015	3,47
+Paraíba	251700	Umbuzeiro	60	9911	2016	5,95
+Paraíba	251700	Umbuzeiro	8	9911	2017	0,79
+Paraíba	251700	Umbuzeiro	12	9911	2018	1,19
+Paraíba	251700	Umbuzeiro	5	9911	2019	0,50
+Paraíba	251720	Vieirópolis	6	5372	2014	0,32
+Paraíba	251720	Vieirópolis	5	5372	2015	0,27
+Paraíba	251720	Vieirópolis	2	5372	2016	0,11
+Paraíba	251720	Vieirópolis	4	5372	2017	0,21
+Paraíba	251720	Vieirópolis	30	5372	2018	1,61
+Paraíba	251720	Vieirópolis	8	5372	2019	0,43
+Paraíba	250550	Vista Serrana	4	3824	2014	0,15
+Paraíba	250550	Vista Serrana	6	3824	2015	0,23
+Paraíba	250550	Vista Serrana	2	3824	2016	0,08
+Paraíba	250550	Vista Serrana	2	3824	2017	0,08
+Paraíba	250550	Vista Serrana	0	3824	2018	0,00
+Paraíba	250550	Vista Serrana	0	3824	2019	0,00
+Paraíba	251710	Várzea	58	2841	2014	1,65
+Paraíba	251710	Várzea	9	2841	2015	0,26
+Paraíba	251710	Várzea	14	2841	2016	0,40
+Paraíba	251710	Várzea	0	2841	2017	0,00
+Paraíba	251710	Várzea	0	2841	2018	0,00
+Paraíba	251710	Várzea	4	2841	2019	0,11
+Paraíba	251740	Zabelê	27	2255	2014	0,61
+Paraíba	251740	Zabelê	91	2255	2015	2,05
+Paraíba	251740	Zabelê	11	2255	2016	0,25
+Paraíba	251740	Zabelê	0	2255	2017	0,00
+Paraíba	251740	Zabelê	0	2255	2018	0,00
+Paraíba	251740	Zabelê	7	2255	2019	0,16
+Paraíba	250010	Água Branca	5	10306	2014	0,52
+Paraíba	250010	Água Branca	111	10306	2015	11,44
+Paraíba	250010	Água Branca	6	10306	2016	0,62
+Paraíba	250010	Água Branca	0	10306	2017	0,00
+Paraíba	250010	Água Branca	60	10306	2018	6,18
+Paraíba	250010	Água Branca	31	10306	2019	3,19
