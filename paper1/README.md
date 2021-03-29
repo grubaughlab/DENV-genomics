@@ -19,6 +19,8 @@ data/
 ├── epidemiology 		→ Dengue, Zika, and Chikungunya case data, per country, region and state
 │
 └── mosquito-suitability	→ Weekly estimates of mosquito suitability
+
+code/
 ```
 
 ## Nextstrain
