@@ -74,14 +74,16 @@ def parse_master_csv(master_csv):
                 
                 
                 if l['Country'] == "USA":
-                    location = f'{l["Division_(state)"]}_USA'
+                    location = f'USA:{l["Division_(state)"]}'
                 else:
-                    location = l["Country"].replace("; ", ";").replace(" ","_")
+                    location = l["Country"].replace("; ", "-").replace(", ", "-").replace(" ","_")
 
-                if ";" in location:
+                if ";" in location or "," in location:
                     print(f"Multiple locations detected for {name} in {l['NGS_Serotype']}: please check and edit CSV if necessary")
 
-                new_name = f'{l["NGS_Serotype"]}/Human/{location}/{l["Collection_Date"]}/{name}'
+                new_name = f'{l["NGS_Serotype"]}/{location}/{l["Collection_Date"]}/{name}'
+                if len(new_name) > 50:
+                    print("fasta names are too long for genbank")
                 new_names[name] = new_name
                 
                 lab = unidecode(l["Lab_Source"].replace(" ","_"))
@@ -91,17 +93,24 @@ def parse_master_csv(master_csv):
                 if "_P" in run:
                     new_id = "-".join(name.split("-")[0:2])
                     seqs_to_fasta_name[name] = f'{new_id}P.{l["NGS_Serotype"]}.20.cons.fa'
+                    bam_name = f'{new_id}P.bam'
                 else:
                     seqs_to_fasta_name[name] = f'{name}.{l["NGS_Serotype"]}.20.cons.fa'
+                    bam_name = f'{name}.bam'
 
-                seq_metadata[name]["bam_name"] = f'{name}.bam'
+                
+                seq_metadata[name]["bam_name"] = bam_name
                 seq_metadata[name]["date"] = l['Collection_Date']
-                seq_metadata[name]["location"] = location
+                seq_metadata[name]["location"] = location.replace("_"," ")
                 seq_metadata[name]["serotype"] = l['NGS_Serotype']
                 seq_metadata[name]["genotype"] = l['NGS_Genotype']
                 
                 if l['Location_diagnosed'].replace(" ","_") != location:
-                    diagnosed = f"traveller from {location.replace('_USA',', USA').replace('_', ' ')} diagnosed in {l['Location_diagnosed'].replace('_USA',', USA').replace('_', ' ')}"
+                    if "-" in location or ";" in location:
+                        location_caught = location.replace("-", " or ").replace(";", " or ")
+                    else:
+                        location_caught = location.replace('_USA',', USA').replace('_', ' ')
+                    diagnosed = f"traveller from {location_caught} diagnosed in {l['Location_diagnosed'].replace('_USA',', USA').replace('_', ' ')}"
                 else:
                     diagnosed = ""
                 
@@ -132,7 +141,6 @@ def prep_folders(all_labs, genbank_path, date_submission):
     return full_genbank_paths
 
 def pull_fasta_files(all_labs, run_to_seqs, full_genbank_paths, file_path, seqs_to_lab, seqs_to_fasta_name, new_names):
-    #pull fasta files
     lab_fasta = {}
     for lab in all_labs:
         lab_fasta[lab] = open(os.path.join(full_genbank_paths[lab], "alignment.fasta"), 'w')
@@ -219,6 +227,7 @@ def make_biosample_metadata(seq_metadata, new_names, lab_to_seqs, full_genbank_p
                 write_dict["organism"] = "Dengue virus"
                 write_dict["isolate"] = seq
                 write_dict["collected_by"] = lab
+                write_dict["collection_date"] = seq_metadata[seq]["date"]
                 write_dict["geo_loc_name"] = seq_metadata[seq]["location"]
                 write_dict["host"] = "Homo sapiens"
                 write_dict["host_disease"] = "Dengue"
@@ -239,7 +248,7 @@ def make_genbank_metadata(seq_metadata, new_names, lab_to_seqs, full_genbank_pat
 
     print("making genbank metadata")
 
-    headers = ["Sequence_ID", "isolate", "country", "host", "collection-date", "isolation-source", "serotype",
+    headers = ["Sequence_ID", "isolate", "country", "host", "collection-date", "isolation-source", "serotype", "genotype",
           "strain", "notes"]
 
     for lab, sequences in lab_to_seqs.items():    
@@ -257,6 +266,7 @@ def make_genbank_metadata(seq_metadata, new_names, lab_to_seqs, full_genbank_pat
                 write_dict["collection-date"] = seq_metadata[seq]["date"]
                 write_dict["isolation-source"] = "Serum"
                 write_dict["serotype"] = f'{seq_metadata[seq]["genotype"]} genotype'
+                write_dict["genotype"] = seq_metadata[seq]["serotype"][-1]
                 write_dict["strain"] = seq_metadata[seq]["original_id"]
                 write_dict["notes"] = seq_metadata[seq]["diagnosed"]
                 

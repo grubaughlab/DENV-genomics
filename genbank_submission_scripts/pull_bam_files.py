@@ -57,8 +57,8 @@ def main(sysargs = sys.argv[1:]):
                 else:
                     location = l["Country"].replace("; ", ";").replace(" ","_")
                 
-                new_name = f'{l["NGS_Serotype"]}/Human/{location}/{l["Collection_Date"]}/{l["Yale-ID"]}'
-                new_names[l['Yale-ID']] = new_name
+                # new_name = f'{l["NGS_Serotype"]}/Human/{location}/{l["Collection_Date"]}/{l["Yale-ID"]}'
+                # new_names[l['Yale-ID']] = new_name
                 
                 seqs_to_lab[l['Yale-ID']] = unidecode(l["Lab_Source"].replace(" ","_"))
                 
