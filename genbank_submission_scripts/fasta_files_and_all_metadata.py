@@ -109,8 +109,8 @@ def parse_master_csv(master_csv):
                     if "-" in location or ";" in location:
                         location_caught = location.replace("-", " or ").replace(";", " or ")
                     else:
-                        location_caught = location.replace('_USA',', USA').replace('_', ' ')
-                    diagnosed = f"traveller from {location_caught} diagnosed in {l['Location_diagnosed'].replace('_USA',', USA').replace('_', ' ')}"
+                        location_caught = location.replace('_', ' ')
+                    diagnosed = f"traveller from {location_caught} diagnosed in {l['Location_diagnosed'].replace('_', ' ')}"
                 else:
                     diagnosed = ""
                 
