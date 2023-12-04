@@ -65,6 +65,8 @@ def main(sysargs = sys.argv[1:]):
                 if "_P" in run:
                     new_id = "-".join(l["Yale-ID"].split("-")[0:2])
                     seqs_to_bam_name[l["Yale-ID"]] = f'{new_id}P.{l["NGS_Serotype"]}.sort.bam'
+                if ".1" in l['Yale-ID']:
+                    seqs_to_bam_name[l['Yale-ID']] = f'{l["Yale-ID"].replace(".","_")}.{l["NGS_Serotype"]}.sort.bam'
                 else:
                     seqs_to_bam_name[l["Yale-ID"]] = f'{l["Yale-ID"]}.{l["NGS_Serotype"]}.sort.bam'
 
@@ -91,7 +93,9 @@ def main(sysargs = sys.argv[1:]):
 
     for run, sequences in tqdm.tqdm(run_to_seqs.items()):
         
-        full_file_path = os.path.join(file_path, run, "BAM")
+        for file in os.listdir(os.path.join(file_path, run)):
+            if "seq_analysis" in file:
+                full_file_path = (os.path.join(file_path, run, file, "results/bam_files"))
 
         for seq in sequences:
             old_bam_file = os.path.join(full_file_path, seqs_to_bam_name[seq])
@@ -102,7 +106,7 @@ def main(sysargs = sys.argv[1:]):
             try:
                 shutil.copy(old_bam_file, new_bam_file)
             except FileNotFoundError:
-                print(old_bam_file)
+                print(f"file not found: {old_bam_file}")
                 
     
 if __name__ == '__main__':

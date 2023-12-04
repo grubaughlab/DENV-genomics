@@ -81,7 +81,7 @@ def parse_master_csv(master_csv):
                 if ";" in location or "," in location:
                     print(f"Multiple locations detected for {name} in {l['NGS_Serotype']}: please check and edit CSV if necessary")
 
-                new_name = f'{l["NGS_Serotype"]}/{location}/{l["Collection_Date"]}/{name}'
+                new_name = f'{l["NGS_Serotype"]}/{location}/{l["Collection_Date"]}/{name.replace(".","-")}'
                 if len(new_name) > 50:
                     print("fasta names are too long for genbank")
                 new_names[name] = new_name
@@ -92,10 +92,14 @@ def parse_master_csv(master_csv):
                 
                 if "_P" in run:
                     new_id = "-".join(name.split("-")[0:2])
-                    seqs_to_fasta_name[name] = f'{new_id}P.{l["NGS_Serotype"]}.20.cons.fa'
+                    seqs_to_fasta_name[name] = f'{new_id}P.{l["NGS_Serotype"]}.10.cons.fa'
                     bam_name = f'{new_id}P.bam'
+                elif ".1" in name:
+                    fasta_name = name.replace(".","_")
+                    seqs_to_fasta_name[name] = f'{fasta_name}.{l["NGS_Serotype"]}.10.cons.fa'
+                    bam_name = f'{fasta_name}.bam'               	
                 else:
-                    seqs_to_fasta_name[name] = f'{name}.{l["NGS_Serotype"]}.20.cons.fa'
+                    seqs_to_fasta_name[name] = f'{name}.{l["NGS_Serotype"]}.10.cons.fa'
                     bam_name = f'{name}.bam'
 
                 
@@ -105,7 +109,7 @@ def parse_master_csv(master_csv):
                 seq_metadata[name]["serotype"] = l['NGS_Serotype']
                 seq_metadata[name]["genotype"] = l['NGS_Genotype']
                 
-                if l['Location_diagnosed'].replace(" ","_") != location:
+                if l['Location_diagnosed'].replace(" ","_") != location and l['Location_diagnosed'] != "":
                     if "-" in location or ";" in location:
                         location_caught = location.replace("-", " or ").replace(";", " or ")
                     else:
@@ -148,9 +152,9 @@ def pull_fasta_files(all_labs, run_to_seqs, full_genbank_paths, file_path, seqs_
     print("pulling samples into fasta files")
     for run, sequences in tqdm.tqdm(run_to_seqs.items()):
         if "_P" in run:
-            full_file_path = os.path.join(file_path, "Pan-serotype", run, "CONSENSUS")
+            full_file_path = os.path.join(file_path, "Pan-serotype", run, "consensus_sequences")
         else:
-            full_file_path = os.path.join(file_path, run, "CONSENSUS")
+            full_file_path = os.path.join(file_path, run, "consensus_sequences")
             
         for seq in sequences:
             fasta_file = lab_fasta[seqs_to_lab[seq]]
