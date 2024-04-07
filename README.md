@@ -24,6 +24,10 @@ Also in the folder `genomes`, `.csv` files can be found, including metadata retr
 * Sero_Geno (genotype)
 * Lineage (major and minor lineage)
 
+## Other resouces
+
+This repository will also contain new resources as they are developed. Currently it contains a workflow to help submit data to GenBank - `genomes`. 
+
 ---
 
 **Grubaugh Lab** | Yale School of Public Health (YSPH) | [https://grubaughlab.com/](https://grubaughlab.com/)
