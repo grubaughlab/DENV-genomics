@@ -26,7 +26,7 @@ Also in the folder `genomes`, `.csv` files can be found, including metadata retr
 
 ## Other resouces
 
-This repository will also contain new resources as they are developed. Currently it contains a workflow to help submit data to GenBank - `genomes`. 
+This repository will also contain new resources as they are developed. Currently it contains a workflow to help submit data to GenBank - `genbank_submission_scripts`. 
 
 ---
 
