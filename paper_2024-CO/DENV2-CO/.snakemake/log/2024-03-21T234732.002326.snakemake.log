@@ -1,0 +1,134 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+align            1
+all              1
+ancestral        1
+export           1
+filter           1
+refine           1
+traits           1
+translate        1
+tree             1
+total            9
+
+Select jobs to execute...
+
+[Thu Mar 21 23:47:32 2024]
+Job 5: 
+        Filtering to
+          - 5 sequence(s) per Location year
+        
+Reason: Updated input files: data/metadata.tsv
+
+
+        augur filter             --sequences data/sequences.fasta             --sequence-index results/sequence_index.tsv             --metadata data/metadata.tsv             --output results/filtered.fasta             --group-by Location year             --sequences-per-group 5         
+[Thu Mar 21 23:47:33 2024]
+Finished job 5.
+1 of 9 steps (11%) done
+Select jobs to execute...
+
+[Thu Mar 21 23:47:33 2024]
+Job 4: 
+        Aligning sequences to config/d1_refseq.gb
+          - filling gaps with N
+        
+Reason: Input files updated by another job: results/filtered.fasta
+
+
+        augur align             --sequences results/filtered.fasta             --reference-sequence config/d1_refseq.gb             --output results/aligned.fasta             --fill-gaps
+        
+[Fri Mar 22 00:02:32 2024]
+Finished job 4.
+2 of 9 steps (22%) done
+Select jobs to execute...
+
+[Fri Mar 22 00:02:32 2024]
+Job 3: Building tree
+Reason: Input files updated by another job: results/aligned.fasta
+
+
+        augur tree             --alignment results/aligned.fasta             --output results/tree_raw.nwk
+        
+[Fri Mar 22 00:22:51 2024]
+Finished job 3.
+3 of 9 steps (33%) done
+Select jobs to execute...
+
+[Fri Mar 22 00:22:51 2024]
+Job 2: 
+        Refining tree
+          - estimate timetree
+          - use opt coalescent timescale
+          - estimate marginal node dates
+          - filter tips more than 4 IQDs from clock expectation
+        
+Reason: Input files updated by another job: results/tree_raw.nwk, results/aligned.fasta
+
+
+        augur refine             --tree results/tree_raw.nwk             --alignment results/aligned.fasta             --metadata data/metadata.tsv             --output-tree results/tree.nwk             --output-node-data results/branch_lengths.json             --timetree             --coalescent opt             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Fri Mar 22 00:28:07 2024]
+Finished job 2.
+4 of 9 steps (44%) done
+Select jobs to execute...
+
+[Fri Mar 22 00:28:07 2024]
+Job 7: Inferring ancestral traits for Location Sero_Geno Lineage
+Reason: Input files updated by another job: results/tree.nwk
+
+
+        augur traits             --tree results/tree.nwk             --metadata data/metadata.tsv             --output-node-data results/traits.json             --columns Location Sero_Geno Lineage             --confidence
+        
+
+[Fri Mar 22 00:28:07 2024]
+Job 8: Reconstructing ancestral sequences and mutations
+Reason: Input files updated by another job: results/tree.nwk, results/aligned.fasta
+
+
+        augur ancestral             --tree results/tree.nwk             --alignment results/aligned.fasta             --output-node-data results/nt_muts.json             --inference joint
+        
+[Fri Mar 22 00:28:23 2024]
+Finished job 8.
+5 of 9 steps (56%) done
+Select jobs to execute...
+
+[Fri Mar 22 00:28:23 2024]
+Job 9: Translating amino acid sequences
+Reason: Input files updated by another job: results/tree.nwk, results/nt_muts.json
+
+
+        augur translate             --tree results/tree.nwk             --ancestral-sequences results/nt_muts.json             --reference-sequence config/d1_refseq.gb             --output-node-data results/aa_muts.json         
+[Fri Mar 22 00:28:25 2024]
+Finished job 9.
+6 of 9 steps (67%) done
+[Fri Mar 22 00:28:55 2024]
+Finished job 7.
+7 of 9 steps (78%) done
+Select jobs to execute...
+
+[Fri Mar 22 00:28:55 2024]
+Job 1: Exporting data files for for auspice
+Reason: Input files updated by another job: results/tree.nwk, results/nt_muts.json, results/traits.json, results/branch_lengths.json, results/aa_muts.json
+
+
+        augur export v2             --tree results/tree.nwk             --metadata data/metadata.tsv             --node-data results/branch_lengths.json results/traits.json results/nt_muts.json results/aa_muts.json             --colors config/colors.tsv             --lat-longs config/lat_longs.tsv             --auspice-config config/auspice_config.json             --include-root-sequence             --output auspice/d1.json
+        
+[Fri Mar 22 00:28:55 2024]
+Error in rule export:
+    jobid: 1
+    input: results/tree.nwk, data/metadata.tsv, results/branch_lengths.json, results/traits.json, results/nt_muts.json, results/aa_muts.json, config/colors.tsv, config/lat_longs.tsv, config/auspice_config.json
+    output: auspice/d1.json
+    shell:
+        
+        augur export v2             --tree results/tree.nwk             --metadata data/metadata.tsv             --node-data results/branch_lengths.json results/traits.json results/nt_muts.json results/aa_muts.json             --colors config/colors.tsv             --lat-longs config/lat_longs.tsv             --auspice-config config/auspice_config.json             --include-root-sequence             --output auspice/d1.json
+        
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-21T234732.002326.snakemake.log
