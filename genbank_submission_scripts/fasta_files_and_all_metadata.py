@@ -252,7 +252,7 @@ def make_genbank_metadata(seq_metadata, new_names, lab_to_seqs, full_genbank_pat
 
     print("making genbank metadata")
 
-    headers = ["Sequence_ID", "isolate", "country", "host", "collection-date", "isolation-source", "serotype", "genotype",
+    headers = ["Sequence_ID", "isolate", "geo_loc_name", "host", "collection-date", "isolation-source", "serotype", "genotype",
           "strain", "notes"]
 
     for lab, sequences in lab_to_seqs.items():    
@@ -265,7 +265,7 @@ def make_genbank_metadata(seq_metadata, new_names, lab_to_seqs, full_genbank_pat
                 
                 write_dict["Sequence_ID"] = new_names[seq]
                 write_dict["isolate"] = new_names[seq]
-                write_dict["country"] = seq_metadata[seq]["location"]
+                write_dict["geo_loc_name"] = seq_metadata[seq]["location"]
                 write_dict["host"] = "Homo sapiens"
                 write_dict["collection-date"] = seq_metadata[seq]["date"]
                 write_dict["isolation-source"] = "Serum"
