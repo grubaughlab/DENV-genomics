@@ -1,0 +1,57 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                count
+---------------  -------
+align                  1
+all                    1
+ancestral              1
+export                 1
+filter                 1
+index_sequences        1
+refine                 1
+traits                 1
+translate              1
+tree                   1
+total                 10
+
+Select jobs to execute...
+
+[Fri Mar 22 19:53:57 2024]
+Job 6: 
+        Creating an index of sequence composition for filtering.
+        
+Reason: Missing output files: results/sequence_index.tsv
+
+
+        augur index             --sequences data/sequences.fasta             --output results/sequence_index.tsv
+        
+[Fri Mar 22 19:53:57 2024]
+Finished job 6.
+1 of 10 steps (10%) done
+Select jobs to execute...
+
+[Fri Mar 22 19:53:57 2024]
+Job 5: 
+        Filtering to
+          - 1 sequence(s) per Location year
+        
+Reason: Missing output files: results/filtered.fasta; Input files updated by another job: results/sequence_index.tsv; Params have changed since last execution
+
+
+        augur filter             --sequences data/sequences.fasta             --sequence-index results/sequence_index.tsv             --metadata data/metadata.tsv             --output results/filtered.fasta             --group-by Location year             --sequences-per-group 1         
+[Fri Mar 22 19:53:58 2024]
+Error in rule filter:
+    jobid: 5
+    input: data/sequences.fasta, results/sequence_index.tsv, data/metadata.tsv
+    output: results/filtered.fasta
+    shell:
+        
+        augur filter             --sequences data/sequences.fasta             --sequence-index results/sequence_index.tsv             --metadata data/metadata.tsv             --output results/filtered.fasta             --group-by Location year             --sequences-per-group 1         
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-22T195356.932240.snakemake.log

@@ -1,0 +1,151 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job                count
+---------------  -------
+align                  1
+all                    1
+ancestral              1
+export                 1
+filter                 1
+index_sequences        1
+refine                 1
+traits                 1
+translate              1
+tree                   1
+total                 10
+
+Select jobs to execute...
+
+[Thu Jun 13 15:30:10 2024]
+Job 6: 
+        Creating an index of sequence composition for filtering.
+        
+Reason: Missing output files: results/sequence_index.tsv
+
+
+        augur index             --sequences data/sequences.fasta             --output results/sequence_index.tsv
+        
+[Thu Jun 13 15:30:11 2024]
+Finished job 6.
+1 of 10 steps (10%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:30:11 2024]
+Job 5: 
+        Filtering to
+          - 500 sequence(s) per Location year
+        
+Reason: Missing output files: results/filtered.fasta; Input files updated by another job: results/sequence_index.tsv
+
+
+        augur filter             --sequences data/sequences.fasta             --sequence-index results/sequence_index.tsv             --metadata data/metadata.tsv             --output results/filtered.fasta             --group-by Location year             --sequences-per-group 500         
+[Thu Jun 13 15:30:12 2024]
+Finished job 5.
+2 of 10 steps (20%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:30:12 2024]
+Job 4: 
+        Aligning sequences to config/d3_refseq.gb
+          - filling gaps with N
+        
+Reason: Missing output files: results/aligned.fasta; Input files updated by another job: results/filtered.fasta
+
+
+        augur align             --sequences results/filtered.fasta             --reference-sequence config/d3_refseq.gb             --output results/aligned.fasta             --fill-gaps
+        
+[Thu Jun 13 15:35:21 2024]
+Finished job 4.
+3 of 10 steps (30%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:35:21 2024]
+Job 3: Building tree
+Reason: Missing output files: results/tree_raw.nwk; Input files updated by another job: results/aligned.fasta
+
+
+        augur tree             --alignment results/aligned.fasta             --output results/tree_raw.nwk
+        
+[Thu Jun 13 15:40:00 2024]
+Finished job 3.
+4 of 10 steps (40%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:40:00 2024]
+Job 2: 
+        Refining tree
+          - estimate timetree
+          - use opt coalescent timescale
+          - estimate marginal node dates
+          - filter tips more than 4 IQDs from clock expectation
+        
+Reason: Missing output files: results/tree.nwk, results/branch_lengths.json; Input files updated by another job: results/aligned.fasta, results/tree_raw.nwk
+
+
+        augur refine             --tree results/tree_raw.nwk             --alignment results/aligned.fasta             --metadata data/metadata.tsv             --output-tree results/tree.nwk             --output-node-data results/branch_lengths.json             --timetree             --coalescent opt             --date-confidence             --date-inference marginal             --clock-filter-iqd 4
+        
+[Thu Jun 13 15:42:34 2024]
+Finished job 2.
+5 of 10 steps (50%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:42:34 2024]
+Job 7: Inferring ancestral traits for Location Region Sero_Geno Lineage
+Reason: Missing output files: results/traits.json; Input files updated by another job: results/tree.nwk
+
+
+        augur traits             --tree results/tree.nwk             --metadata data/metadata.tsv             --output-node-data results/traits.json             --columns Location Region Sero_Geno Lineage             --confidence
+        
+
+[Thu Jun 13 15:42:34 2024]
+Job 8: Reconstructing ancestral sequences and mutations
+Reason: Missing output files: results/nt_muts.json; Input files updated by another job: results/tree.nwk, results/aligned.fasta
+
+
+        augur ancestral             --tree results/tree.nwk             --alignment results/aligned.fasta             --output-node-data results/nt_muts.json             --inference joint
+        
+[Thu Jun 13 15:42:40 2024]
+Finished job 8.
+6 of 10 steps (60%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:42:40 2024]
+Job 9: Translating amino acid sequences
+Reason: Missing output files: results/aa_muts.json; Input files updated by another job: results/tree.nwk, results/nt_muts.json
+
+
+        augur translate             --tree results/tree.nwk             --ancestral-sequences results/nt_muts.json             --reference-sequence config/d3_refseq.gb             --output-node-data results/aa_muts.json         
+[Thu Jun 13 15:42:41 2024]
+Finished job 9.
+7 of 10 steps (70%) done
+[Thu Jun 13 15:42:46 2024]
+Finished job 7.
+8 of 10 steps (80%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:42:46 2024]
+Job 1: Exporting data files for for auspice
+Reason: Missing output files: auspice/d3.json; Input files updated by another job: results/nt_muts.json, results/traits.json, results/aa_muts.json, results/tree.nwk, results/branch_lengths.json
+
+
+        augur export v2             --tree results/tree.nwk             --metadata data/metadata.tsv             --node-data results/branch_lengths.json results/traits.json results/nt_muts.json results/aa_muts.json             --colors config/colors.tsv             --lat-longs config/lat_longs.tsv             --auspice-config config/auspice_config.json             --include-root-sequence             --output auspice/d3.json
+        
+[Thu Jun 13 15:42:47 2024]
+Finished job 1.
+9 of 10 steps (90%) done
+Select jobs to execute...
+
+[Thu Jun 13 15:42:47 2024]
+localrule all:
+    input: auspice/d3.json
+    jobid: 0
+    reason: Input files updated by another job: auspice/d3.json
+    resources: tmpdir=/tmp
+
+[Thu Jun 13 15:42:47 2024]
+Finished job 0.
+10 of 10 steps (100%) done
+Complete log: .snakemake/log/2024-06-13T153010.435943.snakemake.log

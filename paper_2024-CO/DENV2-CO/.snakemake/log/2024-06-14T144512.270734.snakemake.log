@@ -1,0 +1,6 @@
+Building DAG of jobs...
+MissingInputException in rule align in file /nextstrain/build/GLab Dropbox/Nathan Grubaugh/nextstrain/DENV/DENV2-CO/Snakefile, line 54:
+Missing input files for rule align:
+    output: results/aligned.fasta
+    affected files:
+        config/d1_refseq.gb

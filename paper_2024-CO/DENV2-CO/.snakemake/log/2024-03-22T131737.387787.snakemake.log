@@ -1,0 +1,6 @@
+Building DAG of jobs...
+MissingInputException in rule export in file /nextstrain/build/GLab Dropbox/Nathan Grubaugh/nextstrain/test/Snakefile, line 176:
+Missing input files for rule export:
+    output: auspice/d1.json
+    affected files:
+        config/lat_longs.tsv

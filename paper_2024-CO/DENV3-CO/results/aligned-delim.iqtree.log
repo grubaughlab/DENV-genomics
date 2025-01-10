@@ -1,0 +1,655 @@
+IQ-TREE multicore version 2.1.2 COVID-edition for Linux 64-bit built Oct 22 2020
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    a95dd4f7bada (AVX2, FMA3, 7 GB RAM)
+Command: iqtree -ntmax 1 -s results/aligned-delim.fasta -m GTR -ninit 2 -n 2 -me 0.05 -nt AUTO -redo
+Seed:    17203 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Thu Jun 13 15:35:22 2024
+Kernel:  AVX+FMA - auto-detect threads (12 CPU cores detected)
+
+Reading alignment file results/aligned-delim.fasta ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 561 sequences with 10707 columns, 5140 distinct patterns
+3493 parsimony-informative, 863 singleton sites, 6351 constant sites
+                                                                                                                              Gap/Ambiguity  Composition  p-value
+   1  NC_001475.2                                                                                                                     0.00%    passed     81.99%
+   2  AY099336.1                                                                                                                      4.99%    passed     99.14%
+   3  DQ675533.1                                                                                                                      4.99%    passed     99.14%
+   4  EU081181.1                                                                                                                      4.99%    passed     98.97%
+   5  EU081207.1                                                                                                                      4.99%    passed     96.41%
+   6  OR389038.1                                                                                                                      5.00%    passed     99.31%
+   7  KU509283.1                                                                                                                      4.99%    passed     99.94%
+   8  FJ882573.1                                                                                                                      4.99%    passed     99.83%
+   9  LT996904.1                                                                                                                      4.99%    passed     99.93%
+  10  LT996905.1                                                                                                                      4.99%    passed     99.93%
+  11  LT996910.1                                                                                                                      4.99%    passed     99.93%
+  12  LT996912.1                                                                                                                      4.99%    passed     99.93%
+  13  LT898451.1                                                                                                                      4.99%    passed     99.99%
+  14  KJ830751.1                                                                                                                      4.99%    passed     99.78%
+  15  MG721059.1                                                                                                                      4.99%    passed     99.95%
+  16  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Cuba_DELIM-EZEWPNFGGQLEONVNBOQX_2016-01-13_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00063            32.04%    passed     72.83%
+  17  MW945428.1                                                                                                                      4.99%    passed     99.23%
+  18  FJ850055.1                                                                                                                      4.99%    passed     99.16%
+  19  FJ182010.1                                                                                                                      4.99%    passed     98.61%
+  20  FJ182040.1                                                                                                                      4.99%    passed     98.66%
+  21  FJ182037.1                                                                                                                      4.99%    passed     98.61%
+  22  EU482563.1                                                                                                                      4.99%    passed     97.90%
+  23  EU596492.1                                                                                                                      4.99%    passed     97.80%
+  24  EU529697.1                                                                                                                      4.99%    passed     97.93%
+  25  EU596493.1                                                                                                                      4.99%    passed     97.49%
+  26  EU596494.1                                                                                                                      4.99%    passed     97.93%
+  27  DH162                                                                                                                           4.99%    passed     93.20%
+  28  OR389037.1                                                                                                                      8.30%    passed     96.58%
+  29  FJ547082.1                                                                                                                      4.99%    passed     98.96%
+  30  FJ478456.1                                                                                                                      4.99%    passed     94.73%
+  31  FJ205870.1                                                                                                                      4.99%    passed     96.42%
+  32  EU687233.1                                                                                                                      4.99%    passed     98.10%
+  33  EU687239.1                                                                                                                      4.99%    passed     93.69%
+  34  FJ024466.1                                                                                                                      4.99%    passed     99.77%
+  35  KF955465.1                                                                                                                      4.99%    passed     98.33%
+  36  FJ547080.1                                                                                                                      4.99%    passed     98.85%
+  37  KF955468.1                                                                                                                      4.99%    passed     98.55%
+  38  FJ547074.1                                                                                                                      4.99%    passed     93.18%
+  39  FJ547069.1                                                                                                                      4.99%    passed     96.94%
+  40  FJ547070.1                                                                                                                      4.99%    passed     96.86%
+  41  EU726771.1                                                                                                                      4.99%    passed     96.75%
+  42  EU482566.1                                                                                                                      4.99%    passed     96.62%
+  43  EU781137.1                                                                                                                      4.99%    passed     95.69%
+  44  FJ390376.1                                                                                                                      4.99%    passed     95.25%
+  45  EU726774.1                                                                                                                      4.99%    passed     98.28%
+  46  EU529699.1                                                                                                                      4.99%    passed     97.00%
+  47  FJ547077.1                                                                                                                      4.99%    passed     95.68%
+  48  FJ410177.1                                                                                                                      4.99%    passed     98.15%
+  49  KT726340.1                                                                                                                      4.99%    passed     97.83%
+  50  FJ898468.1                                                                                                                      4.99%    passed     97.88%
+  51  FJ639746.1                                                                                                                      4.99%    passed     97.76%
+  52  FJ639749.1                                                                                                                      4.99%    passed     98.16%
+  53  FJ639747.1                                                                                                                      4.99%    passed     97.95%
+  54  FJ639750.1                                                                                                                      4.99%    passed     96.09%
+  55  FJ639753.1                                                                                                                      4.99%    passed     94.80%
+  56  FJ882578.1                                                                                                                      4.99%    passed     97.20%
+  57  FJ639768.1                                                                                                                      4.99%    passed     95.35%
+  58  GU131950.1                                                                                                                      4.99%    passed     97.76%
+  59  GQ199891.1                                                                                                                      4.99%    passed     97.76%
+  60  GQ868571.1                                                                                                                      4.99%    passed     98.33%
+  61  EU529686.1                                                                                                                      4.99%    passed     93.13%
+  62  FJ639779.1                                                                                                                      4.99%    passed     95.51%
+  63  FJ898473.1                                                                                                                      4.99%    passed     98.62%
+  64  FJ639775.1                                                                                                                      4.99%    passed     98.65%
+  65  FJ639776.1                                                                                                                      4.99%    passed     99.37%
+  66  FJ639777.1                                                                                                                      4.99%    passed     98.42%
+  67  FJ898443.1                                                                                                                      4.99%    passed     97.05%
+  68  FJ547079.1                                                                                                                      4.99%    passed     97.82%
+  69  FJ547081.1                                                                                                                      4.99%    passed     98.21%
+  70  GQ868573.1                                                                                                                      4.99%    passed     98.31%
+  71  DH163                                                                                                                           5.00%    passed     98.45%
+  72  OR389034.1                                                                                                                      5.04%    passed     98.65%
+  73  GQ868575.1                                                                                                                      4.99%    passed     98.91%
+  74  FJ898472.1                                                                                                                      4.99%    passed     98.24%
+  75  FJ639790.1                                                                                                                      4.99%    passed     99.21%
+  76  FJ639805.1                                                                                                                      4.99%    passed     99.55%
+  77  FJ850079.1                                                                                                                      4.99%    passed     93.57%
+  78  FJ898471.1                                                                                                                      4.99%    passed     96.76%
+  79  FJ639778.1                                                                                                                      4.99%    passed     97.50%
+  80  GU131953.1                                                                                                                      4.99%    passed     99.75%
+  81  FJ373304.1                                                                                                                      4.99%    passed     96.69%
+  82  FJ639803.1                                                                                                                      4.99%    passed     95.35%
+  83  FJ639800.1                                                                                                                      4.99%    passed     96.99%
+  84  FJ639793.1                                                                                                                      4.99%    passed     97.01%
+  85  FJ639816.1                                                                                                                      4.99%    passed     96.85%
+  86  FJ639781.1                                                                                                                      4.99%    passed     99.70%
+  87  FJ639785.1                                                                                                                      4.99%    passed     99.43%
+  88  FJ639795.1                                                                                                                      4.99%    passed     98.20%
+  89  KF955481.1                                                                                                                      5.21%    passed     97.12%
+  90  GQ868586.1                                                                                                                      4.99%    passed     97.52%
+  91  HQ332170.1                                                                                                                      4.99%    passed     97.57%
+  92  HQ332171.1                                                                                                                      4.99%    passed     97.57%
+  93  FJ639825.1                                                                                                                      4.99%    passed     96.60%
+  94  EU854298.1                                                                                                                      4.99%    passed     96.46%
+  95  EU687197.1                                                                                                                      4.99%    passed     96.13%
+  96  FJ373306.1                                                                                                                      4.99%    passed     98.71%
+  97  EU529702.1                                                                                                                      4.99%    passed     99.38%
+  98  EU529705.1                                                                                                                      4.99%    passed     97.90%
+  99  FJ639817.1                                                                                                                      4.99%    passed     99.37%
+ 100  GU131951.1                                                                                                                      4.99%    passed     96.75%
+ 101  FJ898445.1                                                                                                                      4.99%    passed     97.96%
+ 102  GQ868576.1                                                                                                                      4.99%    passed     99.83%
+ 103  FJ898444.1                                                                                                                      4.99%    passed     99.83%
+ 104  GU131954.1                                                                                                                      4.99%    passed     98.13%
+ 105  GQ868577.1                                                                                                                      4.99%    passed     96.62%
+ 106  GQ868578.1                                                                                                                      4.99%    passed     96.23%
+ 107  EU932687.1                                                                                                                      4.99%    passed     93.89%
+ 108  FJ850109.1                                                                                                                      4.99%    passed     92.60%
+ 109  FJ547085.1                                                                                                                      4.99%    passed     92.92%
+ 110  FJ639826.1                                                                                                                      4.99%    passed     95.35%
+ 111  FJ639827.1                                                                                                                      4.99%    passed     95.35%
+ 112  MH450311.1                                                                                                                      4.99%    passed     89.12%
+ 113  FJ639810.1                                                                                                                      4.99%    passed     95.07%
+ 114  MH544650.1                                                                                                                      4.99%    passed     95.69%
+ 115  MH450299.1                                                                                                                      4.99%    passed     98.87%
+ 116  MH450296.1                                                                                                                      4.99%    passed     96.81%
+ 117  MH450298.1                                                                                                                      4.99%    passed     96.81%
+ 118  MH544649.1                                                                                                                      4.99%    passed     98.33%
+ 119  OQ603306.1                                                                                                                      4.99%    passed     97.85%
+ 120  OQ603307.1                                                                                                                     11.07%    passed     82.41%
+ 121  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Colombia_DELIM-EZEWPNFGGQLEONVNBOQX_2021-08-12_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00994         5.01%    passed     98.55%
+ 122  OR771119.1                                                                                                                      4.99%    passed     99.38%
+ 123  Yale-DN02322_1.DENV3                                                                                                           25.67%    passed     94.19%
+ 124  Yale-DN02585_1.DENV3                                                                                                           35.96%    passed     48.17%
+ 125  Yale-DN02502.DENV3                                                                                                              7.93%    passed     98.44%
+ 126  Yale-DN02369_1.DENV3                                                                                                           24.50%    passed     78.72%
+ 127  Yale-DN02437_1.DENV3                                                                                                           32.89%    passed     69.52%
+ 128  Yale-DN02561_1.DENV3                                                                                                            7.00%    passed     99.50%
+ 129  Yale-DN02521_1.DENV3                                                                                                           32.95%    passed     97.02%
+ 130  Yale-DN02343_1.DENV3                                                                                                            8.33%    passed     98.69%
+ 131  Yale-DN02581_1.DENV3                                                                                                            5.72%    passed     99.66%
+ 132  Yale-DN02583.DENV3                                                                                                             18.43%    passed     98.60%
+ 133  PP708039.1                                                                                                                      0.69%    passed     98.71%
+ 134  PP709305.1                                                                                                                      0.93%    passed     99.97%
+ 135  Yale-DN02335_1.DENV3                                                                                                            5.06%    passed     98.02%
+ 136  Yale-DN02381_1.DENV3                                                                                                           15.72%    passed     94.02%
+ 137  Yale-DN02477.DENV3                                                                                                             22.15%    passed     74.81%
+ 138  Yale-DN02514_1.DENV3                                                                                                            5.19%    passed     98.64%
+ 139  Yale-DN02396_1.DENV3                                                                                                           20.90%    passed     94.83%
+ 140  Yale-DN02344_1.DENV3                                                                                                           24.72%    passed     97.73%
+ 141  Yale-DN02374_1.DENV3                                                                                                            5.10%    passed     95.47%
+ 142  Yale-DN02469_1.DENV3                                                                                                            9.13%    passed     96.88%
+ 143  Yale-DN02576.DENV3                                                                                                              6.73%    passed     99.08%
+ 144  Yale-DN02586_1.DENV3                                                                                                            5.12%    passed     95.50%
+ 145  Yale-DN02341_1.DENV3                                                                                                           20.67%    passed     93.05%
+ 146  Yale-DN02433_1.DENV3                                                                                                            5.08%    passed     93.85%
+ 147  Yale-DN02564.DENV3                                                                                                              5.05%    passed     91.69%
+ 148  Yale-DN02422_1.DENV3                                                                                                            5.08%    passed     92.97%
+ 149  Yale-DN02454.DENV3                                                                                                             35.86%    passed     58.69%
+ 150  Yale-DN02482_1.DENV3                                                                                                           31.09%    passed     77.40%
+ 151  Yale-DN02411_1.DENV3                                                                                                           13.20%    passed     95.68%
+ 152  Yale-DN02462.DENV3                                                                                                              7.41%    passed     98.75%
+ 153  Yale-DN02464.DENV3                                                                                                             16.33%    passed     84.05%
+ 154  Yale-DN02539_1.DENV3                                                                                                            5.07%    passed     99.45%
+ 155  Yale-DN02580_1.DENV3                                                                                                            6.02%    passed     99.86%
+ 156  Yale-DN02415_1.DENV3                                                                                                            9.03%    passed     95.38%
+ 157  MZ008468.1                                                                                                                      4.99%    passed     99.52%
+ 158  MZ008476.1                                                                                                                      5.02%    passed     97.85%
+ 159  MZ008469.1                                                                                                                      5.02%    passed     99.78%
+ 160  MZ008471.1                                                                                                                      5.02%    passed     99.72%
+ 161  KF973478.1                                                                                                                      4.99%    passed     99.86%
+ 162  KF973482.1                                                                                                                      4.99%    passed     99.90%
+ 163  KF973480.1                                                                                                                      4.99%    passed     99.07%
+ 164  KF973486.1                                                                                                                      4.99%    passed     99.71%
+ 165  KF973477.1                                                                                                                      4.99%    passed     99.69%
+ 166  MZ008475.1                                                                                                                      5.02%    passed     99.30%
+ 167  MZ008477.1                                                                                                                      5.02%    passed     98.96%
+ 168  JF920394.1                                                                                                                      4.99%    passed     99.88%
+ 169  HM756275.1                                                                                                                      4.99%    passed     99.88%
+ 170  HQ541791.1                                                                                                                      4.99%    passed     99.74%
+ 171  GQ199861.1                                                                                                                      4.99%    passed     99.81%
+ 172  FJ873812.1                                                                                                                      4.99%    passed     99.97%
+ 173  HQ705610.1                                                                                                                      4.99%    passed     99.90%
+ 174  FJ850052.1                                                                                                                      4.99%    passed     99.89%
+ 175  KF921914.1                                                                                                                      5.90%    passed    100.00%
+ 176  HM181976.1                                                                                                                      4.99%    passed     99.15%
+ 177  JF937625.1                                                                                                                      4.99%    passed     99.65%
+ 178  GQ199870.1                                                                                                                      4.99%    passed     99.87%
+ 179  JF920406.1                                                                                                                      4.99%    passed     99.96%
+ 180  JN093515.1                                                                                                                      4.99%    passed     99.48%
+ 181  JF937638.1                                                                                                                      4.99%    passed     99.79%
+ 182  KF921924.1                                                                                                                      5.02%    passed     99.94%
+ 183  KF973485.1                                                                                                                      4.99%    passed     99.62%
+ 184  KF973479.1                                                                                                                      4.99%    passed     99.91%
+ 185  KF973476.1                                                                                                                      4.99%    passed     99.97%
+ 186  KF973487.1                                                                                                                      4.99%    passed     99.89%
+ 187  MZ008472.1                                                                                                                      5.02%    passed     99.90%
+ 188  MH888333.1                                                                                                                      4.99%    passed     99.98%
+ 189  GU131853.1                                                                                                                      4.99%    passed     99.14%
+ 190  GU131848.1                                                                                                                      4.99%    passed     98.76%
+ 191  GU131869.1                                                                                                                      4.99%    passed     98.91%
+ 192  GU131861.1                                                                                                                      4.99%    passed     99.28%
+ 193  GU131875.1                                                                                                                      4.99%    passed     99.71%
+ 194  GQ868616.1                                                                                                                      4.99%    passed     97.27%
+ 195  FJ898463.1                                                                                                                      4.99%    passed     94.26%
+ 196  DH169                                                                                                                           5.00%    passed     96.06%
+ 197  OR389032.1                                                                                                                      6.54%    passed     96.15%
+ 198  FJ898462.1                                                                                                                      4.99%    passed     98.15%
+ 199  GQ868617.1                                                                                                                      4.99%    passed     97.83%
+ 200  FJ898459.1                                                                                                                      4.99%    passed     97.83%
+ 201  FJ898464.1                                                                                                                      4.99%    passed     94.47%
+ 202  KF955473.1                                                                                                                      4.99%    passed     93.96%
+ 203  KF955505.1                                                                                                                      4.99%    passed     97.09%
+ 204  EU529691.1                                                                                                                      4.99%    passed     98.20%
+ 205  AY099337.1                                                                                                                      4.99%    passed     98.26%
+ 206  FJ547083.1                                                                                                                      4.99%    passed     98.82%
+ 207  JF808123.1                                                                                                                      4.99%    passed     99.72%
+ 208  JX669498.1                                                                                                                      4.99%    passed     98.19%
+ 209  FJ898446.1                                                                                                                      4.99%    passed     99.25%
+ 210  FJ913015.1                                                                                                                      4.99%    passed     99.30%
+ 211  JX669489.1                                                                                                                      4.99%    passed     99.60%
+ 212  JX669490.1                                                                                                                      4.99%    passed     98.73%
+ 213  JX669491.1                                                                                                                      4.99%    passed     99.02%
+ 214  JX669495.1                                                                                                                      4.99%    passed     99.64%
+ 215  EF629369.1                                                                                                                      4.99%    passed     99.87%
+ 216  JX669494.1                                                                                                                      4.99%    passed     99.88%
+ 217  JX669502.1                                                                                                                      4.99%    passed     99.93%
+ 218  EF643017.1                                                                                                                      4.99%    passed     99.08%
+ 219  JF808126.1                                                                                                                      4.99%    passed     99.56%
+ 220  JF808128.1                                                                                                                      4.99%    passed     99.55%
+ 221  EF629367.1                                                                                                                      4.99%    passed     99.10%
+ 222  EF629366.1                                                                                                                      4.99%    passed     99.69%
+ 223  JX669500.1                                                                                                                      4.99%    passed     99.75%
+ 224  JX669503.1                                                                                                                      4.99%    passed     99.93%
+ 225  JX669506.1                                                                                                                      4.99%    passed     99.92%
+ 226  JF808129.1                                                                                                                      4.99%    passed     99.28%
+ 227  JF808125.1                                                                                                                      4.99%    passed     98.59%
+ 228  JF808122.1                                                                                                                      4.99%    passed     98.63%
+ 229  GU131866.1                                                                                                                      4.99%    passed     95.76%
+ 230  JF808120.1                                                                                                                      4.99%    passed     99.98%
+ 231  JF808121.1                                                                                                                      4.99%    passed     98.55%
+ 232  GU131844.1                                                                                                                      4.99%    passed     98.90%
+ 233  FJ182006.1                                                                                                                      4.99%    passed     98.29%
+ 234  FJ182008.1                                                                                                                      4.99%    passed     98.84%
+ 235  EU529692.1                                                                                                                      4.99%    passed     97.47%
+ 236  EU482564.1                                                                                                                      4.99%    passed     98.15%
+ 237  EU529696.1                                                                                                                      4.99%    passed     97.26%
+ 238  EU482555.1                                                                                                                      4.99%    passed     97.17%
+ 239  FJ182038.1                                                                                                                      4.99%    passed     98.29%
+ 240  JF808119.1                                                                                                                      4.99%    passed     98.66%
+ 241  FJ898447.1                                                                                                                      4.99%    passed     98.99%
+ 242  FJ850086.1                                                                                                                      4.99%    passed     99.08%
+ 243  HQ235027.1                                                                                                                      4.99%    passed     99.41%
+ 244  OK605762.1                                                                                                                      4.99%    passed     99.52%
+ 245  FJ850094.1                                                                                                                      4.99%    passed     99.93%
+ 246  KT726342.1                                                                                                                      4.99%    passed     99.69%
+ 247  KT726358.1                                                                                                                      4.99%    passed     99.85%
+ 248  KT726350.1                                                                                                                      4.99%    passed     99.87%
+ 249  KT726354.1                                                                                                                      4.99%    passed     99.69%
+ 250  KT726348.1                                                                                                                      4.99%    passed     99.69%
+ 251  KT726345.1                                                                                                                      4.99%    passed     99.38%
+ 252  KT726347.1                                                                                                                      4.99%    passed     99.87%
+ 253  KT726361.1                                                                                                                      4.99%    passed     99.96%
+ 254  KT726346.1                                                                                                                      4.99%    passed     99.54%
+ 255  FJ898457.1                                                                                                                      4.99%    passed     99.25%
+ 256  OK605765.1                                                                                                                      4.99%    passed     99.59%
+ 257  KJ189260.1                                                                                                                      4.99%    passed     97.89%
+ 258  KJ189255.1                                                                                                                      9.53%    passed     94.36%
+ 259  KJ189258.1                                                                                                                      4.99%    passed     97.78%
+ 260  KJ189259.1                                                                                                                      4.99%    passed     97.53%
+ 261  FJ898458.1                                                                                                                      4.99%    passed     98.32%
+ 262  KJ189263.1                                                                                                                      4.99%    passed     97.04%
+ 263  KJ189264.1                                                                                                                      4.99%    passed     97.04%
+ 264  KJ189257.1                                                                                                                      4.99%    passed     97.95%
+ 265  KJ189265.1                                                                                                                      4.99%    passed     97.51%
+ 266  KJ189268.1                                                                                                                      4.99%    passed     97.31%
+ 267  KJ189297.1                                                                                                                      4.99%    passed     98.61%
+ 268  KJ189296.1                                                                                                                      4.99%    passed     98.15%
+ 269  KJ189294.1                                                                                                                      4.99%    passed     96.51%
+ 270  KJ189293.1                                                                                                                      4.99%    passed     94.81%
+ 271  KJ189299.1                                                                                                                      4.99%    passed     96.16%
+ 272  KJ189295.1                                                                                                                      4.99%    passed     92.71%
+ 273  KJ189279.1                                                                                                                      4.99%    passed     95.44%
+ 274  KJ189284.1                                                                                                                      4.99%    passed     94.81%
+ 275  KJ189270.1                                                                                                                      4.99%    passed     88.02%
+ 276  KJ189273.1                                                                                                                      4.99%    passed     95.73%
+ 277  KJ189282.1                                                                                                                      4.99%    passed     96.76%
+ 278  KJ189287.1                                                                                                                      4.99%    passed     94.73%
+ 279  KJ189266.1                                                                                                                      4.99%    passed     96.07%
+ 280  KJ189290.1                                                                                                                      4.99%    passed     96.13%
+ 281  KJ189291.1                                                                                                                      4.99%    passed     97.02%
+ 282  EU529703.1                                                                                                                      4.99%    passed     99.63%
+ 283  FJ024470.1                                                                                                                      4.99%    passed     99.10%
+ 284  FJ898474.1                                                                                                                      4.99%    passed     96.49%
+ 285  KJ189292.1                                                                                                                      4.99%    passed     99.17%
+ 286  EU854292.1                                                                                                                      4.99%    passed     99.95%
+ 287  FJ177308.1                                                                                                                      4.99%    passed     99.62%
+ 288  GQ199886.1                                                                                                                      4.99%    passed     99.72%
+ 289  FJ882576.1                                                                                                                      4.99%    passed     99.41%
+ 290  KU509278.1                                                                                                                      4.99%    passed     95.11%
+ 291  FJ898440.1                                                                                                                      4.99%    passed     98.70%
+ 292  FJ898441.1                                                                                                                      4.99%    passed     99.18%
+ 293  FJ898442.1                                                                                                                      4.99%    passed     99.88%
+ 294  MH544647.1                                                                                                                      4.99%    passed     99.64%
+ 295  MH544651.1                                                                                                                      4.99%    passed     99.69%
+ 296  OQ603314.1                                                                                                                      5.10%    passed     99.44%
+ 297  OQ603315.1                                                                                                                      5.04%    passed     99.70%
+ 298  OQ603312.1                                                                                                                      6.83%    passed     97.74%
+ 299  OQ603313.1                                                                                                                      6.21%    passed     96.95%
+ 300  FJ882575.1                                                                                                                      4.99%    passed     99.39%
+ 301  OK605766.1                                                                                                                      4.99%    passed     93.04%
+ 302  GQ252674.1                                                                                                                      4.99%    passed     99.74%
+ 303  OM417340.1                                                                                                                      6.53%    passed     99.74%
+ 304  OM417341.1                                                                                                                      6.57%    passed     98.60%
+ 305  FJ882574.1                                                                                                                      4.99%    passed     99.75%
+ 306  GQ199889.1                                                                                                                      4.99%    passed     99.93%
+ 307  FJ882572.1                                                                                                                      4.99%    passed     99.22%
+ 308  DH103                                                                                                                           5.05%    passed     98.83%
+ 309  DH102_AMPL                                                                                                                      6.88%    passed     99.58%
+ 310  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_USA_Florida_DELIM-EZEWPNFGGQLEONVNBOQX_2022-08-08_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00785     12.34%    passed     99.63%
+ 311  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Cuba_DELIM-EZEWPNFGGQLEONVNBOQX_2022-09-17_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00856             7.29%    passed     99.93%
+ 312  OR977068.1                                                                                                                      1.08%    passed     87.79%
+ 313  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Cuba_DELIM-EZEWPNFGGQLEONVNBOQX_2022-08-24_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00809            29.95%    passed     95.04%
+ 314  OQ868517.1                                                                                                                      4.99%    passed     99.39%
+ 315  OR771126.1                                                                                                                      4.99%    passed     99.62%
+ 316  OQ836207                                                                                                                        5.16%    passed     99.58%
+ 317  OQ445925                                                                                                                        5.14%    passed     99.94%
+ 318  OQ445959                                                                                                                        7.49%    passed     97.55%
+ 319  OQ132878.1                                                                                                                      4.99%    passed     99.67%
+ 320  OQ706226.1                                                                                                                      4.99%    passed     99.70%
+ 321  OQ706227.1                                                                                                                      4.99%    passed     99.75%
+ 322  OR821932.1                                                                                                                      4.99%    passed     99.59%
+ 323  OQ706228.1                                                                                                                      4.99%    passed     99.71%
+ 324  OR150744.1                                                                                                                      4.99%    passed     99.97%
+ 325  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Cuba_DELIM-EZEWPNFGGQLEONVNBOQX_2022-09-23_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00845            18.98%    passed     97.23%
+ 326  OR771149.1                                                                                                                      4.99%    passed     99.78%
+ 327  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Cuba_DELIM-EZEWPNFGGQLEONVNBOQX_2022-11-29_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00936             5.61%    passed     99.40%
+ 328  OQ836208                                                                                                                        5.40%    passed     99.75%
+ 329  OQ836205.1                                                                                                                      5.13%    passed     99.57%
+ 330  OQ445939                                                                                                                        5.33%    passed     98.99%
+ 331  OQ445922                                                                                                                        5.38%    passed     99.80%
+ 332  OR771120.1                                                                                                                      4.99%    passed     99.70%
+ 333  OQ836211.1                                                                                                                      6.71%    passed     96.88%
+ 334  OR771177.1                                                                                                                      7.28%    passed     98.30%
+ 335  OR771190.1                                                                                                                      4.99%    passed     99.71%
+ 336  OR821955.1                                                                                                                      4.99%    passed     99.46%
+ 337  PP708038.1                                                                                                                      1.47%    passed     92.03%
+ 338  OR150754.1                                                                                                                      4.99%    passed     99.91%
+ 339  OR771150.1                                                                                                                      4.99%    passed     99.82%
+ 340  OR771141.1                                                                                                                      4.99%    passed     99.81%
+ 341  OR771186.1                                                                                                                      4.99%    passed     99.71%
+ 342  OR977078.1                                                                                                                      1.26%    passed     92.89%
+ 343  PP709294.1                                                                                                                      1.51%    passed     89.43%
+ 344  OR977096.1                                                                                                                      0.70%    passed     92.83%
+ 345  PP709321.1                                                                                                                      0.70%    passed     89.17%
+ 346  PP709323.1                                                                                                                      0.40%    passed     90.07%
+ 347  PP709303.1                                                                                                                      1.73%    passed     92.06%
+ 348  PP709302.1                                                                                                                      1.76%    passed     94.36%
+ 349  PP708028.1                                                                                                                      1.51%    passed     93.21%
+ 350  PP709295.1                                                                                                                      1.08%    passed     87.79%
+ 351  PP708031.1                                                                                                                      1.05%    passed     84.28%
+ 352  PP709299.1                                                                                                                      1.08%    passed     86.96%
+ 353  PP709308.1                                                                                                                      1.32%    passed     90.23%
+ 354  OR977074.1                                                                                                                      1.84%    passed     84.84%
+ 355  OR574470.1                                                                                                                      5.02%    passed     99.99%
+ 356  PP709304.1                                                                                                                      1.45%    passed     92.72%
+ 357  PP692459.1                                                                                                                      1.51%    passed     92.58%
+ 358  PP692461.1                                                                                                                      1.39%    passed     85.79%
+ 359  OQ445933                                                                                                                        7.81%    passed     97.54%
+ 360  OR771172.1                                                                                                                      4.99%    passed     99.74%
+ 361  OQ836210.1                                                                                                                      7.09%    passed     96.48%
+ 362  PP709322.1                                                                                                                      0.70%    passed     81.56%
+ 363  OR977091.1                                                                                                                      0.37%    passed     87.53%
+ 364  PP708030.1                                                                                                                      1.51%    passed     92.43%
+ 365  PP708029.1                                                                                                                      3.15%    passed     87.77%
+ 366  PP563771.1                                                                                                                      0.01%    passed     78.52%
+ 367  OQ836209                                                                                                                        8.60%    passed     99.20%
+ 368  OR977070.1                                                                                                                      3.00%    passed     90.98%
+ 369  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2016-07-27_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN01052          8.52%    passed     95.76%
+ 370  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2016-06-11_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00296         17.55%    passed     93.50%
+ 371  MN018385.1                                                                                                                      4.99%    passed     99.97%
+ 372  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2016-09-12_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00053          8.14%    passed     96.59%
+ 373  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2019-11-06_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00711          5.04%    passed    100.00%
+ 374  OQ821609.1                                                                                                                      5.04%    passed    100.00%
+ 375  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2019-08-12_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00584         12.88%    passed     99.48%
+ 376  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2019-10-19_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00761         16.67%    passed     98.81%
+ 377  ON123658.1                                                                                                                      5.10%    passed     99.15%
+ 378  OQ714408.1                                                                                                                      0.49%    passed     78.07%
+ 379  ON890789.1                                                                                                                      4.99%    passed     99.97%
+ 380  OP895929.1                                                                                                                      4.99%    passed     99.93%
+ 381  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_St._Lucia_DELIM-EZEWPNFGGQLEONVNBOQX_2020-11-07_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00985        7.59%    passed     97.69%
+ 382  OR229980.1                                                                                                                      4.99%    passed     99.99%
+ 383  OR229981.1                                                                                                                      4.99%    passed     99.94%
+ 384  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2019-02-01_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00490-2       28.61%    passed     88.10%
+ 385  ON891145.1                                                                                                                      4.99%    passed     99.90%
+ 386  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2020-01-17_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN01009         20.25%    passed     91.73%
+ 387  MN253124.1                                                                                                                      5.10%    passed     99.61%
+ 388  KX380842.1                                                                                                                      4.99%    passed     99.00%
+ 389  MZ857217.1                                                                                                                      5.07%    passed     97.95%
+ 390  MN253128.1                                                                                                                      4.99%    passed     98.94%
+ 391  OM865795.1                                                                                                                      4.99%    passed     98.85%
+ 392  OM638675.1                                                                                                                      4.99%    passed     99.15%
+ 393  EHIE46028Y19                                                                                                                    4.98%    passed     96.79%
+ 394  OQ721960.1                                                                                                                      4.99%    passed     99.56%
+ 395  ON123655.1                                                                                                                      5.11%    passed     96.99%
+ 396  KF041257.1                                                                                                                      4.99%    passed     99.61%
+ 397  KF041258.1                                                                                                                      4.99%    passed     99.53%
+ 398  KF041254.1                                                                                                                      4.99%    passed     99.98%
+ 399  KF041255.1                                                                                                                      4.99%    passed     99.87%
+ 400  MW192822.1                                                                                                                      5.38%    passed     99.12%
+ 401  AY770511.2                                                                                                                      4.99%    passed     99.23%
+ 402  GQ466079.1                                                                                                                      4.99%    passed     98.90%
+ 403  FJ644564.1                                                                                                                      4.99%    passed     99.12%
+ 404  MW946815.1                                                                                                                      4.99%    passed     99.81%
+ 405  JQ922556.1                                                                                                                      4.99%    passed     98.42%
+ 406  MW946839.1                                                                                                                      5.01%    passed     99.17%
+ 407  MW946778.1                                                                                                                      4.99%    passed     99.49%
+ 408  OR389033.1                                                                                                                      5.00%    passed     99.67%
+ 409  MW946775.1                                                                                                                      4.99%    passed     98.67%
+ 410  MN453624.1                                                                                                                      4.99%    passed     99.94%
+ 411  EHIE15095Y15                                                                                                                    4.99%    passed     99.70%
+ 412  EHIE8901Y18                                                                                                                     4.99%    passed     99.88%
+ 413  EHIE21409Y22                                                                                                                    4.98%    passed     99.87%
+ 414  KU216208.1                                                                                                                      4.99%    passed     99.13%
+ 415  LC379195.1                                                                                                                      4.99%    passed     95.64%
+ 416  LC379197.1                                                                                                                      4.99%    passed     93.27%
+ 417  GU363549.1                                                                                                                      4.99%    passed     98.09%
+ 418  KU509282.1                                                                                                                      4.99%    passed     98.90%
+ 419  MW288031.1                                                                                                                      4.99%    passed     96.11%
+ 420  MT261974.1                                                                                                                      6.52%    passed     98.21%
+ 421  ON908232.1                                                                                                                      4.99%    passed     98.40%
+ 422  OR229983.1                                                                                                                      4.99%    passed     98.90%
+ 423  OR389035.1                                                                                                                      5.02%    passed     99.48%
+ 424  KU509286.1                                                                                                                      4.99%    passed     98.48%
+ 425  MZ857204.1                                                                                                                      5.02%    passed     99.18%
+ 426  KU509281.1                                                                                                                      4.99%    passed     97.11%
+ 427  KX855927.1                                                                                                                      5.01%    passed     99.87%
+ 428  KY586819.1                                                                                                                      7.19%    passed     96.44%
+ 429  PP563871.1                                                                                                                      1.90%    passed     96.61%
+ 430  Chad_Dengue_Sample07_v2_DELIM-EZEWPNFGGQLEONVNBOQX_ARTIC_DELIM-EZEWPNFGGQLEONVNBOQX_medaka                                     22.72%    passed     77.26%
+ 431  DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_USA_Florida_DELIM-EZEWPNFGGQLEONVNBOQX_2014-07-02_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00345-1    6.46%    passed     85.54%
+ 432  MH051732.1                                                                                                                      4.99%    passed     94.02%
+ 433  KY863456.1                                                                                                                      4.99%    passed     93.81%
+ 434  AY858042.2                                                                                                                      4.99%    passed     98.72%
+ 435  MT921575.1                                                                                                                      4.99%    passed     94.29%
+ 436  KY794786.1                                                                                                                      4.99%    passed     97.52%
+ 437  KY794787.1                                                                                                                      4.99%    passed     98.62%
+ 438  KY794789.1                                                                                                                      4.99%    passed     98.52%
+ 439  KC762693.1                                                                                                                      4.99%    passed     99.46%
+ 440  MN083245.1                                                                                                                      4.99%    passed     85.12%
+ 441  JN406515.1                                                                                                                      4.99%    passed     85.12%
+ 442  MN018383.1                                                                                                                      4.99%    passed     99.17%
+ 443  MW720889.1                                                                                                                      4.99%    passed     82.10%
+ 444  MW788902.1                                                                                                                      4.99%    passed     92.27%
+ 445  MT006169.1                                                                                                                      5.72%    passed     78.35%
+ 446  OR394052.1                                                                                                                      4.99%    passed     77.27%
+ 447  OR393987.1                                                                                                                      4.99%    passed     80.86%
+ 448  OQ103114.1                                                                                                                     22.98%    passed     69.46%
+ 449  OQ103123.1                                                                                                                     22.98%    passed     73.37%
+ 450  MH823209.1                                                                                                                      4.99%    passed     84.44%
+ 451  KY921906.1                                                                                                                      4.99%    passed     85.25%
+ 452  MK894338.1                                                                                                                      4.99%    passed     75.27%
+ 453  ON908238.1                                                                                                                      4.99%    passed     75.27%
+ 454  LC436676.1                                                                                                                      4.99%    passed     96.24%
+ 455  LC436677.1                                                                                                                      4.99%    passed     98.52%
+ 456  MN018388.1                                                                                                                      5.01%    passed     96.65%
+ 457  OK079104.1                                                                                                                      5.56%    passed     99.13%
+ 458  OR821935.1                                                                                                                      6.50%    passed     99.85%
+ 459  MW396467.1                                                                                                                      4.99%    passed     94.96%
+ 460  KX380840.1                                                                                                                      4.99%    passed     88.70%
+ 461  MW946691.1                                                                                                                      5.00%    passed     99.89%
+ 462  FJ898456.1                                                                                                                      4.99%    passed     99.83%
+ 463  JQ920476.1                                                                                                                      4.99%    passed     99.82%
+ 464  JQ920481.1                                                                                                                      4.99%    passed     99.61%
+ 465  JQ920487.1                                                                                                                      4.99%    passed     99.50%
+ 466  AY744680.1                                                                                                                      4.99%    passed     99.80%
+ 467  AY744677.1                                                                                                                      4.99%    passed     99.63%
+ 468  FJ898455.1                                                                                                                      4.99%    passed     99.64%
+ 469  AY744683.1                                                                                                                      4.99%    passed     99.77%
+ 470  AY744679.1                                                                                                                      4.99%    passed     99.30%
+ 471  JQ920477.1                                                                                                                      4.99%    passed     99.88%
+ 472  JQ920478.1                                                                                                                      4.99%    passed     99.86%
+ 473  AY744685.1                                                                                                                      4.99%    passed     99.97%
+ 474  JQ920483.1                                                                                                                      4.99%    passed    100.00%
+ 475  JQ920489.1                                                                                                                      4.99%    passed     99.99%
+ 476  JQ920486.1                                                                                                                      4.99%    passed     99.94%
+ 477  JQ920480.1                                                                                                                      4.99%    passed     99.99%
+ 478  AY648961.1                                                                                                                      4.99%    passed     99.93%
+ 479  AY858038.2                                                                                                                      4.99%    passed     89.71%
+ 480  OK605763.1                                                                                                                      5.00%    passed     85.77%
+ 481  OR389343.1                                                                                                                      5.04%    passed     88.02%
+ 482  DH106r                                                                                                                          4.99%    passed     96.65%
+ 483  DH105                                                                                                                           5.00%    passed     96.31%
+ 484  MF004386.1                                                                                                                      4.99%    passed     56.20%
+ 485  KC762683.1                                                                                                                      4.99%    passed     89.65%
+ 486  KC762689.1                                                                                                                      4.99%    passed     67.65%
+ 487  AB214881.1                                                                                                                      4.99%    passed     98.26%
+ 488  DQ675519.1                                                                                                                      4.99%    passed     91.33%
+ 489  KU509279.1                                                                                                                      4.99%    passed     96.28%
+ 490  MT921574.1                                                                                                                      4.99%    passed     99.69%
+ 491  OR618323.1                                                                                                                      1.20%    passed     64.68%
+ 492  PP234923.1                                                                                                                      0.48%    passed     80.02%
+ 493  PP234925.1                                                                                                                      0.48%    passed     61.42%
+ 494  OR618322.1                                                                                                                      1.20%    passed     44.39%
+ 495  EU660407.1                                                                                                                      4.99%    passed     98.29%
+ 496  FJ432741.1                                                                                                                      4.99%    passed     98.46%
+ 497  FJ547066.1                                                                                                                      4.99%    passed     99.26%
+ 498  PP269951.1                                                                                                                      1.32%    passed     91.61%
+ 499  JQ045689.1                                                                                                                      4.99%    passed     97.81%
+ 500  PP269945.1                                                                                                                      6.14%    passed     90.03%
+ 501  PP269953.1                                                                                                                     12.78%    passed     99.21%
+ 502  PP269971.1                                                                                                                      1.21%    passed     98.78%
+ 503  PP269976.1                                                                                                                      1.08%    passed     99.01%
+ 504  DQ675528.1                                                                                                                      4.99%    passed     99.41%
+ 505  MW946965.1                                                                                                                      4.99%    passed     99.86%
+ 506  KC261634.1                                                                                                                      4.99%    passed     99.57%
+ 507  OR236120.1                                                                                                                      2.37%    passed     93.97%
+ 508  MW946735.1                                                                                                                      5.01%    passed     99.69%
+ 509  MW946743.1                                                                                                                      4.99%    passed     99.36%
+ 510  KY586781.1                                                                                                                      4.99%    passed     99.52%
+ 511  MW946784.1                                                                                                                      4.99%    passed     98.47%
+ 512  KY586783.1                                                                                                                      4.99%    passed     98.45%
+ 513  KU509284.1                                                                                                                      4.99%    passed     99.55%
+ 514  JN406514.1                                                                                                                      4.99%    passed     94.97%
+ 515  GQ868629.1                                                                                                                      4.99%    passed     99.24%
+ 516  FJ639725.1                                                                                                                      4.99%    passed     98.87%
+ 517  GU131911.1                                                                                                                      4.99%    passed     98.22%
+ 518  FJ639726.1                                                                                                                      4.99%    passed     96.03%
+ 519  KF955461.1                                                                                                                      4.99%    passed     98.16%
+ 520  KY670634.1                                                                                                                      4.99%    passed     98.91%
+ 521  GU131934.1                                                                                                                      4.99%    passed     97.31%
+ 522  EU367962.1                                                                                                                      5.00%    passed     99.36%
+ 523  FJ639716.1                                                                                                                      4.99%    passed     99.28%
+ 524  MW946790.1                                                                                                                      4.99%    passed     98.48%
+ 525  MW946819.1                                                                                                                      4.99%    passed     98.68%
+ 526  MW946636.1                                                                                                                      4.99%    passed     97.52%
+ 527  KY586764.1                                                                                                                      4.99%    passed     98.14%
+ 528  FJ639719.1                                                                                                                      4.99%    passed     99.56%
+ 529  FJ639722.1                                                                                                                      4.99%    passed     98.79%
+ 530  GQ868626.1                                                                                                                      4.99%    passed     99.99%
+ 531  MZ857226.1                                                                                                                      5.02%    passed     99.33%
+ 532  AY676350.1                                                                                                                      4.99%    passed     99.36%
+ 533  FJ810413.1                                                                                                                      4.99%    passed     97.78%
+ 534  KJ737430.1                                                                                                                      4.99%    passed     99.85%
+ 535  AY676353.1                                                                                                                      4.99%    passed     99.76%
+ 536  OK469353.1                                                                                                                      4.99%    passed     99.27%
+ 537  DH110                                                                                                                           4.99%    passed     99.98%
+ 538  OK469354.1                                                                                                                      5.01%    passed     99.91%
+ 539  DH109                                                                                                                           4.99%    passed     99.55%
+ 540  OR389342.1                                                                                                                      5.00%    passed     99.58%
+ 541  MW946825.1                                                                                                                      5.00%    passed     95.20%
+ 542  MW946791.1                                                                                                                      4.99%    passed     99.12%
+ 543  MW946972.1                                                                                                                      4.99%    passed     96.48%
+ 544  KY849761.1                                                                                                                      4.99%    passed     98.23%
+ 545  KR296743.1                                                                                                                      4.99%    passed     99.21%
+ 546  MW946829.1                                                                                                                      5.00%    passed     85.85%
+ 547  AY496874.2                                                                                                                      4.99%    passed     97.84%
+ 548  KY586811.1                                                                                                                      5.88%    passed     96.11%
+ 549  DQ675520.1                                                                                                                      4.99%    passed     99.22%
+ 550  AY766104.1                                                                                                                      4.99%    passed     99.77%
+ 551  KF955477.1                                                                                                                      4.99%    passed     99.44%
+ 552  GQ868593.1                                                                                                                      4.99%    passed     99.44%
+ 553  OK469355.1                                                                                                                      4.99%    passed     99.90%
+ 554  OK469356.1                                                                                                                      5.00%    passed     99.97%
+ 555  DQ401690.1                                                                                                                      4.99%    passed     85.29%
+ 556  AY496879.2                                                                                                                      4.99%    passed     68.69%
+ 557  MT076948.1                                                                                                                      4.99%    passed     93.03%
+ 558  KM190937.1                                                                                                                      4.99%    passed     95.82%
+ 559  MK506265.1                                                                                                                      4.99%    passed     98.52%
+ 560  JN697379.1                                                                                                                      4.99%    passed     99.02%
+ 561  M93130.1                                                                                                                        4.99%    passed     99.82%
+****  TOTAL                                                                                                                           5.79%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: LT996905.1 is identical to LT996904.1 but kept for subsequent analysis
+NOTE: GQ199891.1 is identical to GU131950.1 but kept for subsequent analysis
+NOTE: HQ332171.1 is identical to HQ332170.1 but kept for subsequent analysis
+NOTE: FJ898444.1 is identical to GQ868576.1 but kept for subsequent analysis
+NOTE: FJ639827.1 is identical to FJ639826.1 but kept for subsequent analysis
+NOTE: MH450298.1 is identical to MH450296.1 but kept for subsequent analysis
+NOTE: HM756275.1 is identical to JF920394.1 but kept for subsequent analysis
+NOTE: FJ898459.1 is identical to GQ868617.1 but kept for subsequent analysis
+NOTE: KJ189264.1 is identical to KJ189263.1 but kept for subsequent analysis
+NOTE: OQ821609.1 is identical to DENV3_DELIM-EZEWPNFGGQLEONVNBOQX_Jamaica_DELIM-EZEWPNFGGQLEONVNBOQX_2019-11-06_DELIM-EZEWPNFGGQLEONVNBOQX_Yale-DN00711 but kept for subsequent analysis
+NOTE: JN406515.1 is identical to MN083245.1 but kept for subsequent analysis
+NOTE: ON908238.1 is identical to MK894338.1 but kept for subsequent analysis
+NOTE: GQ868593.1 is identical to KF955477.1 but kept for subsequent analysis
+NOTE: 2 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: LT996910.1 (identical to LT996904.1) is ignored but added at the end
+NOTE: LT996912.1 (identical to LT996904.1) is ignored but added at the end
+Alignment was printed to results/aligned-delim.fasta.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to results/aligned-delim.fasta.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 2.075 seconds
+
+NOTE: 93 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 1 CPU cores
+2 trees examined
+Threads: 1 / Time: 8.299 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -797414
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.500)
+1. Initial log-likelihood: -153328.360
+2. Current log-likelihood: -140556.631
+3. Current log-likelihood: -137894.089
+Optimal log-likelihood: -137893.675
+Rate parameters:  A-C: 1.48781  A-G: 14.51837  A-T: 2.20401  C-G: 0.64533  C-T: 48.23966  G-T: 1.00000
+Base frequencies:  A: 0.323  C: 0.204  G: 0.259  T: 0.214
+Parameters optimization took 3 rounds (97.487 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 14.856047 sec (of wall-clock time) 14.854918 sec(of CPU time)
+Computing RapidNJ tree took 0.072608 sec (of wall-clock time) 0.138682 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -139073.807
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -137853.782
+Finish initializing candidate tree set (4)
+Current best tree score: -137853.782 / CPU time: 119.616
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:4m:24s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -137853.782
+Optimal log-likelihood: -137853.778
+Rate parameters:  A-C: 1.48246  A-G: 14.51596  A-T: 2.19653  C-G: 0.64502  C-T: 48.24144  G-T: 1.00000
+Base frequencies:  A: 0.323  C: 0.204  G: 0.259  T: 0.214
+Parameters optimization took 1 rounds (10.368 sec)
+BEST SCORE FOUND : -137853.778
+Total tree length: 1.750
+
+Total number of iterations: 2
+CPU time used for tree search: 119.637 sec (0h:1m:59s)
+Wall-clock time used for tree search: 119.641 sec (0h:1m:59s)
+Total CPU time used: 275.349 sec (0h:4m:35s)
+Total wall-clock time used: 275.291 sec (0h:4m:35s)
+
+Analysis results written to: 
+  IQ-TREE report:                results/aligned-delim.fasta.iqtree
+  Maximum-likelihood tree:       results/aligned-delim.fasta.treefile
+  Likelihood distances:          results/aligned-delim.fasta.mldist
+  Screen log file:               results/aligned-delim.fasta.log
+
+Date and Time: Thu Jun 13 15:40:00 2024

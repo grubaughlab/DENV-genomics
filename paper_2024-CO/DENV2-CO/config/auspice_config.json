@@ -1,0 +1,69 @@
+{
+  "title": "Dengue-2 Genomic Surveillance",
+  "maintainers": [
+    {"name": "Grubaugh Lab", "url": "https://grubaughlab.com/"}
+  ],
+  "build_url": "https://github.com/grubaughlab/DENV-genomics",
+  "colorings": [
+    {
+      "key": "Lineage",
+      "title": "Lineage",
+      "type": "categorical"
+    },
+    {
+      "key": "Sero_Geno",
+      "title": "Sero-Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "Region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "Location",
+      "title": "Location",
+      "type": "categorical"
+    },
+    {
+      "key": "gt",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "num_date",
+      "title": "Date",
+      "type": "continuous"
+    },
+    {
+      "key": "Sample_Source",
+      "title": "Sample Source",
+      "type": "categorical"
+    },
+    {
+      "key": "Data_Source",
+      "title": "Data Source",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "Location"
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "display_defaults": {
+    "map_triplicate": true,
+    "color_by": "Lineage"
+  },
+  "filters": [
+    "Region",
+    "Location",
+    "Lineage",
+    "Sero_Geno",
+    "Data_Source",
+    "Sample_Source"
+  ]
+}

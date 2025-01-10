@@ -1,0 +1,42 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job stats:
+job          count
+---------  -------
+align            1
+all              1
+ancestral        1
+export           1
+filter           1
+refine           1
+traits           1
+translate        1
+tree             1
+total            9
+
+Select jobs to execute...
+
+[Fri Mar 22 19:58:41 2024]
+Job 5: 
+        Filtering to
+          - 5 sequence(s) per Location year
+        
+Reason: Missing output files: results/filtered.fasta
+
+
+        augur filter             --sequences data/sequences.fasta             --sequence-index results/sequence_index.tsv             --metadata data/metadata.tsv             --output results/filtered.fasta             --group-by Location year             --sequences-per-group 5         
+[Fri Mar 22 19:58:41 2024]
+Error in rule filter:
+    jobid: 5
+    input: data/sequences.fasta, results/sequence_index.tsv, data/metadata.tsv
+    output: results/filtered.fasta
+    shell:
+        
+        augur filter             --sequences data/sequences.fasta             --sequence-index results/sequence_index.tsv             --metadata data/metadata.tsv             --output results/filtered.fasta             --group-by Location year             --sequences-per-group 5         
+        (one of the commands exited with non-zero exit code; note that snakemake uses bash strict mode!)
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-22T195841.188011.snakemake.log
